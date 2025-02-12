@@ -1,0 +1,469 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "1af65040-ad8d-4212-a25d-67dbb60d3c8a")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 80.01 97.79)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "03ffb809-69e0-40ea-a014-511730b29694")
+		(property "Sheetname" "011"
+			(at 80.01 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "011.kicad_sch"
+			(at 80.01 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pocketbeagle2-kicad"
+				(path "/1af65040-ad8d-4212-a25d-67dbb60d3c8a"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 115.57)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "405e26ae-1239-4542-a839-01f61bb3b6cb")
+		(property "Sheetname" "013"
+			(at 80.01 114.8584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "013.kicad_sch"
+			(at 80.01 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pocketbeagle2-kicad"
+				(path "/1af65040-ad8d-4212-a25d-67dbb60d3c8a"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 62.23)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4f76cb85-deb0-4150-9806-69d7ec16874e")
+		(property "Sheetname" "007"
+			(at 80.01 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "007.kicad_sch"
+			(at 80.01 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pocketbeagle2-kicad"
+				(path "/1af65040-ad8d-4212-a25d-67dbb60d3c8a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 80.01)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "63a3f759-2c81-4c18-83d2-e45c6e97509b")
+		(property "Sheetname" "009"
+			(at 80.01 79.2984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "009.kicad_sch"
+			(at 80.01 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pocketbeagle2-kicad"
+				(path "/1af65040-ad8d-4212-a25d-67dbb60d3c8a"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 88.9)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6eca49e8-5f77-4720-8cd5-9b0687767668")
+		(property "Sheetname" "010"
+			(at 80.01 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "010.kicad_sch"
+			(at 80.01 93.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pocketbeagle2-kicad"
+				(path "/1af65040-ad8d-4212-a25d-67dbb60d3c8a"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 71.12)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "85338fda-3c6e-4449-8720-35f494a9b203")
+		(property "Sheetname" "008"
+			(at 80.01 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "008.kicad_sch"
+			(at 80.01 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pocketbeagle2-kicad"
+				(path "/1af65040-ad8d-4212-a25d-67dbb60d3c8a"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 44.45)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b24bea38-c11c-4424-bb41-7b31ae4a131e")
+		(property "Sheetname" "005"
+			(at 80.01 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "005.kicad_sch"
+			(at 80.01 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pocketbeagle2-kicad"
+				(path "/1af65040-ad8d-4212-a25d-67dbb60d3c8a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 133.35)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b483b47f-c440-4ea4-a363-ed4d010af64c")
+		(property "Sheetname" "015"
+			(at 80.01 132.6384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "015.kicad_sch"
+			(at 80.01 137.7446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pocketbeagle2-kicad"
+				(path "/1af65040-ad8d-4212-a25d-67dbb60d3c8a"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 142.24)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d7f5b43d-f756-4ab1-83f5-5e088daf8503")
+		(property "Sheetname" "016"
+			(at 80.01 141.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "016.kicad_sch"
+			(at 80.01 146.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pocketbeagle2-kicad"
+				(path "/1af65040-ad8d-4212-a25d-67dbb60d3c8a"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 124.46)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e23ede1b-f96b-4a35-9315-2e6ae36c0d0e")
+		(property "Sheetname" "014"
+			(at 80.01 123.7484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "014.kicad_sch"
+			(at 80.01 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pocketbeagle2-kicad"
+				(path "/1af65040-ad8d-4212-a25d-67dbb60d3c8a"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 53.34)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e49cbf18-24e8-4406-99e9-e19ce0343315")
+		(property "Sheetname" "006"
+			(at 80.01 52.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "006.kicad_sch"
+			(at 80.01 57.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pocketbeagle2-kicad"
+				(path "/1af65040-ad8d-4212-a25d-67dbb60d3c8a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 106.68)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ebfe340c-5499-4529-8000-92ad0a5957f2")
+		(property "Sheetname" "012"
+			(at 80.01 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "012.kicad_sch"
+			(at 80.01 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pocketbeagle2-kicad"
+				(path "/1af65040-ad8d-4212-a25d-67dbb60d3c8a"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

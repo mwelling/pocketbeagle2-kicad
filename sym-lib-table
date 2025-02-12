@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "pocketbeagle2-kicad-altium-import")(type "KiCad")(uri "${KIPRJMOD}/pocketbeagle2-kicad-altium-import.kicad_sym")(options "")(descr ""))
+)
