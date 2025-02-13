@@ -14150,7 +14150,7 @@
 		(uuid "0ba9af2a-bde8-4918-8c31-ba6e10dcbeaa")
 	)
 	(junction
-		(at 398.78 231.14)
+		(at 389.89 223.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0e55a9f3-c619-4a92-a694-edae2205ea89")
@@ -14174,13 +14174,13 @@
 		(uuid "10a1d031-b22f-4be6-a4be-ee525111f050")
 	)
 	(junction
-		(at 337.82 251.46)
+		(at 328.93 243.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "124d07f3-656f-4701-9046-bc9387f3aab1")
 	)
 	(junction
-		(at 251.46 187.96)
+		(at 242.57 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "17450a2a-91ce-4e8e-a0d9-ae4b606bca28")
@@ -14192,7 +14192,7 @@
 		(uuid "19c9567e-71b2-4238-9d66-dbc5faa433a8")
 	)
 	(junction
-		(at 264.16 254)
+		(at 255.27 246.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1d90684d-7382-4772-8387-30cc6609d9ed")
@@ -14210,7 +14210,7 @@
 		(uuid "24fd367b-4ce7-4c0f-8076-cc5b076e76d4")
 	)
 	(junction
-		(at 276.86 187.96)
+		(at 267.97 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "25a3b342-c6ec-4432-8932-e7ce87318a76")
@@ -14228,7 +14228,7 @@
 		(uuid "26e72554-f839-425a-b4dc-2d7236a95480")
 	)
 	(junction
-		(at 325.12 220.98)
+		(at 316.23 213.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2727e050-38bb-4c69-b8cd-9ab3774681d1")
@@ -14240,7 +14240,7 @@
 		(uuid "2e4df79a-3be9-46ea-b172-15df628ea54a")
 	)
 	(junction
-		(at 276.86 254)
+		(at 267.97 246.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2eb6845e-e91e-44b5-bbcb-59539ae176d0")
@@ -14258,7 +14258,7 @@
 		(uuid "317ea777-aa58-47ce-8523-05d1b7c5b77e")
 	)
 	(junction
-		(at 251.46 254)
+		(at 242.57 246.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "32256ac2-3c89-431c-a466-4cc65a3091f9")
@@ -14282,7 +14282,7 @@
 		(uuid "3f4e5ade-4849-4126-984d-ea5378d1dabc")
 	)
 	(junction
-		(at 325.12 251.46)
+		(at 316.23 243.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "40b445ae-a81b-41f1-a4a1-403e397cd2b8")
@@ -14300,13 +14300,13 @@
 		(uuid "465c25e8-a10a-4104-97e4-0c897a414089")
 	)
 	(junction
-		(at 264.16 187.96)
+		(at 255.27 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "48718251-8000-4a2f-8601-f5f891532eb7")
 	)
 	(junction
-		(at 302.26 254)
+		(at 293.37 246.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4b223db5-68d7-4952-beec-e1c8e77594a1")
@@ -14336,7 +14336,7 @@
 		(uuid "627fd4ce-5c20-4ef4-b20d-6a4039a5a389")
 	)
 	(junction
-		(at 398.78 226.06)
+		(at 389.89 218.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "68e1b65f-9e4f-4f96-b81b-94053de16438")
@@ -14372,7 +14372,7 @@
 		(uuid "92c04fcb-c9fa-4ce3-8eb2-0fca618b0a90")
 	)
 	(junction
-		(at 289.56 254)
+		(at 280.67 246.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95bef27b-964c-40ff-b335-99c3b8ff3b32")
@@ -14384,7 +14384,7 @@
 		(uuid "99f65074-3d4a-40f7-a898-f1bc0096b4db")
 	)
 	(junction
-		(at 350.52 251.46)
+		(at 341.63 243.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a60ddd3d-c9a1-4fab-98f4-2b0324847fc7")
@@ -14438,7 +14438,7 @@
 		(uuid "bc6bec15-ebbc-4572-a5fe-05ea1f42b2f8")
 	)
 	(junction
-		(at 312.42 220.98)
+		(at 303.53 213.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bfd07277-69c4-436f-a8ac-5da04702066c")
@@ -14450,7 +14450,7 @@
 		(uuid "c1193558-fa0a-4ad3-bff0-39049efa1b2f")
 	)
 	(junction
-		(at 238.76 187.96)
+		(at 229.87 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c195b58c-3424-4b85-9599-3a4d7e2816ec")
@@ -14468,7 +14468,7 @@
 		(uuid "c287bee8-ae6f-4d6c-a352-67a89a7a916e")
 	)
 	(junction
-		(at 337.82 220.98)
+		(at 328.93 213.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ca521b19-78b1-4622-bbcd-4cac72c18a74")
@@ -14480,7 +14480,7 @@
 		(uuid "cb51bcae-7030-4701-907f-f02836ef88d1")
 	)
 	(junction
-		(at 251.46 215.9)
+		(at 242.57 208.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cbc75453-c9dd-4300-9b8f-876b4399623c")
@@ -14522,13 +14522,13 @@
 		(uuid "e4c1989b-c2e8-4c70-aca2-61646a252287")
 	)
 	(junction
-		(at 398.78 228.6)
+		(at 389.89 220.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e4fe5f1b-f73e-4b51-b168-131e77ff2708")
 	)
 	(junction
-		(at 238.76 254)
+		(at 229.87 246.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e5250a11-c832-43a7-bef1-5a55cdceed69")
@@ -14558,13 +14558,13 @@
 		(uuid "f1f5269d-a35c-47f3-965c-b430228eb649")
 	)
 	(junction
-		(at 226.06 205.74)
+		(at 217.17 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f3f64b71-6633-496f-aaa3-77fe293847db")
 	)
 	(junction
-		(at 289.56 187.96)
+		(at 280.67 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f7ad74b6-53af-4b1e-b06b-e700e85b8d5b")
@@ -14574,111 +14574,71 @@
 		(uuid "00ad4cb6-5da6-4c19-93fc-c67cc1060876")
 	)
 	(no_connect
-		(at 403.86 27.94)
+		(at 402.59 36.83)
 		(uuid "025b02de-739d-4879-bf4f-a4edba5eb075")
 	)
 	(no_connect
-		(at 363.22 137.16)
+		(at 361.95 146.05)
 		(uuid "036a29eb-d853-404c-8fc2-ed99f05d5344")
-	)
-	(no_connect
-		(at 200.66 30.48)
-		(uuid "042017db-c7ad-4c37-bc10-132e160d95bd")
 	)
 	(no_connect
 		(at 317.5 134.62)
 		(uuid "047305c4-64a4-4763-bbe7-728366e49e9e")
 	)
 	(no_connect
-		(at 180.34 30.48)
-		(uuid "05441d23-0234-465c-ba08-844067f3f4fd")
-	)
-	(no_connect
 		(at 142.24 226.06)
 		(uuid "0707c90f-7faf-4b4b-8466-3e20577ebf82")
 	)
 	(no_connect
-		(at 403.86 73.66)
+		(at 402.59 82.55)
 		(uuid "07fc530f-6c9a-4231-8fcd-141f938c00e0")
 	)
 	(no_connect
-		(at 190.5 30.48)
-		(uuid "0808ea6c-7b72-45ea-82cb-58bce2f5381d")
-	)
-	(no_connect
-		(at 363.22 45.72)
+		(at 361.95 54.61)
 		(uuid "0f8aaa61-41c9-4081-9926-c0c5a7ea623e")
 	)
 	(no_connect
-		(at 363.22 96.52)
+		(at 361.95 105.41)
 		(uuid "1383bdd3-8791-409b-a2d5-02b038fcb507")
 	)
 	(no_connect
-		(at 104.14 78.74)
-		(uuid "149e12a7-07f6-4250-815c-e452a9f76c45")
-	)
-	(no_connect
-		(at 403.86 104.14)
+		(at 402.59 113.03)
 		(uuid "168ba1cf-ed14-405a-83b7-b12eafa380d9")
 	)
 	(no_connect
-		(at 363.22 55.88)
+		(at 361.95 64.77)
 		(uuid "18364a8a-1e54-488b-9f91-85003ce5f54e")
-	)
-	(no_connect
-		(at 223.52 30.48)
-		(uuid "1a48f6ac-f608-45c7-b50f-2354de431114")
-	)
-	(no_connect
-		(at 220.98 195.58)
-		(uuid "1cb6976b-f1e1-4162-94a9-1eebbfe94834")
-	)
-	(no_connect
-		(at 233.68 30.48)
-		(uuid "1d54166e-4cf6-41c4-bdb6-c658700879bf")
 	)
 	(no_connect
 		(at 93.98 215.9)
 		(uuid "1e2390da-4cd0-4ab4-9592-85f356dfbdf3")
 	)
 	(no_connect
-		(at 403.86 106.68)
+		(at 402.59 115.57)
 		(uuid "1f0a3dca-4a82-4c5f-9152-da0b083a1257")
 	)
 	(no_connect
-		(at 363.22 144.78)
+		(at 361.95 153.67)
 		(uuid "20ec6550-1fc6-4742-a1f3-8f87f233db0a")
 	)
 	(no_connect
-		(at 403.86 38.1)
+		(at 402.59 46.99)
 		(uuid "214173c4-6d3b-47a4-9cbc-253e809416e0")
 	)
 	(no_connect
-		(at 403.86 45.72)
+		(at 402.59 54.61)
 		(uuid "21805d02-ff9f-4731-a077-2700d41df8b1")
 	)
 	(no_connect
-		(at 104.14 91.44)
-		(uuid "21b058ea-ee3c-4fd4-b075-f4d62343898e")
-	)
-	(no_connect
-		(at 203.2 30.48)
-		(uuid "21e18890-c9c6-4b52-86d0-c3a2a84399f1")
-	)
-	(no_connect
-		(at 403.86 78.74)
+		(at 402.59 87.63)
 		(uuid "21ff840e-2a0a-4d70-b456-b9601fd32299")
 	)
 	(no_connect
-		(at 363.22 68.58)
+		(at 361.95 77.47)
 		(uuid "23768893-f405-40b1-912a-a7384b9b8940")
 	)
 	(no_connect
-		(at 340.36 83.82)
-		(uuid "276fb6e2-5871-4234-b32f-d94da3e1070a")
-	)
-	(no_connect
-		(at 363.22 15.24)
+		(at 361.95 24.13)
 		(uuid "2a439649-9fc4-4e1e-ba26-bed179805575")
 	)
 	(no_connect
@@ -14686,67 +14646,51 @@
 		(uuid "2d79c4a0-15ef-4012-a205-c91cbf6c8b28")
 	)
 	(no_connect
-		(at 403.86 58.42)
+		(at 402.59 67.31)
 		(uuid "2d8bb258-ccc4-46f6-be11-73859018c4ac")
 	)
 	(no_connect
-		(at 309.88 195.58)
-		(uuid "311f4f7e-e591-4658-b7d5-18df636ce46a")
-	)
-	(no_connect
-		(at 340.36 78.74)
-		(uuid "315376d7-f7da-4aa7-b468-4c746d34438f")
-	)
-	(no_connect
-		(at 403.86 86.36)
+		(at 402.59 95.25)
 		(uuid "331ea57d-07c2-40c4-bf9c-8257ce69abe3")
 	)
 	(no_connect
-		(at 403.86 134.62)
+		(at 402.59 143.51)
 		(uuid "33786a0f-efcc-4591-b468-aeef5c133fd4")
 	)
 	(no_connect
-		(at 403.86 83.82)
+		(at 402.59 92.71)
 		(uuid "347449e6-abef-4237-a162-16059b83be04")
 	)
 	(no_connect
-		(at 403.86 124.46)
+		(at 402.59 133.35)
 		(uuid "365428e4-8fb8-457b-87d1-dbc891a6471d")
 	)
 	(no_connect
-		(at 340.36 88.9)
-		(uuid "36dad576-ac81-45ad-8050-5e546331e33b")
-	)
-	(no_connect
-		(at 320.04 246.38)
+		(at 311.15 238.76)
 		(uuid "374ebead-065f-4686-bb17-b6f9e51d3343")
 	)
 	(no_connect
-		(at 340.36 48.26)
-		(uuid "37f05655-ea33-4a25-be66-46aa8a8f67c9")
-	)
-	(no_connect
-		(at 363.22 33.02)
+		(at 361.95 41.91)
 		(uuid "38e3ded4-94d3-4658-91fa-9c86eda039f3")
 	)
 	(no_connect
-		(at 403.86 30.48)
+		(at 402.59 39.37)
 		(uuid "3b394028-45d8-446d-bd37-0727b5ac902a")
 	)
 	(no_connect
-		(at 363.22 129.54)
+		(at 361.95 138.43)
 		(uuid "3cb2d803-20d1-4548-8f18-a532f2213d80")
 	)
 	(no_connect
-		(at 363.22 71.12)
+		(at 361.95 80.01)
 		(uuid "3d64f63a-45f7-492e-8e30-e0a117b1bf1f")
 	)
 	(no_connect
-		(at 363.22 58.42)
+		(at 361.95 67.31)
 		(uuid "3e30695d-dc51-4620-8ec7-cff577136e71")
 	)
 	(no_connect
-		(at 403.86 109.22)
+		(at 402.59 118.11)
 		(uuid "40e3ae33-25d7-44ee-8b02-fe12522d1ec0")
 	)
 	(no_connect
@@ -14754,12 +14698,8 @@
 		(uuid "41a77aec-c3f8-4b33-8703-d07aaacae422")
 	)
 	(no_connect
-		(at 363.22 124.46)
+		(at 361.95 133.35)
 		(uuid "42102006-b3f0-4e8f-8864-6da4c526f0a9")
-	)
-	(no_connect
-		(at 340.36 129.54)
-		(uuid "44c2fe7b-6b90-4788-8016-a0d42b1f9e64")
 	)
 	(no_connect
 		(at 91.44 127)
@@ -14770,31 +14710,27 @@
 		(uuid "481f4ec3-b512-4cf6-a620-4c8a6f0d54c9")
 	)
 	(no_connect
-		(at 403.86 88.9)
+		(at 402.59 97.79)
 		(uuid "48959dfb-e204-4fd7-9b1b-813e154bcd8e")
 	)
 	(no_connect
-		(at 363.22 78.74)
+		(at 361.95 87.63)
 		(uuid "48f6056b-88bb-4f7d-89f0-066ff10216f7")
 	)
 	(no_connect
-		(at 340.36 101.6)
-		(uuid "4b44b8a3-6e34-4a53-bef8-ae4b2e954b07")
-	)
-	(no_connect
-		(at 403.86 147.32)
+		(at 402.59 156.21)
 		(uuid "4b8df3c4-8b6d-41ab-81a1-5cc2fdfff726")
 	)
 	(no_connect
-		(at 363.22 53.34)
+		(at 361.95 62.23)
 		(uuid "4bade5e1-6648-4479-932d-37ae21e43f27")
 	)
 	(no_connect
-		(at 403.86 20.32)
+		(at 402.59 29.21)
 		(uuid "4d023f83-340a-4818-95b6-29e4f7ff1726")
 	)
 	(no_connect
-		(at 363.22 17.78)
+		(at 361.95 26.67)
 		(uuid "54fb0169-01a2-411c-9aee-2bcfe59db84d")
 	)
 	(no_connect
@@ -14802,83 +14738,47 @@
 		(uuid "5515e794-503d-4273-928e-c0f3d747f8a7")
 	)
 	(no_connect
-		(at 340.36 76.2)
-		(uuid "58083071-5cca-4abe-bbb0-e49beda7f6f9")
-	)
-	(no_connect
-		(at 363.22 35.56)
+		(at 361.95 44.45)
 		(uuid "595047f9-855b-450e-8126-ffd489db0466")
 	)
 	(no_connect
-		(at 403.86 50.8)
+		(at 402.59 59.69)
 		(uuid "59818683-9d03-4997-8158-1739169059fe")
 	)
 	(no_connect
-		(at 124.46 91.44)
-		(uuid "5b40fb06-796d-4fac-80d7-ebb629845b1c")
-	)
-	(no_connect
-		(at 172.72 30.48)
-		(uuid "5c064c75-0c42-4dc3-bd27-f3561aff6971")
-	)
-	(no_connect
-		(at 314.96 246.38)
+		(at 306.07 238.76)
 		(uuid "5eea529b-a7a6-4d74-9ae8-a47701ec57e0")
 	)
 	(no_connect
-		(at 403.86 66.04)
+		(at 402.59 74.93)
 		(uuid "5f9b358b-7783-4a3d-858d-967269643629")
 	)
 	(no_connect
-		(at 210.82 30.48)
-		(uuid "5fc8157c-9baa-4653-8c2b-dc09b89da2fa")
-	)
-	(no_connect
-		(at 340.36 58.42)
-		(uuid "6323820d-431d-49ec-80dc-41218c22d078")
-	)
-	(no_connect
-		(at 340.36 53.34)
-		(uuid "641e39f6-e33a-4e00-acac-78b07152c791")
-	)
-	(no_connect
-		(at 160.02 30.48)
-		(uuid "6425693a-e0b2-455a-9e9d-7ff5b74c0e97")
-	)
-	(no_connect
-		(at 403.86 43.18)
+		(at 402.59 52.07)
 		(uuid "644ca083-f423-4dce-a725-98b08d802cb5")
 	)
 	(no_connect
-		(at 193.04 30.48)
-		(uuid "66addea8-8cf1-4bdd-8473-b8c1ffb7f980")
-	)
-	(no_connect
-		(at 403.86 129.54)
+		(at 402.59 138.43)
 		(uuid "67872317-6333-41bc-9796-42a975501e17")
 	)
 	(no_connect
-		(at 403.86 40.64)
+		(at 402.59 49.53)
 		(uuid "67c99754-d344-460c-9703-f57219418f1d")
 	)
 	(no_connect
-		(at 363.22 20.32)
+		(at 361.95 29.21)
 		(uuid "69ab5afe-54f3-4590-9761-6e1a9629a3da")
 	)
 	(no_connect
-		(at 327.66 246.38)
+		(at 318.77 238.76)
 		(uuid "69ea268b-463a-450e-81c4-f39788d721e0")
 	)
 	(no_connect
-		(at 403.86 63.5)
+		(at 402.59 72.39)
 		(uuid "6a2f04ab-dfc4-4f86-bb8d-cef96008b96f")
 	)
 	(no_connect
-		(at 182.88 30.48)
-		(uuid "6bce846f-439d-4b44-ae15-4cf934c57410")
-	)
-	(no_connect
-		(at 363.22 73.66)
+		(at 361.95 82.55)
 		(uuid "6be237d0-e65f-4d51-9df4-53f23505fa78")
 	)
 	(no_connect
@@ -14886,7 +14786,7 @@
 		(uuid "6be3d85a-d36b-4592-bdd9-42ee4da46b65")
 	)
 	(no_connect
-		(at 332.74 246.38)
+		(at 323.85 238.76)
 		(uuid "6dcca541-a46e-403c-a75c-f341a8ced187")
 	)
 	(no_connect
@@ -14894,51 +14794,43 @@
 		(uuid "7075fa78-6141-405f-9bdf-0e649fdd3c8f")
 	)
 	(no_connect
-		(at 363.22 121.92)
+		(at 361.95 130.81)
 		(uuid "70921874-36c1-4f43-bc0c-ce47ca1bd116")
 	)
 	(no_connect
-		(at 363.22 91.44)
+		(at 361.95 100.33)
 		(uuid "70a338c4-0747-445c-990a-8c011903bc38")
 	)
 	(no_connect
-		(at 170.18 30.48)
-		(uuid "735d9961-8dff-46c0-8076-e7f5b68c5e77")
-	)
-	(no_connect
-		(at 403.86 15.24)
+		(at 402.59 24.13)
 		(uuid "743c0bac-cbc8-4a0f-a684-b641469d3955")
 	)
 	(no_connect
-		(at 363.22 119.38)
+		(at 361.95 128.27)
 		(uuid "7560fea6-49d9-445b-a252-5337c2389794")
 	)
 	(no_connect
-		(at 363.22 116.84)
+		(at 361.95 125.73)
 		(uuid "762620dd-295e-4ba7-89fa-a8969b5700bd")
 	)
 	(no_connect
-		(at 363.22 99.06)
+		(at 361.95 107.95)
 		(uuid "77f13a35-ef15-4d82-9e6a-c8d94613ee66")
 	)
 	(no_connect
-		(at 363.22 142.24)
+		(at 361.95 151.13)
 		(uuid "78fcb653-7c06-4ed8-8a73-0480e7d111c8")
 	)
 	(no_connect
-		(at 340.36 63.5)
-		(uuid "7a0de8d3-14d6-41df-8859-52bdea7dfdcd")
-	)
-	(no_connect
-		(at 363.22 48.26)
+		(at 361.95 57.15)
 		(uuid "7d4f8e31-08bb-4089-8c90-37140c65636f")
 	)
 	(no_connect
-		(at 403.86 114.3)
+		(at 402.59 123.19)
 		(uuid "7d528de4-caf6-470e-a663-737004867ada")
 	)
 	(no_connect
-		(at 403.86 157.48)
+		(at 402.59 166.37)
 		(uuid "7e6732f0-824d-4c1e-9f5f-02500b97ebe2")
 	)
 	(no_connect
@@ -14946,91 +14838,71 @@
 		(uuid "83773577-6231-46a2-8d22-b1f10cab94cb")
 	)
 	(no_connect
-		(at 363.22 22.86)
+		(at 361.95 31.75)
 		(uuid "84009fd2-a3d2-4f53-bc89-3c47efc67c7e")
 	)
 	(no_connect
-		(at 363.22 147.32)
+		(at 361.95 156.21)
 		(uuid "858371ab-11d9-4dd4-b220-5a511808c98b")
 	)
 	(no_connect
-		(at 403.86 48.26)
+		(at 402.59 57.15)
 		(uuid "859ecbf9-03af-48c5-ac27-24ec9fb0733a")
 	)
 	(no_connect
-		(at 340.36 91.44)
-		(uuid "85c5df9f-c71b-4f5e-abe3-2a4f31c0e198")
-	)
-	(no_connect
-		(at 340.36 96.52)
-		(uuid "85fada0c-338f-4d2c-bf7b-d494a12d680a")
-	)
-	(no_connect
-		(at 363.22 132.08)
+		(at 361.95 140.97)
 		(uuid "860a3665-14df-4cdd-806d-f89432adcb58")
 	)
 	(no_connect
-		(at 363.22 114.3)
+		(at 361.95 123.19)
 		(uuid "8616fd9f-7a41-4896-a586-7f45bde71ea4")
 	)
 	(no_connect
-		(at 340.36 86.36)
-		(uuid "86dccee4-86ca-4794-a083-06842f9d83ae")
-	)
-	(no_connect
-		(at 363.22 25.4)
+		(at 361.95 34.29)
 		(uuid "871f2583-b8e3-4e6f-9623-4f650dfb73c6")
 	)
 	(no_connect
-		(at 231.14 30.48)
-		(uuid "87bd5789-55c7-4612-ae19-3c7de05fa96c")
-	)
-	(no_connect
-		(at 340.36 71.12)
-		(uuid "88a37a93-7587-472a-b79b-be8fe2c61a07")
-	)
-	(no_connect
-		(at 363.22 154.94)
+		(at 361.95 163.83)
 		(uuid "88e1a955-12e8-42d6-9a3a-0535bd00f575")
 	)
 	(no_connect
-		(at 403.86 96.52)
+		(at 402.59 105.41)
 		(uuid "88e21555-55e3-4031-8131-38a43acb4f3a")
 	)
 	(no_connect
-		(at 363.22 160.02)
+		(at 361.95 168.91)
 		(uuid "8c8d4c0e-a0fe-47e9-a057-5af21a77f832")
 	)
 	(no_connect
-		(at 363.22 152.4)
+		(at 361.95 161.29)
 		(uuid "91b86b6f-c6ff-4c04-907d-9b14ed5a5fc1")
 	)
 	(no_connect
-		(at 363.22 40.64)
+		(at 361.95 49.53)
 		(uuid "91f6ac97-f29e-434d-8f8b-dc7dedffd6ce")
 	)
 	(no_connect
-		(at 363.22 81.28)
+		(at 361.95 90.17)
 		(uuid "92e36e40-6356-4ea0-bf4d-4344ff176d20")
 	)
 	(no_connect
-		(at 340.36 246.38)
+		(at 331.47 238.76)
 		(uuid "98146521-6bf2-4fa2-a110-beba78062dfa")
 	)
 	(no_connect
-		(at 363.22 149.86)
+		(at 361.95 158.75)
 		(uuid "9944fe3e-fec8-4180-9257-a266b7f90254")
 	)
 	(no_connect
-		(at 363.22 109.22)
+		(at 361.95 118.11)
 		(uuid "9a323ed3-fbab-441f-a64c-814f2510ffe0")
 	)
 	(no_connect
-		(at 363.22 93.98)
+		(at 361.95 102.87)
 		(uuid "9dc8bb0a-39eb-4166-bbf3-10812799d8fd")
 	)
 	(no_connect
-		(at 403.86 154.94)
+		(at 402.59 163.83)
 		(uuid "9e609872-9a72-4d15-b6f7-6f495d90ef69")
 	)
 	(no_connect
@@ -15038,39 +14910,39 @@
 		(uuid "a0698d48-9741-462f-a489-5c1262b95cf2")
 	)
 	(no_connect
-		(at 403.86 99.06)
+		(at 402.59 107.95)
 		(uuid "a0996553-e3e6-4f7c-8de4-20bd1fe84576")
 	)
 	(no_connect
-		(at 403.86 60.96)
+		(at 402.59 69.85)
 		(uuid "a23ce4ba-fdb1-44bd-afa9-12929525c0a0")
 	)
 	(no_connect
-		(at 363.22 63.5)
+		(at 361.95 72.39)
 		(uuid "a2e388b4-38d8-4140-bd1a-4ab93305522b")
 	)
 	(no_connect
-		(at 403.86 132.08)
+		(at 402.59 140.97)
 		(uuid "a37fe20b-20da-49cb-8f5f-17080174d600")
 	)
 	(no_connect
-		(at 403.86 71.12)
+		(at 402.59 80.01)
 		(uuid "a4ceb982-2f9c-4b83-aa88-f750533a3668")
 	)
 	(no_connect
-		(at 363.22 86.36)
+		(at 361.95 95.25)
 		(uuid "a54227ed-65e9-42ff-bded-81fd97929fb6")
 	)
 	(no_connect
-		(at 403.86 55.88)
+		(at 402.59 64.77)
 		(uuid "a6623137-2816-4e42-9d5f-e9b4959057ee")
 	)
 	(no_connect
-		(at 403.86 53.34)
+		(at 402.59 62.23)
 		(uuid "a69f9c0c-0818-4918-8276-db2644ca1e01")
 	)
 	(no_connect
-		(at 363.22 101.6)
+		(at 361.95 110.49)
 		(uuid "a6e6a90f-fb66-4fe6-a92b-bcc569108c3d")
 	)
 	(no_connect
@@ -15078,107 +14950,63 @@
 		(uuid "ab5aa337-c93f-42c2-85d1-3163423c64b1")
 	)
 	(no_connect
-		(at 403.86 81.28)
+		(at 402.59 90.17)
 		(uuid "ab9c24ea-9af5-408c-af21-ac92185d7344")
 	)
 	(no_connect
-		(at 403.86 137.16)
+		(at 402.59 146.05)
 		(uuid "aba48d2e-d83e-4127-b8d0-6c2c8d35a456")
 	)
 	(no_connect
-		(at 403.86 139.7)
+		(at 402.59 148.59)
 		(uuid "ac898189-4869-46e2-87cf-7091c59bc080")
 	)
 	(no_connect
-		(at 248.92 116.84)
-		(uuid "ac97b847-c7fd-4dcf-a400-5b7a60d861dc")
-	)
-	(no_connect
-		(at 403.86 111.76)
+		(at 402.59 120.65)
 		(uuid "ad688700-fec3-41a8-a709-406fbdaa6beb")
 	)
 	(no_connect
-		(at 403.86 25.4)
+		(at 402.59 34.29)
 		(uuid "ad8beb67-8dcb-4335-b592-f34d44c1631b")
 	)
 	(no_connect
-		(at 162.56 93.98)
-		(uuid "ad8f959a-7c73-4923-abea-aa0327bb4f17")
-	)
-	(no_connect
-		(at 340.36 106.68)
-		(uuid "aeb1bafd-eca7-4ed1-a7d0-5e0ff608f2bd")
-	)
-	(no_connect
-		(at 363.22 38.1)
+		(at 361.95 46.99)
 		(uuid "af9fc760-86c8-437d-92a7-a10ed0991309")
 	)
 	(no_connect
-		(at 403.86 116.84)
+		(at 402.59 125.73)
 		(uuid "b222fce0-bf0f-4434-a050-123d4a132b4f")
 	)
 	(no_connect
-		(at 149.86 30.48)
-		(uuid "b22f941d-e7b0-4fe9-97f7-d0197faaf170")
-	)
-	(no_connect
-		(at 363.22 106.68)
+		(at 361.95 115.57)
 		(uuid "b5232611-9c5c-45dd-ba71-7cbbf0f564cd")
 	)
 	(no_connect
-		(at 340.36 111.76)
-		(uuid "b587820f-c1be-4994-b4f5-93bdaf6b6bca")
-	)
-	(no_connect
-		(at 363.22 50.8)
+		(at 361.95 59.69)
 		(uuid "b60887ec-f941-422c-ac9a-441e529f1334")
 	)
 	(no_connect
-		(at 254 30.48)
-		(uuid "b60f4679-e0b9-4b35-bd77-bad59bc18026")
-	)
-	(no_connect
-		(at 363.22 134.62)
+		(at 361.95 143.51)
 		(uuid "b6f51615-2e0f-43c8-a935-65a2ceeb994a")
 	)
 	(no_connect
-		(at 403.86 149.86)
+		(at 402.59 158.75)
 		(uuid "bad00390-77b1-4cd9-ba72-80a5b94bf447")
 	)
 	(no_connect
-		(at 340.36 66.04)
-		(uuid "bfae5070-d2dd-42c0-a130-66e6ddc354dc")
-	)
-	(no_connect
-		(at 340.36 99.06)
-		(uuid "bfd66396-36c7-4475-b62e-2e4f0ec512c5")
-	)
-	(no_connect
-		(at 403.86 121.92)
+		(at 402.59 130.81)
 		(uuid "c10b23a7-8d9f-42a7-8bbe-ed9c8d4bce1f")
 	)
 	(no_connect
-		(at 363.22 157.48)
+		(at 361.95 166.37)
 		(uuid "c32e4839-77de-430b-a53e-15e0b3150ee8")
 	)
 	(no_connect
-		(at 340.36 55.88)
-		(uuid "c421a980-6596-418e-97e0-dcd24f13bed0")
-	)
-	(no_connect
-		(at 340.36 93.98)
-		(uuid "c42f3d3e-d972-4355-b7cd-34f3a64016af")
-	)
-	(no_connect
-		(at 137.16 91.44)
-		(uuid "c5230668-0e26-4b4a-88cc-256d22bae738")
-	)
-	(no_connect
-		(at 363.22 83.82)
+		(at 361.95 92.71)
 		(uuid "c7b2932c-5b7c-4f6a-bc5b-a86dcd5d2d00")
 	)
 	(no_connect
-		(at 363.22 111.76)
+		(at 361.95 120.65)
 		(uuid "c7d7b3f3-5ee7-48b1-96d9-9c11cf394e37")
 	)
 	(no_connect
@@ -15186,19 +15014,11 @@
 		(uuid "c8b7cfe3-4997-447a-bffc-83793e73dd6f")
 	)
 	(no_connect
-		(at 226.06 116.84)
-		(uuid "c9764c9c-8a03-45fd-9c25-72df55e122a5")
-	)
-	(no_connect
-		(at 220.98 30.48)
-		(uuid "ca8ba5ac-0108-4db0-90e6-560617479ebf")
-	)
-	(no_connect
-		(at 403.86 33.02)
+		(at 402.59 41.91)
 		(uuid "cb4b0afa-d46f-47f3-9a39-a746a3e89d56")
 	)
 	(no_connect
-		(at 307.34 246.38)
+		(at 298.45 238.76)
 		(uuid "cb620355-0394-40a4-a097-8db155b371fe")
 	)
 	(no_connect
@@ -15206,83 +15026,59 @@
 		(uuid "cbfbb1fd-8a3e-4245-a148-649a91817c4e")
 	)
 	(no_connect
-		(at 363.22 30.48)
+		(at 361.95 39.37)
 		(uuid "cc595b78-4b24-44f8-ac33-43c32cdcc208")
 	)
 	(no_connect
-		(at 363.22 139.7)
+		(at 361.95 148.59)
 		(uuid "ce1f81c4-e922-4fb8-9511-c7cda3e440de")
 	)
 	(no_connect
-		(at 363.22 127)
+		(at 361.95 135.89)
 		(uuid "d1768127-ca14-45c4-a200-fb03138d790d")
 	)
 	(no_connect
-		(at 363.22 43.18)
+		(at 361.95 52.07)
 		(uuid "d1bfc754-3f49-4088-9e7b-925b245544c0")
 	)
 	(no_connect
-		(at 363.22 27.94)
+		(at 361.95 36.83)
 		(uuid "d1ce9a29-59fc-4ac9-813e-63bfc0b6eb15")
 	)
 	(no_connect
-		(at 403.86 22.86)
+		(at 402.59 31.75)
 		(uuid "d569de30-ee33-4a26-9b81-e8188646a8de")
 	)
 	(no_connect
-		(at 403.86 152.4)
+		(at 402.59 161.29)
 		(uuid "d812cb44-e2a1-4485-b360-ebe3a5432ddd")
 	)
 	(no_connect
-		(at 162.56 30.48)
-		(uuid "d8ced041-31b0-4865-9979-ad7e6ce8db4e")
-	)
-	(no_connect
-		(at 403.86 127)
+		(at 402.59 135.89)
 		(uuid "d9b69c58-7400-4677-ace9-cc62a2c1edc1")
-	)
-	(no_connect
-		(at 340.36 104.14)
-		(uuid "dec21d9d-d089-4003-8d77-a48e72d10c32")
 	)
 	(no_connect
 		(at 91.44 121.92)
 		(uuid "e0070525-0484-40eb-ab2b-5d88ec6eab1e")
 	)
 	(no_connect
-		(at 243.84 30.48)
-		(uuid "e16dfb0c-1c80-4b2c-a68e-0c1d0c48ce14")
-	)
-	(no_connect
-		(at 403.86 144.78)
+		(at 402.59 153.67)
 		(uuid "e271b354-4bf3-4efd-af99-6b7664dc0b1a")
 	)
 	(no_connect
-		(at 340.36 121.92)
-		(uuid "e32443b8-ad85-47e4-842e-b85d77f3e7ff")
-	)
-	(no_connect
-		(at 403.86 68.58)
+		(at 402.59 77.47)
 		(uuid "e49f510f-325a-4777-94e5-d06a7c78dbbc")
 	)
 	(no_connect
-		(at 363.22 66.04)
+		(at 361.95 74.93)
 		(uuid "e67b2ac7-ceec-485a-8989-e0e3b70515ff")
 	)
 	(no_connect
-		(at 238.76 116.84)
-		(uuid "e69a4bae-3299-475f-89ac-b307f12f7492")
-	)
-	(no_connect
-		(at 403.86 160.02)
+		(at 402.59 168.91)
 		(uuid "e833f350-7823-4e4b-b61c-c1882e4897fe")
 	)
 	(no_connect
-		(at 236.22 116.84)
-		(uuid "e97ac626-dd3b-4b2d-8960-da8c9238fe83")
-	)
-	(no_connect
-		(at 403.86 76.2)
+		(at 402.59 85.09)
 		(uuid "ea78d105-10bd-4021-8b25-9fe64faedfd8")
 	)
 	(no_connect
@@ -15290,55 +15086,39 @@
 		(uuid "ebf1298e-191c-4d80-82ef-79365a2efd5c")
 	)
 	(no_connect
-		(at 363.22 104.14)
+		(at 361.95 113.03)
 		(uuid "ed67d8c1-8f0e-4453-8084-1f81a8817346")
 	)
 	(no_connect
-		(at 241.3 30.48)
-		(uuid "edeb335f-a844-46d8-a34e-efcfbe4e55d9")
-	)
-	(no_connect
-		(at 403.86 91.44)
+		(at 402.59 100.33)
 		(uuid "eeb64096-cdbe-476d-9c77-72fd3b3f2dc8")
 	)
 	(no_connect
-		(at 340.36 68.58)
-		(uuid "f1c75941-64e4-47f8-9f9c-bd8861d22da6")
-	)
-	(no_connect
-		(at 403.86 17.78)
+		(at 402.59 26.67)
 		(uuid "f2ab799a-2633-4311-bff7-7cb5fc9975a1")
 	)
 	(no_connect
-		(at 340.36 60.96)
-		(uuid "f2ecbb4b-7795-4529-acc1-f75767850887")
-	)
-	(no_connect
-		(at 403.86 101.6)
+		(at 402.59 110.49)
 		(uuid "f3205d99-16d5-4bda-b8ab-1c9638a01460")
 	)
 	(no_connect
-		(at 403.86 119.38)
+		(at 402.59 128.27)
 		(uuid "f3a25fd4-7752-4c18-b47a-3859aa26720a")
 	)
 	(no_connect
-		(at 213.36 30.48)
-		(uuid "f600c875-e896-4d6d-89a4-671bfca5027d")
-	)
-	(no_connect
-		(at 403.86 142.24)
+		(at 402.59 151.13)
 		(uuid "f74b879b-7b88-4def-96f4-16fc448ba3f5")
 	)
 	(no_connect
-		(at 363.22 88.9)
+		(at 361.95 97.79)
 		(uuid "f8818f65-a1f3-46bc-878a-f51a39513ddf")
 	)
 	(no_connect
-		(at 363.22 76.2)
+		(at 361.95 85.09)
 		(uuid "f92b7def-f6cf-424d-bd82-4c27472add23")
 	)
 	(no_connect
-		(at 363.22 60.96)
+		(at 361.95 69.85)
 		(uuid "fb77804b-8c21-444e-9ba4-bb49012c3cea")
 	)
 	(no_connect
@@ -15346,15 +15126,11 @@
 		(uuid "fd3c62e0-2ab0-42bd-91cb-ff1f757f9e80")
 	)
 	(no_connect
-		(at 403.86 93.98)
+		(at 402.59 102.87)
 		(uuid "fe24a4e0-82c5-4b46-96cd-6eb9587cca8f")
 	)
 	(no_connect
-		(at 162.56 81.28)
-		(uuid "fe2d7a7a-10bc-4cda-aabe-37acc629d230")
-	)
-	(no_connect
-		(at 403.86 35.56)
+		(at 402.59 44.45)
 		(uuid "ff4d4e2c-f092-4284-ab68-ea1010efd1e3")
 	)
 	(wire
@@ -15369,7 +15145,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 205.74) (xy 396.24 205.74)
+			(xy 217.17 198.12) (xy 387.35 198.12)
 		)
 		(stroke
 			(width 0)
@@ -15379,7 +15155,7 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 228.6) (xy 398.78 228.6)
+			(xy 382.27 220.98) (xy 389.89 220.98)
 		)
 		(stroke
 			(width 0)
@@ -15409,7 +15185,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 190.5) (xy 289.56 187.96)
+			(xy 280.67 182.88) (xy 280.67 180.34)
 		)
 		(stroke
 			(width 0)
@@ -15439,7 +15215,7 @@
 	)
 	(wire
 		(pts
-			(xy 398.78 228.6) (xy 398.78 226.06)
+			(xy 389.89 220.98) (xy 389.89 218.44)
 		)
 		(stroke
 			(width 0)
@@ -15449,7 +15225,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 218.44) (xy 353.06 218.44)
+			(xy 171.45 210.82) (xy 344.17 210.82)
 		)
 		(stroke
 			(width 0)
@@ -15469,7 +15245,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 228.6) (xy 353.06 228.6)
+			(xy 171.45 220.98) (xy 344.17 220.98)
 		)
 		(stroke
 			(width 0)
@@ -15530,7 +15306,7 @@
 	)
 	(wire
 		(pts
-			(xy 398.78 226.06) (xy 398.78 223.52)
+			(xy 389.89 218.44) (xy 389.89 215.9)
 		)
 		(stroke
 			(width 0)
@@ -15540,7 +15316,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 215.9) (xy 353.06 215.9)
+			(xy 242.57 208.28) (xy 344.17 208.28)
 		)
 		(stroke
 			(width 0)
@@ -15670,7 +15446,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 187.96) (xy 276.86 187.96)
+			(xy 255.27 180.34) (xy 267.97 180.34)
 		)
 		(stroke
 			(width 0)
@@ -15680,7 +15456,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 241.3) (xy 325.12 220.98)
+			(xy 316.23 233.68) (xy 316.23 213.36)
 		)
 		(stroke
 			(width 0)
@@ -15700,7 +15476,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 223.52) (xy 353.06 223.52)
+			(xy 171.45 215.9) (xy 344.17 215.9)
 		)
 		(stroke
 			(width 0)
@@ -15710,7 +15486,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 220.98) (xy 325.12 220.98)
+			(xy 303.53 213.36) (xy 316.23 213.36)
 		)
 		(stroke
 			(width 0)
@@ -15760,7 +15536,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 215.9) (xy 251.46 215.9)
+			(xy 171.45 208.28) (xy 242.57 208.28)
 		)
 		(stroke
 			(width 0)
@@ -15780,7 +15556,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 220.98) (xy 312.42 187.96)
+			(xy 303.53 213.36) (xy 303.53 180.34)
 		)
 		(stroke
 			(width 0)
@@ -15800,7 +15576,7 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 226.06) (xy 353.06 226.06)
+			(xy 341.63 218.44) (xy 344.17 218.44)
 		)
 		(stroke
 			(width 0)
@@ -15810,7 +15586,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 236.22) (xy 276.86 203.2)
+			(xy 267.97 228.6) (xy 267.97 195.58)
 		)
 		(stroke
 			(width 0)
@@ -15840,7 +15616,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 254) (xy 289.56 251.46)
+			(xy 280.67 246.38) (xy 280.67 243.84)
 		)
 		(stroke
 			(width 0)
@@ -15930,7 +15706,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 236.22) (xy 251.46 215.9)
+			(xy 242.57 228.6) (xy 242.57 208.28)
 		)
 		(stroke
 			(width 0)
@@ -15980,7 +15756,7 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 226.06) (xy 398.78 226.06)
+			(xy 382.27 218.44) (xy 389.89 218.44)
 		)
 		(stroke
 			(width 0)
@@ -16060,7 +15836,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 256.54) (xy 302.26 254)
+			(xy 293.37 248.92) (xy 293.37 246.38)
 		)
 		(stroke
 			(width 0)
@@ -16170,7 +15946,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 187.96) (xy 264.16 187.96)
+			(xy 242.57 180.34) (xy 255.27 180.34)
 		)
 		(stroke
 			(width 0)
@@ -16190,7 +15966,7 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 231.14) (xy 398.78 231.14)
+			(xy 382.27 223.52) (xy 389.89 223.52)
 		)
 		(stroke
 			(width 0)
@@ -16220,7 +15996,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 187.96) (xy 302.26 190.5)
+			(xy 293.37 180.34) (xy 293.37 182.88)
 		)
 		(stroke
 			(width 0)
@@ -16230,7 +16006,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 251.46) (xy 325.12 251.46)
+			(xy 328.93 243.84) (xy 316.23 243.84)
 		)
 		(stroke
 			(width 0)
@@ -16240,7 +16016,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 236.22) (xy 264.16 203.2)
+			(xy 255.27 228.6) (xy 255.27 195.58)
 		)
 		(stroke
 			(width 0)
@@ -16290,7 +16066,7 @@
 	)
 	(wire
 		(pts
-			(xy 396.24 205.74) (xy 396.24 213.36)
+			(xy 387.35 198.12) (xy 387.35 205.74)
 		)
 		(stroke
 			(width 0)
@@ -16300,7 +16076,7 @@
 	)
 	(wire
 		(pts
-			(xy 396.24 213.36) (xy 391.16 213.36)
+			(xy 387.35 205.74) (xy 382.27 205.74)
 		)
 		(stroke
 			(width 0)
@@ -16310,7 +16086,7 @@
 	)
 	(wire
 		(pts
-			(xy 398.78 238.76) (xy 398.78 231.14)
+			(xy 389.89 231.14) (xy 389.89 223.52)
 		)
 		(stroke
 			(width 0)
@@ -16380,7 +16156,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 215.9) (xy 251.46 203.2)
+			(xy 242.57 208.28) (xy 242.57 195.58)
 		)
 		(stroke
 			(width 0)
@@ -16420,7 +16196,7 @@
 	)
 	(wire
 		(pts
-			(xy 398.78 231.14) (xy 398.78 228.6)
+			(xy 389.89 223.52) (xy 389.89 220.98)
 		)
 		(stroke
 			(width 0)
@@ -16460,7 +16236,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 254) (xy 238.76 254)
+			(xy 217.17 246.38) (xy 229.87 246.38)
 		)
 		(stroke
 			(width 0)
@@ -16490,7 +16266,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 205.74) (xy 226.06 205.74)
+			(xy 171.45 198.12) (xy 217.17 198.12)
 		)
 		(stroke
 			(width 0)
@@ -16510,7 +16286,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 187.96) (xy 251.46 187.96)
+			(xy 229.87 180.34) (xy 242.57 180.34)
 		)
 		(stroke
 			(width 0)
@@ -16520,7 +16296,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 236.22) (xy 226.06 205.74)
+			(xy 217.17 228.6) (xy 217.17 198.12)
 		)
 		(stroke
 			(width 0)
@@ -16570,7 +16346,7 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 251.46) (xy 337.82 251.46)
+			(xy 341.63 243.84) (xy 328.93 243.84)
 		)
 		(stroke
 			(width 0)
@@ -16610,7 +16386,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 190.5) (xy 251.46 187.96)
+			(xy 242.57 182.88) (xy 242.57 180.34)
 		)
 		(stroke
 			(width 0)
@@ -16630,7 +16406,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 251.46) (xy 325.12 248.92)
+			(xy 316.23 243.84) (xy 316.23 241.3)
 		)
 		(stroke
 			(width 0)
@@ -16670,7 +16446,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 220.98) (xy 353.06 220.98)
+			(xy 328.93 213.36) (xy 344.17 213.36)
 		)
 		(stroke
 			(width 0)
@@ -16680,7 +16456,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 236.22) (xy 289.56 203.2)
+			(xy 280.67 228.6) (xy 280.67 195.58)
 		)
 		(stroke
 			(width 0)
@@ -16700,7 +16476,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 241.3) (xy 312.42 220.98)
+			(xy 303.53 233.68) (xy 303.53 213.36)
 		)
 		(stroke
 			(width 0)
@@ -16750,7 +16526,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 187.96) (xy 289.56 187.96)
+			(xy 267.97 180.34) (xy 280.67 180.34)
 		)
 		(stroke
 			(width 0)
@@ -16780,7 +16556,7 @@
 	)
 	(wire
 		(pts
-			(xy 398.78 223.52) (xy 391.16 223.52)
+			(xy 389.89 215.9) (xy 382.27 215.9)
 		)
 		(stroke
 			(width 0)
@@ -16790,7 +16566,7 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 254) (xy 350.52 251.46)
+			(xy 341.63 246.38) (xy 341.63 243.84)
 		)
 		(stroke
 			(width 0)
@@ -16820,7 +16596,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 190.5) (xy 276.86 187.96)
+			(xy 267.97 182.88) (xy 267.97 180.34)
 		)
 		(stroke
 			(width 0)
@@ -16840,7 +16616,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 190.5) (xy 264.16 187.96)
+			(xy 255.27 182.88) (xy 255.27 180.34)
 		)
 		(stroke
 			(width 0)
@@ -16850,7 +16626,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 205.74) (xy 226.06 203.2)
+			(xy 217.17 198.12) (xy 217.17 195.58)
 		)
 		(stroke
 			(width 0)
@@ -16880,7 +16656,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 190.5) (xy 226.06 187.96)
+			(xy 217.17 182.88) (xy 217.17 180.34)
 		)
 		(stroke
 			(width 0)
@@ -16910,7 +16686,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 254) (xy 289.56 254)
+			(xy 267.97 246.38) (xy 280.67 246.38)
 		)
 		(stroke
 			(width 0)
@@ -16920,7 +16696,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 251.46) (xy 337.82 248.92)
+			(xy 328.93 243.84) (xy 328.93 241.3)
 		)
 		(stroke
 			(width 0)
@@ -16930,7 +16706,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 254) (xy 276.86 251.46)
+			(xy 267.97 246.38) (xy 267.97 243.84)
 		)
 		(stroke
 			(width 0)
@@ -16980,7 +16756,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 254) (xy 264.16 251.46)
+			(xy 255.27 246.38) (xy 255.27 243.84)
 		)
 		(stroke
 			(width 0)
@@ -17000,7 +16776,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 254) (xy 251.46 251.46)
+			(xy 242.57 246.38) (xy 242.57 243.84)
 		)
 		(stroke
 			(width 0)
@@ -17020,7 +16796,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 213.36) (xy 353.06 213.36)
+			(xy 171.45 205.74) (xy 344.17 205.74)
 		)
 		(stroke
 			(width 0)
@@ -17030,7 +16806,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 236.22) (xy 302.26 203.2)
+			(xy 293.37 228.6) (xy 293.37 195.58)
 		)
 		(stroke
 			(width 0)
@@ -17050,7 +16826,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 254) (xy 264.16 254)
+			(xy 242.57 246.38) (xy 255.27 246.38)
 		)
 		(stroke
 			(width 0)
@@ -17170,7 +16946,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 251.46) (xy 226.06 254)
+			(xy 217.17 243.84) (xy 217.17 246.38)
 		)
 		(stroke
 			(width 0)
@@ -17200,7 +16976,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 254) (xy 238.76 251.46)
+			(xy 229.87 246.38) (xy 229.87 243.84)
 		)
 		(stroke
 			(width 0)
@@ -17210,7 +16986,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 190.5) (xy 238.76 187.96)
+			(xy 229.87 182.88) (xy 229.87 180.34)
 		)
 		(stroke
 			(width 0)
@@ -17220,7 +16996,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 187.96) (xy 238.76 185.42)
+			(xy 229.87 180.34) (xy 229.87 177.8)
 		)
 		(stroke
 			(width 0)
@@ -17270,7 +17046,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 220.98) (xy 337.82 220.98)
+			(xy 316.23 213.36) (xy 328.93 213.36)
 		)
 		(stroke
 			(width 0)
@@ -17330,7 +17106,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 241.3) (xy 337.82 220.98)
+			(xy 328.93 233.68) (xy 328.93 213.36)
 		)
 		(stroke
 			(width 0)
@@ -17420,7 +17196,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 254) (xy 276.86 254)
+			(xy 255.27 246.38) (xy 267.97 246.38)
 		)
 		(stroke
 			(width 0)
@@ -17430,7 +17206,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 187.96) (xy 302.26 187.96)
+			(xy 280.67 180.34) (xy 293.37 180.34)
 		)
 		(stroke
 			(width 0)
@@ -17460,7 +17236,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 254) (xy 251.46 254)
+			(xy 229.87 246.38) (xy 242.57 246.38)
 		)
 		(stroke
 			(width 0)
@@ -17490,7 +17266,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 236.22) (xy 238.76 203.2)
+			(xy 229.87 228.6) (xy 229.87 195.58)
 		)
 		(stroke
 			(width 0)
@@ -17510,7 +17286,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 231.14) (xy 353.06 231.14)
+			(xy 171.45 223.52) (xy 344.17 223.52)
 		)
 		(stroke
 			(width 0)
@@ -17530,7 +17306,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 251.46) (xy 312.42 251.46)
+			(xy 316.23 243.84) (xy 303.53 243.84)
 		)
 		(stroke
 			(width 0)
@@ -17540,7 +17316,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 254) (xy 302.26 254)
+			(xy 280.67 246.38) (xy 293.37 246.38)
 		)
 		(stroke
 			(width 0)
@@ -17640,7 +17416,7 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 251.46) (xy 350.52 226.06)
+			(xy 341.63 243.84) (xy 341.63 218.44)
 		)
 		(stroke
 			(width 0)
@@ -17660,7 +17436,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 254) (xy 302.26 251.46)
+			(xy 293.37 246.38) (xy 293.37 243.84)
 		)
 		(stroke
 			(width 0)
@@ -17720,7 +17496,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 251.46) (xy 312.42 248.92)
+			(xy 303.53 243.84) (xy 303.53 241.3)
 		)
 		(stroke
 			(width 0)
@@ -22445,7 +22221,7 @@
 	)
 	(text "SoC MMC & eMMC"
 		(exclude_from_sim no)
-		(at 10.16 17.272 0)
+		(at 14.732 19.05 0)
 		(effects
 			(font
 				(size 3.556 3.556)
@@ -22508,7 +22284,7 @@
 		(uuid "f367d7a1-e3ef-4b01-8119-780720fd91fd")
 	)
 	(label "SD_D3"
-		(at 187.96 215.9 0)
+		(at 179.07 208.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -22598,7 +22374,7 @@
 		(uuid "549a49d0-f6b3-430a-9337-f68f7beb01b7")
 	)
 	(label "SD_D2"
-		(at 187.96 213.36 0)
+		(at 179.07 205.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -22628,7 +22404,7 @@
 		(uuid "6bbf060f-f7bf-4c53-b62c-922cdf6b8db9")
 	)
 	(label "SD_CLK"
-		(at 187.96 223.52 0)
+		(at 179.07 215.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -22638,7 +22414,7 @@
 		(uuid "70e65e0a-c78d-48bd-8865-94d48fb0e2c7")
 	)
 	(label "SD_CD"
-		(at 187.96 205.74 0)
+		(at 179.07 198.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -22658,7 +22434,7 @@
 		(uuid "73b03b9f-cbbc-4648-8b2c-744422fac1ea")
 	)
 	(label "SD_D0"
-		(at 187.96 228.6 0)
+		(at 179.07 220.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -22668,7 +22444,7 @@
 		(uuid "869abc79-6712-484c-9fc7-450ccc405ab3")
 	)
 	(label "SD_CMD"
-		(at 187.96 218.44 0)
+		(at 179.07 210.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -22748,7 +22524,7 @@
 		(uuid "e1547b36-89fd-47b9-9562-c156725d0f48")
 	)
 	(label "SD_D1"
-		(at 187.96 231.14 0)
+		(at 179.07 223.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24312,7 +24088,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:VDD_3V3_BAR")
-		(at 226.06 187.96 180)
+		(at 217.17 180.34 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24320,7 +24096,7 @@
 		(dnp no)
 		(uuid "27f92277-b4c6-43c6-86b7-5c094a03dd50")
 		(property "Reference" "#PWR?"
-			(at 226.06 187.96 0)
+			(at 217.17 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24329,7 +24105,7 @@
 			)
 		)
 		(property "Value" "VDD_3V3"
-			(at 226.06 184.15 0)
+			(at 217.17 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24337,7 +24113,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 226.06 187.96 0)
+			(at 217.17 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24346,7 +24122,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 187.96 0)
+			(at 217.17 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24355,7 +24131,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 226.06 187.96 0)
+			(at 217.17 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24596,7 +24372,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_CC_0")
-		(at 322.58 243.84 0)
+		(at 313.69 236.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24604,7 +24380,7 @@
 		(dnp no)
 		(uuid "2a345cfb-bf52-47ac-a392-477517145350")
 		(property "Reference" "C34"
-			(at 327.66 243.84 0)
+			(at 318.77 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24613,7 +24389,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 327.66 246.38 0)
+			(at 318.77 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24622,7 +24398,7 @@
 			)
 		)
 		(property "Footprint" "C0201"
-			(at 322.58 243.84 0)
+			(at 313.69 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24631,7 +24407,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 322.58 243.84 0)
+			(at 313.69 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24640,7 +24416,7 @@
 			)
 		)
 		(property "Description" "SMD CAP Ceramic 100nF-10V-10%-X5R;0201"
-			(at 322.58 243.84 0)
+			(at 313.69 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24649,7 +24425,7 @@
 			)
 		)
 		(property "RATING" "10V,X5R"
-			(at 327.66 248.92 0)
+			(at 318.77 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24658,7 +24434,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "C0201"
-			(at 327.66 251.46 0)
+			(at 318.77 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24667,7 +24443,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0201KRX5R6BB104"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24677,7 +24453,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55¡ãC to 85¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24687,7 +24463,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24697,7 +24473,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24707,7 +24483,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24717,7 +24493,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24727,7 +24503,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24737,7 +24513,7 @@
 			)
 		)
 		(property "TEMPERATURE COEFFICIENT" "X5R"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24747,7 +24523,7 @@
 			)
 		)
 		(property "DIELECTRIC TYPE" "Ceramic"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24757,7 +24533,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "ODYSSEY-i.MX8M"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24767,7 +24543,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0201"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24777,7 +24553,7 @@
 			)
 		)
 		(property "PN" "302010271"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24787,7 +24563,7 @@
 			)
 		)
 		(property "SIGNAL_MODEL" "DEFAULT_CAPACITOR_100000pF_1_2"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24797,7 +24573,7 @@
 			)
 		)
 		(property "STATUS" "ODYSSEY-i.MX8M"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25032,7 +24808,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:VDD_3V3_SD_BAR")
-		(at 312.42 187.96 180)
+		(at 303.53 180.34 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25040,7 +24816,7 @@
 		(dnp no)
 		(uuid "30e8eceb-31ef-49d8-9054-6e061be229d6")
 		(property "Reference" "#PWR?"
-			(at 312.42 187.96 0)
+			(at 303.53 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25049,7 +24825,7 @@
 			)
 		)
 		(property "Value" "VDD_3V3_SD"
-			(at 312.42 184.15 0)
+			(at 303.53 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25057,7 +24833,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 312.42 187.96 0)
+			(at 303.53 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25066,7 +24842,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 312.42 187.96 0)
+			(at 303.53 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25075,7 +24851,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 312.42 187.96 0)
+			(at 303.53 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25103,7 +24879,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_CC_0")
-		(at 309.88 243.84 0)
+		(at 300.99 236.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25111,7 +24887,7 @@
 		(dnp no)
 		(uuid "3571020d-2e92-4850-9816-d32da42dfbac")
 		(property "Reference" "C33"
-			(at 314.96 243.84 0)
+			(at 306.07 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25120,7 +24896,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 314.96 246.38 0)
+			(at 306.07 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25129,7 +24905,7 @@
 			)
 		)
 		(property "Footprint" "C0402"
-			(at 309.88 243.84 0)
+			(at 300.99 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25138,7 +24914,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 309.88 243.84 0)
+			(at 300.99 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25147,7 +24923,7 @@
 			)
 		)
 		(property "Description" "SMD CAP Ceramic 4.7uF-10V-10%-X5R;0402"
-			(at 309.88 243.84 0)
+			(at 300.99 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25156,7 +24932,7 @@
 			)
 		)
 		(property "RATING" "10V,X5R"
-			(at 314.96 248.92 0)
+			(at 306.07 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25165,7 +24941,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "C0402"
-			(at 314.96 251.46 0)
+			(at 306.07 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25174,7 +24950,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CL05A475KP5NRNC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25184,7 +24960,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55¡ãC to 85¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25194,7 +24970,7 @@
 			)
 		)
 		(property "PN" "302013262"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25204,7 +24980,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0402"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25214,7 +24990,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "BeagleBone Carrier Board"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25224,7 +25000,7 @@
 			)
 		)
 		(property "DIELECTRIC TYPE" "Ceramic"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25234,7 +25010,7 @@
 			)
 		)
 		(property "TEMPERATURE COEFFICIENT" "X5R"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25244,7 +25020,7 @@
 			)
 		)
 		(property "TOLERANCE" "20%"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25254,7 +25030,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25264,7 +25040,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25274,7 +25050,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25284,7 +25060,7 @@
 			)
 		)
 		(property "MANUFACTURER" "SAMSUNG"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25294,7 +25070,7 @@
 			)
 		)
 		(property "SIGNAL_MODEL" "DEFAULT_CAPACITOR_4.7e+06pF_1_2"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25304,7 +25080,7 @@
 			)
 		)
 		(property "STATUS" "PocketBeagle2"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25905,7 +25681,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_DIODE TVS BI-DIR")
-		(at 287.02 238.76 0)
+		(at 278.13 231.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25913,7 +25689,7 @@
 		(dnp no)
 		(uuid "438b6796-e6bc-4f33-9c93-f9882b37c09c")
 		(property "Reference" "D23"
-			(at 292.1 243.84 0)
+			(at 283.21 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25922,7 +25698,7 @@
 			)
 		)
 		(property "Value" "TPD1E1B04DPYR"
-			(at 287.02 253.746 90)
+			(at 278.13 246.126 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25931,7 +25707,7 @@
 			)
 		)
 		(property "Footprint" "D0402"
-			(at 287.02 238.76 0)
+			(at 278.13 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25940,7 +25716,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 287.02 238.76 0)
+			(at 278.13 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25949,7 +25725,7 @@
 			)
 		)
 		(property "Description" "SMD TVS DIODE 3.6V-6.4V-1pF;X1SON(2)"
-			(at 287.02 238.76 0)
+			(at 278.13 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25958,7 +25734,7 @@
 			)
 		)
 		(property "RATING" "3.6V"
-			(at 292.1 246.38 0)
+			(at 283.21 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25967,7 +25743,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "D0402"
-			(at 292.1 248.92 0)
+			(at 283.21 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25976,7 +25752,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-40¡ãC to 125¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25986,7 +25762,7 @@
 			)
 		)
 		(property "STATUS" "Grove Base Cape for PocketBeagle"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25996,7 +25772,7 @@
 			)
 		)
 		(property "PART TYPE" "ESD"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26006,7 +25782,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "TPD1E1B04DPYR"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26016,7 +25792,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TI"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26026,7 +25802,7 @@
 			)
 		)
 		(property "PN" "304050798"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26036,7 +25812,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0402"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26046,7 +25822,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "Grove Base Cape for PocketBeagle"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26056,7 +25832,7 @@
 			)
 		)
 		(property "RATED VOLTAGE" "3.6V"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26066,7 +25842,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26098,7 +25874,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_R_0")
-		(at 248.92 193.04 0)
+		(at 240.03 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26106,7 +25882,7 @@
 		(dnp no)
 		(uuid "4866269a-316f-470a-8ad6-d0b817241fe2")
 		(property "Reference" "R30"
-			(at 254 195.58 0)
+			(at 245.11 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26115,7 +25891,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 254 198.12 0)
+			(at 245.11 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26124,7 +25900,7 @@
 			)
 		)
 		(property "Footprint" "R0201"
-			(at 248.92 193.04 0)
+			(at 240.03 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26133,7 +25909,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 248.92 193.04 0)
+			(at 240.03 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26142,7 +25918,7 @@
 			)
 		)
 		(property "Description" "SMD RES 10K-¡À1%-1/20W;0201"
-			(at 248.92 193.04 0)
+			(at 240.03 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26151,7 +25927,7 @@
 			)
 		)
 		(property "RATING" "1%"
-			(at 254 200.66 0)
+			(at 245.11 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26160,7 +25936,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "R0201"
-			(at 254 203.2 0)
+			(at 245.11 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26169,7 +25945,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "RC0201FR-0710KL"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26179,7 +25955,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55¡ãC to 125¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26189,7 +25965,7 @@
 			)
 		)
 		(property "RATED POWER" "1/20W"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26199,7 +25975,7 @@
 			)
 		)
 		(property "PN" "301010526"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26209,7 +25985,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0201"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26219,7 +25995,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "RV PI"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26229,7 +26005,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26239,7 +26015,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26249,7 +26025,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26259,7 +26035,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26269,7 +26045,7 @@
 			)
 		)
 		(property "NO_XNET_CONNECTION" "YES"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26279,7 +26055,7 @@
 			)
 		)
 		(property "STATUS" "BeagleBone AI TDA4VM"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27285,7 +27061,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_R_0")
-		(at 236.22 193.04 0)
+		(at 227.33 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27293,7 +27069,7 @@
 		(dnp no)
 		(uuid "60b62d46-fa21-4dfa-a22f-2b759b8c47ea")
 		(property "Reference" "R79"
-			(at 241.3 195.58 0)
+			(at 232.41 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27302,7 +27078,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 241.3 198.12 0)
+			(at 232.41 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27311,7 +27087,7 @@
 			)
 		)
 		(property "Footprint" "R0201"
-			(at 236.22 193.04 0)
+			(at 227.33 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27320,7 +27096,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 193.04 0)
+			(at 227.33 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27329,7 +27105,7 @@
 			)
 		)
 		(property "Description" "SMD RES 10K-¡À1%-1/20W;0201"
-			(at 236.22 193.04 0)
+			(at 227.33 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27338,7 +27114,7 @@
 			)
 		)
 		(property "RATING" "1%"
-			(at 241.3 200.66 0)
+			(at 232.41 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27347,7 +27123,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "R0201"
-			(at 241.3 203.2 0)
+			(at 232.41 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27356,7 +27132,7 @@
 			)
 		)
 		(property "NO_XNET_CONNECTION" "YES"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27366,7 +27142,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27376,7 +27152,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27386,7 +27162,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27396,7 +27172,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27406,7 +27182,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "RV PI"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27416,7 +27192,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0201"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27426,7 +27202,7 @@
 			)
 		)
 		(property "PN" "301010526"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27436,7 +27212,7 @@
 			)
 		)
 		(property "RATED POWER" "1/20W"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27446,7 +27222,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55¡ãC to 125¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27456,7 +27232,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "RC0201FR-0710KL"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27466,7 +27242,7 @@
 			)
 		)
 		(property "STATUS" "BeagleBone AI TDA4VM"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27660,7 +27436,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_DIODE TVS BI-DIR")
-		(at 236.22 238.76 0)
+		(at 227.33 231.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27668,7 +27444,7 @@
 		(dnp no)
 		(uuid "6b8c0ecc-7f78-4b80-86b3-bff63537e46d")
 		(property "Reference" "D19"
-			(at 241.3 243.84 0)
+			(at 232.41 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27677,7 +27453,7 @@
 			)
 		)
 		(property "Value" "TPD1E1B04DPYR"
-			(at 236.22 253.746 90)
+			(at 227.33 246.126 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27686,7 +27462,7 @@
 			)
 		)
 		(property "Footprint" "D0402"
-			(at 236.22 238.76 0)
+			(at 227.33 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27695,7 +27471,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 238.76 0)
+			(at 227.33 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27704,7 +27480,7 @@
 			)
 		)
 		(property "Description" "SMD TVS DIODE 3.6V-6.4V-1pF;X1SON(2)"
-			(at 236.22 238.76 0)
+			(at 227.33 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27713,7 +27489,7 @@
 			)
 		)
 		(property "RATING" "3.6V"
-			(at 241.3 246.38 0)
+			(at 232.41 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27722,7 +27498,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "D0402"
-			(at 241.3 248.92 0)
+			(at 232.41 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27731,7 +27507,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-40¡ãC to 125¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27741,7 +27517,7 @@
 			)
 		)
 		(property "STATUS" "Grove Base Cape for PocketBeagle"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27751,7 +27527,7 @@
 			)
 		)
 		(property "PART TYPE" "ESD"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27761,7 +27537,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "TPD1E1B04DPYR"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27771,7 +27547,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TI"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27781,7 +27557,7 @@
 			)
 		)
 		(property "PN" "304050798"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27791,7 +27567,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0402"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27801,7 +27577,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "Grove Base Cape for PocketBeagle"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27811,7 +27587,7 @@
 			)
 		)
 		(property "RATED VOLTAGE" "3.6V"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27821,7 +27597,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28271,7 +28047,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:GND_POWER_GROUND")
-		(at 350.52 254 0)
+		(at 341.63 246.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28279,7 +28055,7 @@
 		(dnp no)
 		(uuid "7c2287cc-5ba9-4043-a73b-63df2bd03365")
 		(property "Reference" "#PWR?"
-			(at 350.52 254 0)
+			(at 341.63 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28288,7 +28064,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 350.52 260.35 0)
+			(at 341.63 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28297,7 +28073,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 350.52 254 0)
+			(at 341.63 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28306,7 +28082,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 350.52 254 0)
+			(at 341.63 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28315,7 +28091,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 350.52 254 0)
+			(at 341.63 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28700,7 +28476,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_eMMC_1")
-		(at 370.84 10.16 0)
+		(at 369.57 19.05 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28708,7 +28484,7 @@
 		(dnp no)
 		(uuid "89b460dd-554b-4589-9062-2475a62fe597")
 		(property "Reference" "U3"
-			(at 370.84 8.89 0)
+			(at 369.57 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28717,7 +28493,7 @@
 			)
 		)
 		(property "Value" "EMMC04G-MT32-01G10"
-			(at 370.84 169.164 0)
+			(at 369.57 178.054 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28726,7 +28502,7 @@
 			)
 		)
 		(property "Footprint" "BGA153_P14_P5_11P5X13"
-			(at 370.84 10.16 0)
+			(at 369.57 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28735,7 +28511,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 370.84 10.16 0)
+			(at 369.57 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28744,7 +28520,7 @@
 			)
 		)
 		(property "Description" "(BB) SMD IC Memory 4GB eMMC 5.1; VFBGA-153"
-			(at 370.84 10.16 0)
+			(at 369.57 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28753,7 +28529,7 @@
 			)
 		)
 		(property "SPLIT_INST" "TRUE"
-			(at 370.84 10.16 0)
+			(at 369.57 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28763,7 +28539,7 @@
 			)
 		)
 		(property "SWAP_INFO" "(S1+S2)"
-			(at 370.84 10.16 0)
+			(at 369.57 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28773,7 +28549,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "BGA153_P14_P5_11P5X13"
-			(at 370.84 175.768 0)
+			(at 369.57 184.658 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28782,7 +28558,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "EMMC04G-MT32-01G10"
-			(at 0 297.18 0)
+			(at -1.27 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28792,7 +28568,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-25¡ãC to 85¡ãC"
-			(at 0 297.18 0)
+			(at -1.27 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28802,7 +28578,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Kingston"
-			(at 0 297.18 0)
+			(at -1.27 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28812,7 +28588,7 @@
 			)
 		)
 		(property "CLASS" "IC"
-			(at 0 297.18 0)
+			(at -1.27 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28822,7 +28598,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at 0 297.18 0)
+			(at -1.27 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28832,7 +28608,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at 0 297.18 0)
+			(at -1.27 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28842,7 +28618,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "PocketBeagle2"
-			(at 0 297.18 0)
+			(at -1.27 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28852,7 +28628,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "VFBGA-153"
-			(at 370.84 172.466 0)
+			(at 369.57 181.356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28861,7 +28637,7 @@
 			)
 		)
 		(property "PN" "310091565"
-			(at 0 297.18 0)
+			(at -1.27 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28871,7 +28647,7 @@
 			)
 		)
 		(property "STATUS" "PocketBeagle2"
-			(at 0 297.18 0)
+			(at -1.27 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29428,7 +29204,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_R_0")
-		(at 287.02 193.04 0)
+		(at 278.13 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29436,7 +29212,7 @@
 		(dnp no)
 		(uuid "8ca7f8b2-0814-41f3-acc3-a41b0206735b")
 		(property "Reference" "R92"
-			(at 292.1 195.58 0)
+			(at 283.21 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29445,7 +29221,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 292.1 198.12 0)
+			(at 283.21 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29454,7 +29230,7 @@
 			)
 		)
 		(property "Footprint" "R0201"
-			(at 287.02 193.04 0)
+			(at 278.13 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29463,7 +29239,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 287.02 193.04 0)
+			(at 278.13 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29472,7 +29248,7 @@
 			)
 		)
 		(property "Description" "SMD RES 10K-¡À1%-1/20W;0201"
-			(at 287.02 193.04 0)
+			(at 278.13 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29481,7 +29257,7 @@
 			)
 		)
 		(property "RATING" "1%"
-			(at 292.1 200.66 0)
+			(at 283.21 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29490,7 +29266,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "R0201"
-			(at 292.1 203.2 0)
+			(at 283.21 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29499,7 +29275,7 @@
 			)
 		)
 		(property "NO_XNET_CONNECTION" "YES"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29509,7 +29285,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29519,7 +29295,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29529,7 +29305,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29539,7 +29315,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29549,7 +29325,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "RV PI"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29559,7 +29335,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0201"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29569,7 +29345,7 @@
 			)
 		)
 		(property "PN" "301010526"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29579,7 +29355,7 @@
 			)
 		)
 		(property "RATED POWER" "1/20W"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29589,7 +29365,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55¡ãC to 125¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29599,7 +29375,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "RC0201FR-0710KL"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29609,7 +29385,7 @@
 			)
 		)
 		(property "STATUS" "BeagleBone AI TDA4VM"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29641,7 +29417,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:VDD_SD_BAR")
-		(at 238.76 185.42 180)
+		(at 229.87 177.8 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29649,7 +29425,7 @@
 		(dnp no)
 		(uuid "8cad0039-b605-4744-8a78-e9aa5f9500b6")
 		(property "Reference" "#PWR?"
-			(at 238.76 185.42 0)
+			(at 229.87 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29658,7 +29434,7 @@
 			)
 		)
 		(property "Value" "VDD_SD"
-			(at 238.76 181.61 0)
+			(at 229.87 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29666,7 +29442,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 238.76 185.42 0)
+			(at 229.87 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29675,7 +29451,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 238.76 185.42 0)
+			(at 229.87 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29684,7 +29460,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 238.76 185.42 0)
+			(at 229.87 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31083,7 +30859,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_DIODE TVS BI-DIR")
-		(at 223.52 238.76 0)
+		(at 214.63 231.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31091,7 +30867,7 @@
 		(dnp no)
 		(uuid "a8fe3821-7280-4581-8c1a-1ab9f74a5a8c")
 		(property "Reference" "D2"
-			(at 228.6 243.84 0)
+			(at 219.71 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31100,7 +30876,7 @@
 			)
 		)
 		(property "Value" "TPD1E1B04DPYR"
-			(at 223.52 253.746 90)
+			(at 214.63 246.126 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31109,7 +30885,7 @@
 			)
 		)
 		(property "Footprint" "D0402"
-			(at 223.52 238.76 0)
+			(at 214.63 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31118,7 +30894,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 238.76 0)
+			(at 214.63 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31127,7 +30903,7 @@
 			)
 		)
 		(property "Description" "SMD TVS DIODE 3.6V-6.4V-1pF;X1SON(2)"
-			(at 223.52 238.76 0)
+			(at 214.63 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31136,7 +30912,7 @@
 			)
 		)
 		(property "RATING" "3.6V"
-			(at 228.6 246.38 0)
+			(at 219.71 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31145,7 +30921,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "D0402"
-			(at 228.6 248.92 0)
+			(at 219.71 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31154,7 +30930,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31164,7 +30940,7 @@
 			)
 		)
 		(property "RATED VOLTAGE" "3.6V"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31174,7 +30950,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "Grove Base Cape for PocketBeagle"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31184,7 +30960,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0402"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31194,7 +30970,7 @@
 			)
 		)
 		(property "PN" "304050798"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31204,7 +30980,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TI"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31214,7 +30990,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "TPD1E1B04DPYR"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31224,7 +31000,7 @@
 			)
 		)
 		(property "PART TYPE" "ESD"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31234,7 +31010,7 @@
 			)
 		)
 		(property "STATUS" "Grove Base Cape for PocketBeagle"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31244,7 +31020,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-40¡ãC to 125¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32099,7 +31875,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_DIODE TVS BI-DIR")
-		(at 299.72 238.76 0)
+		(at 290.83 231.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32107,7 +31883,7 @@
 		(dnp no)
 		(uuid "c02ec52c-3c86-413e-b76d-161691d7d149")
 		(property "Reference" "D26"
-			(at 304.8 243.84 0)
+			(at 295.91 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32116,7 +31892,7 @@
 			)
 		)
 		(property "Value" "TPD1E1B04DPYR"
-			(at 299.72 253.746 90)
+			(at 290.83 246.126 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32125,7 +31901,7 @@
 			)
 		)
 		(property "Footprint" "D0402"
-			(at 299.72 238.76 0)
+			(at 290.83 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32134,7 +31910,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 299.72 238.76 0)
+			(at 290.83 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32143,7 +31919,7 @@
 			)
 		)
 		(property "Description" "SMD TVS DIODE 3.6V-6.4V-1pF;X1SON(2)"
-			(at 299.72 238.76 0)
+			(at 290.83 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32152,7 +31928,7 @@
 			)
 		)
 		(property "RATING" "3.6V"
-			(at 304.8 246.38 0)
+			(at 295.91 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32161,7 +31937,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "D0402"
-			(at 304.8 248.92 0)
+			(at 295.91 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32170,7 +31946,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-40¡ãC to 125¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32180,7 +31956,7 @@
 			)
 		)
 		(property "STATUS" "Grove Base Cape for PocketBeagle"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32190,7 +31966,7 @@
 			)
 		)
 		(property "PART TYPE" "ESD"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32200,7 +31976,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "TPD1E1B04DPYR"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32210,7 +31986,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TI"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32220,7 +31996,7 @@
 			)
 		)
 		(property "PN" "304050798"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32230,7 +32006,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0402"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32240,7 +32016,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "Grove Base Cape for PocketBeagle"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32250,7 +32026,7 @@
 			)
 		)
 		(property "RATED VOLTAGE" "3.6V"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32260,7 +32036,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32292,7 +32068,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_R_0")
-		(at 223.52 193.04 0)
+		(at 214.63 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32300,7 +32076,7 @@
 		(dnp no)
 		(uuid "c0db67a1-0f3f-46ca-9f7e-822c54ec335e")
 		(property "Reference" "R61"
-			(at 228.6 195.58 0)
+			(at 219.71 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32309,7 +32085,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 228.6 198.12 0)
+			(at 219.71 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32318,7 +32094,7 @@
 			)
 		)
 		(property "Footprint" "R0201"
-			(at 223.52 193.04 0)
+			(at 214.63 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32327,7 +32103,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 193.04 0)
+			(at 214.63 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32336,7 +32112,7 @@
 			)
 		)
 		(property "Description" "SMD RES 10K-¡À1%-1/20W;0201"
-			(at 223.52 193.04 0)
+			(at 214.63 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32345,7 +32121,7 @@
 			)
 		)
 		(property "RATING" "1%"
-			(at 228.6 200.66 0)
+			(at 219.71 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32354,7 +32130,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "R0201"
-			(at 228.6 203.2 0)
+			(at 219.71 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32363,7 +32139,7 @@
 			)
 		)
 		(property "NO_XNET_CONNECTION" "YES"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32373,7 +32149,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32383,7 +32159,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32393,7 +32169,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32403,7 +32179,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32413,7 +32189,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "RV PI"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32423,7 +32199,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0201"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32433,7 +32209,7 @@
 			)
 		)
 		(property "PN" "301010526"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32443,7 +32219,7 @@
 			)
 		)
 		(property "RATED POWER" "1/20W"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32453,7 +32229,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55¡ãC to 125¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32463,7 +32239,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "RC0201FR-0710KL"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32473,7 +32249,7 @@
 			)
 		)
 		(property "STATUS" "BeagleBone AI TDA4VM"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32505,7 +32281,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_R_0")
-		(at 261.62 193.04 0)
+		(at 252.73 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32513,7 +32289,7 @@
 		(dnp no)
 		(uuid "c6ab2a3e-6ae4-4b89-84aa-d4f7c394f4b7")
 		(property "Reference" "R89"
-			(at 266.7 195.58 0)
+			(at 257.81 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32522,7 +32298,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 266.7 198.12 0)
+			(at 257.81 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32531,7 +32307,7 @@
 			)
 		)
 		(property "Footprint" "R0201"
-			(at 261.62 193.04 0)
+			(at 252.73 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32540,7 +32316,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 193.04 0)
+			(at 252.73 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32549,7 +32325,7 @@
 			)
 		)
 		(property "Description" "SMD RES 10K-¡À1%-1/20W;0201"
-			(at 261.62 193.04 0)
+			(at 252.73 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32558,7 +32334,7 @@
 			)
 		)
 		(property "RATING" "1%"
-			(at 266.7 200.66 0)
+			(at 257.81 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32567,7 +32343,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "R0201"
-			(at 266.7 203.2 0)
+			(at 257.81 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32576,7 +32352,7 @@
 			)
 		)
 		(property "NO_XNET_CONNECTION" "YES"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32586,7 +32362,7 @@
 			)
 		)
 		(property "PN" "301010526"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32596,7 +32372,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0201"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32606,7 +32382,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "RV PI"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32616,7 +32392,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32626,7 +32402,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32636,7 +32412,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32646,7 +32422,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32656,7 +32432,7 @@
 			)
 		)
 		(property "RATED POWER" "1/20W"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32666,7 +32442,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55¡ãC to 125¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32676,7 +32452,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "RC0201FR-0710KL"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32686,7 +32462,7 @@
 			)
 		)
 		(property "STATUS" "BeagleBone AI TDA4VM"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33728,7 +33504,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:GND_POWER_GROUND")
-		(at 302.26 256.54 0)
+		(at 293.37 248.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33736,7 +33512,7 @@
 		(dnp no)
 		(uuid "ce233cd8-aec7-4a1e-b82c-8b39e1409be4")
 		(property "Reference" "#PWR?"
-			(at 302.26 256.54 0)
+			(at 293.37 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33745,7 +33521,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 302.26 262.89 0)
+			(at 293.37 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33754,7 +33530,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 302.26 256.54 0)
+			(at 293.37 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33763,7 +33539,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 302.26 256.54 0)
+			(at 293.37 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33772,7 +33548,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 302.26 256.54 0)
+			(at 293.37 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34567,7 +34343,7 @@
 			)
 		)
 		(property "Value" "AM6232ASCGHAALWR"
-			(at 7.62 156.464 0)
+			(at 12.7 155.194 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34603,7 +34379,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "bga425_0d5_13x13mm"
-			(at 7.62 162.56 0)
+			(at 12.954 159.766 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34672,7 +34448,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "BGA425"
-			(at 7.62 159.766 0)
+			(at 12.7 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36002,7 +35778,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_R_0")
-		(at 274.32 193.04 0)
+		(at 265.43 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36010,7 +35786,7 @@
 		(dnp no)
 		(uuid "d7afc37c-717b-4e55-aed5-c72acd718ccc")
 		(property "Reference" "R90"
-			(at 279.4 195.58 0)
+			(at 270.51 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36019,7 +35795,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 279.4 198.12 0)
+			(at 270.51 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36028,7 +35804,7 @@
 			)
 		)
 		(property "Footprint" "R0201"
-			(at 274.32 193.04 0)
+			(at 265.43 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36037,7 +35813,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 274.32 193.04 0)
+			(at 265.43 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36046,7 +35822,7 @@
 			)
 		)
 		(property "Description" "SMD RES 10K-¡À1%-1/20W;0201"
-			(at 274.32 193.04 0)
+			(at 265.43 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36055,7 +35831,7 @@
 			)
 		)
 		(property "RATING" "1%"
-			(at 279.4 200.66 0)
+			(at 270.51 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36064,7 +35840,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "R0201"
-			(at 279.4 203.2 0)
+			(at 270.51 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36073,7 +35849,7 @@
 			)
 		)
 		(property "NO_XNET_CONNECTION" "YES"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36083,7 +35859,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36093,7 +35869,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36103,7 +35879,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36113,7 +35889,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36123,7 +35899,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "RV PI"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36133,7 +35909,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0201"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36143,7 +35919,7 @@
 			)
 		)
 		(property "PN" "301010526"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36153,7 +35929,7 @@
 			)
 		)
 		(property "RATED POWER" "1/20W"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36163,7 +35939,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55¡ãC to 125¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36173,7 +35949,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "RC0201FR-0710KL"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36183,7 +35959,7 @@
 			)
 		)
 		(property "STATUS" "BeagleBone AI TDA4VM"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36215,7 +35991,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_R_0")
-		(at 299.72 193.04 0)
+		(at 290.83 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36223,7 +35999,7 @@
 		(dnp no)
 		(uuid "d93accfb-f6af-41ca-a04c-4e3287520a87")
 		(property "Reference" "R95"
-			(at 304.8 195.58 0)
+			(at 295.91 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36232,7 +36008,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 304.8 198.12 0)
+			(at 295.91 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36241,7 +36017,7 @@
 			)
 		)
 		(property "Footprint" "R0201"
-			(at 299.72 193.04 0)
+			(at 290.83 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36250,7 +36026,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 299.72 193.04 0)
+			(at 290.83 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36259,7 +36035,7 @@
 			)
 		)
 		(property "Description" "SMD RES 10K-¡À1%-1/20W;0201"
-			(at 299.72 193.04 0)
+			(at 290.83 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36268,7 +36044,7 @@
 			)
 		)
 		(property "RATING" "1%"
-			(at 304.8 200.66 0)
+			(at 295.91 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36277,7 +36053,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "R0201"
-			(at 304.8 203.2 0)
+			(at 295.91 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36286,7 +36062,7 @@
 			)
 		)
 		(property "NO_XNET_CONNECTION" "YES"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36296,7 +36072,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36306,7 +36082,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36316,7 +36092,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36326,7 +36102,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36336,7 +36112,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "RV PI"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36346,7 +36122,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0201"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36356,7 +36132,7 @@
 			)
 		)
 		(property "PN" "301010526"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36366,7 +36142,7 @@
 			)
 		)
 		(property "RATED POWER" "1/20W"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36376,7 +36152,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55¡ãC to 125¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36386,7 +36162,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "RC0201FR-0710KL"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36396,7 +36172,7 @@
 			)
 		)
 		(property "STATUS" "BeagleBone AI TDA4VM"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36428,7 +36204,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_MicroSD Card_9+4P_ST-TF-MR267")
-		(at 355.6 210.82 0)
+		(at 346.71 203.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36436,7 +36212,7 @@
 		(dnp no)
 		(uuid "da6dfa63-8593-40a1-b0be-9da9c67da239")
 		(property "Reference" "J3"
-			(at 355.6 209.55 0)
+			(at 346.71 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36445,7 +36221,7 @@
 			)
 		)
 		(property "Value" "ST-TF-MR267"
-			(at 355.6 237.744 0)
+			(at 346.71 230.124 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36454,7 +36230,7 @@
 			)
 		)
 		(property "Footprint" "sd-micro-st-tf-mr267"
-			(at 355.6 210.82 0)
+			(at 346.71 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36463,7 +36239,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 355.6 210.82 0)
+			(at 346.71 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36472,7 +36248,7 @@
 			)
 		)
 		(property "Description" "SMD uSD Card Holder;9+4P-L11.25*W6.96*H1.42mm"
-			(at 355.6 210.82 0)
+			(at 346.71 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36481,7 +36257,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "sd-micro-st-tf-mr267"
-			(at 355.6 241.046 0)
+			(at 346.71 233.426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36490,7 +36266,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "ST-TF-MR267"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36500,7 +36276,7 @@
 			)
 		)
 		(property "MANUFACTURER" "ÉÌÆì"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36510,7 +36286,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "L11.25*W6.96*H1.42mm"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36520,7 +36296,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-25¡ãC to 70¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36530,7 +36306,7 @@
 			)
 		)
 		(property "PN" "320090535"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36540,7 +36316,7 @@
 			)
 		)
 		(property "STATUS" "PocketBeagle2"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36676,7 +36452,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_CC_0")
-		(at 335.28 243.84 0)
+		(at 326.39 236.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36684,7 +36460,7 @@
 		(dnp no)
 		(uuid "dff5a757-fe86-4727-a5b7-0109a7679329")
 		(property "Reference" "C35"
-			(at 340.36 243.84 0)
+			(at 331.47 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36693,7 +36469,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 340.36 246.38 0)
+			(at 331.47 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36702,7 +36478,7 @@
 			)
 		)
 		(property "Footprint" "C0201"
-			(at 335.28 243.84 0)
+			(at 326.39 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36711,7 +36487,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 335.28 243.84 0)
+			(at 326.39 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36720,7 +36496,7 @@
 			)
 		)
 		(property "Description" "SMD CAP Ceramic 100nF-10V-10%-X5R;0201"
-			(at 335.28 243.84 0)
+			(at 326.39 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36729,7 +36505,7 @@
 			)
 		)
 		(property "RATING" "10V,X5R"
-			(at 340.36 248.92 0)
+			(at 331.47 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36738,7 +36514,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "C0201"
-			(at 340.36 251.46 0)
+			(at 331.47 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36747,7 +36523,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0201KRX5R6BB104"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36757,7 +36533,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55¡ãC to 85¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36767,7 +36543,7 @@
 			)
 		)
 		(property "PN" "302010271"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36777,7 +36553,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0201"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36787,7 +36563,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "ODYSSEY-i.MX8M"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36797,7 +36573,7 @@
 			)
 		)
 		(property "DIELECTRIC TYPE" "Ceramic"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36807,7 +36583,7 @@
 			)
 		)
 		(property "TEMPERATURE COEFFICIENT" "X5R"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36817,7 +36593,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36827,7 +36603,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36837,7 +36613,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36847,7 +36623,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36857,7 +36633,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36867,7 +36643,7 @@
 			)
 		)
 		(property "SIGNAL_MODEL" "DEFAULT_CAPACITOR_100000pF_1_2"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36877,7 +36653,7 @@
 			)
 		)
 		(property "STATUS" "ODYSSEY-i.MX8M"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37195,7 +36971,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_DIODE TVS BI-DIR")
-		(at 274.32 238.76 0)
+		(at 265.43 231.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37203,7 +36979,7 @@
 		(dnp no)
 		(uuid "e4635cf1-803d-46c0-8e6e-f3fd095becf7")
 		(property "Reference" "D22"
-			(at 279.4 243.84 0)
+			(at 270.51 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37212,7 +36988,7 @@
 			)
 		)
 		(property "Value" "TPD1E1B04DPYR"
-			(at 274.32 253.746 90)
+			(at 265.43 246.126 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37221,7 +36997,7 @@
 			)
 		)
 		(property "Footprint" "D0402"
-			(at 274.32 238.76 0)
+			(at 265.43 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37230,7 +37006,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 274.32 238.76 0)
+			(at 265.43 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37239,7 +37015,7 @@
 			)
 		)
 		(property "Description" "SMD TVS DIODE 3.6V-6.4V-1pF;X1SON(2)"
-			(at 274.32 238.76 0)
+			(at 265.43 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37248,7 +37024,7 @@
 			)
 		)
 		(property "RATING" "3.6V"
-			(at 279.4 246.38 0)
+			(at 270.51 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37257,7 +37033,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "D0402"
-			(at 279.4 248.92 0)
+			(at 270.51 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37266,7 +37042,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-40¡ãC to 125¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37276,7 +37052,7 @@
 			)
 		)
 		(property "STATUS" "Grove Base Cape for PocketBeagle"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37286,7 +37062,7 @@
 			)
 		)
 		(property "PART TYPE" "ESD"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37296,7 +37072,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "TPD1E1B04DPYR"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37306,7 +37082,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TI"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37316,7 +37092,7 @@
 			)
 		)
 		(property "PN" "304050798"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37326,7 +37102,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0402"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37336,7 +37112,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "Grove Base Cape for PocketBeagle"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37346,7 +37122,7 @@
 			)
 		)
 		(property "RATED VOLTAGE" "3.6V"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37356,7 +37132,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37366,7 +37142,7 @@
 			)
 		)
 		(property "NO_XNET_CONNECTION" "YES"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37398,7 +37174,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_DIODE TVS BI-DIR")
-		(at 248.92 238.76 0)
+		(at 240.03 231.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37406,7 +37182,7 @@
 		(dnp no)
 		(uuid "e58f5f52-2cea-4750-9baf-cf283bb157b0")
 		(property "Reference" "D20"
-			(at 254 243.84 0)
+			(at 245.11 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37415,7 +37191,7 @@
 			)
 		)
 		(property "Value" "TPD1E1B04DPYR"
-			(at 248.92 253.746 90)
+			(at 240.03 246.126 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37424,7 +37200,7 @@
 			)
 		)
 		(property "Footprint" "D0402"
-			(at 248.92 238.76 0)
+			(at 240.03 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37433,7 +37209,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 248.92 238.76 0)
+			(at 240.03 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37442,7 +37218,7 @@
 			)
 		)
 		(property "Description" "SMD TVS DIODE 3.6V-6.4V-1pF;X1SON(2)"
-			(at 248.92 238.76 0)
+			(at 240.03 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37451,7 +37227,7 @@
 			)
 		)
 		(property "RATING" "3.6V"
-			(at 254 246.38 0)
+			(at 245.11 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37460,7 +37236,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "D0402"
-			(at 254 248.92 0)
+			(at 245.11 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37469,7 +37245,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-40¡ãC to 125¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37479,7 +37255,7 @@
 			)
 		)
 		(property "STATUS" "Grove Base Cape for PocketBeagle"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37489,7 +37265,7 @@
 			)
 		)
 		(property "PART TYPE" "ESD"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37499,7 +37275,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "TPD1E1B04DPYR"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37509,7 +37285,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TI"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37519,7 +37295,7 @@
 			)
 		)
 		(property "PN" "304050798"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37529,7 +37305,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0402"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37539,7 +37315,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "Grove Base Cape for PocketBeagle"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37549,7 +37325,7 @@
 			)
 		)
 		(property "RATED VOLTAGE" "3.6V"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37559,7 +37335,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37794,7 +37570,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_DIODE TVS BI-DIR")
-		(at 261.62 238.76 0)
+		(at 252.73 231.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37802,7 +37578,7 @@
 		(dnp no)
 		(uuid "e803d52c-1af4-4074-9b1c-878e00307cd5")
 		(property "Reference" "D21"
-			(at 266.7 243.84 0)
+			(at 257.81 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37811,7 +37587,7 @@
 			)
 		)
 		(property "Value" "TPD1E1B04DPYR"
-			(at 261.62 253.746 90)
+			(at 252.73 246.126 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37820,7 +37596,7 @@
 			)
 		)
 		(property "Footprint" "D0402"
-			(at 261.62 238.76 0)
+			(at 252.73 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37829,7 +37605,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 238.76 0)
+			(at 252.73 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37838,7 +37614,7 @@
 			)
 		)
 		(property "Description" "SMD TVS DIODE 3.6V-6.4V-1pF;X1SON(2)"
-			(at 261.62 238.76 0)
+			(at 252.73 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37847,7 +37623,7 @@
 			)
 		)
 		(property "RATING" "3.6V"
-			(at 266.7 246.38 0)
+			(at 257.81 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37856,7 +37632,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "D0402"
-			(at 266.7 248.92 0)
+			(at 257.81 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37865,7 +37641,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-40¡ãC to 125¡ãC"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37875,7 +37651,7 @@
 			)
 		)
 		(property "STATUS" "Grove Base Cape for PocketBeagle"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37885,7 +37661,7 @@
 			)
 		)
 		(property "PART TYPE" "ESD"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37895,7 +37671,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "TPD1E1B04DPYR"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37905,7 +37681,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TI"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37915,7 +37691,7 @@
 			)
 		)
 		(property "PN" "304050798"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37925,7 +37701,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0402"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37935,7 +37711,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "Grove Base Cape for PocketBeagle"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37945,7 +37721,7 @@
 			)
 		)
 		(property "RATED VOLTAGE" "3.6V"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37955,7 +37731,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -8.89 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37987,7 +37763,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:GND_POWER_GROUND")
-		(at 398.78 238.76 0)
+		(at 389.89 231.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37995,7 +37771,7 @@
 		(dnp no)
 		(uuid "eb3dac5d-542e-4be2-8862-a854bece9694")
 		(property "Reference" "#PWR?"
-			(at 398.78 238.76 0)
+			(at 389.89 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38004,7 +37780,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 398.78 245.11 0)
+			(at 389.89 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38013,7 +37789,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 398.78 238.76 0)
+			(at 389.89 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38022,7 +37798,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 398.78 238.76 0)
+			(at 389.89 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38031,7 +37807,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 398.78 238.76 0)
+			(at 389.89 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)

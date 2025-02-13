@@ -11641,14 +11641,6 @@
 		(uuid "fc7cf8a1-3356-405a-95ae-303498b0f681")
 	)
 	(no_connect
-		(at 149.86 45.72)
-		(uuid "009a9e2f-4b45-4a03-8223-be7029661d87")
-	)
-	(no_connect
-		(at 177.8 124.46)
-		(uuid "016d2fb4-8088-4bfb-aeb8-2527d0f7b157")
-	)
-	(no_connect
 		(at 325.12 213.36)
 		(uuid "053cf116-1317-4879-8ce7-caa9c0b9b944")
 	)
@@ -11661,15 +11653,11 @@
 		(uuid "0ec76148-c24b-4c99-81cd-d5d342e9bf98")
 	)
 	(no_connect
-		(at 220.98 99.06)
-		(uuid "1129ad47-08e2-4dff-bdf0-1b4f7fb70517")
-	)
-	(no_connect
 		(at 325.12 190.5)
 		(uuid "157e1910-29b5-4db5-9d18-a7e2fdd037c8")
 	)
 	(no_connect
-		(at 104.14 180.34)
+		(at 113.03 180.34)
 		(uuid "185dfdf2-d292-44bd-96c6-367309d23db3")
 	)
 	(no_connect
@@ -11677,35 +11665,23 @@
 		(uuid "1880b101-1b0f-4073-a4ac-d594bce1e7a9")
 	)
 	(no_connect
-		(at 104.14 172.72)
+		(at 113.03 172.72)
 		(uuid "1d87c672-2413-4661-8ced-18c6e8969967")
 	)
 	(no_connect
-		(at 104.14 243.84)
+		(at 113.03 243.84)
 		(uuid "2f57e3bd-d4cf-4c45-a3e0-d8e371379af8")
-	)
-	(no_connect
-		(at 137.16 106.68)
-		(uuid "360cced0-08a3-4bf2-b154-1d8cd80dc743")
 	)
 	(no_connect
 		(at 332.74 88.9)
 		(uuid "3c7bdeaf-f5be-48ee-aafd-c631c751bdc4")
 	)
 	(no_connect
-		(at 104.14 233.68)
+		(at 113.03 233.68)
 		(uuid "3eacae22-b6c3-4d75-96dc-54365f0c9f16")
 	)
 	(no_connect
-		(at 340.36 228.6)
-		(uuid "4235b0d7-01da-4b52-aa13-14686b7cbb85")
-	)
-	(no_connect
-		(at 322.58 38.1)
-		(uuid "47094dc6-a92d-44a4-bd78-da668d878582")
-	)
-	(no_connect
-		(at 104.14 213.36)
+		(at 113.03 213.36)
 		(uuid "480b506f-53f4-47ae-990c-7cad64c6c3d0")
 	)
 	(no_connect
@@ -11725,63 +11701,35 @@
 		(uuid "4fec3a9b-12df-45c8-a800-569ab5969d36")
 	)
 	(no_connect
-		(at 340.36 215.9)
-		(uuid "5c6e758b-7fd3-4200-a126-6eed3144bd26")
-	)
-	(no_connect
-		(at 195.58 111.76)
-		(uuid "5c887283-c97c-46cc-b7ea-64f332065535")
-	)
-	(no_connect
-		(at 104.14 205.74)
+		(at 113.03 205.74)
 		(uuid "5c98bee6-71c5-4163-aeb5-de9687abf1a8")
 	)
 	(no_connect
-		(at 314.96 38.1)
-		(uuid "67c4c936-a0c7-4244-af54-561305a5fd89")
-	)
-	(no_connect
-		(at 304.8 38.1)
-		(uuid "67ddb4c8-e415-4f94-a43a-c928c2f364b3")
-	)
-	(no_connect
-		(at 104.14 210.82)
+		(at 113.03 210.82)
 		(uuid "6c3f7289-25a7-4403-8796-d5273e2f92cb")
 	)
 	(no_connect
-		(at 104.14 175.26)
+		(at 113.03 175.26)
 		(uuid "7837a086-c42a-49fa-b0bc-680b14f3e94c")
-	)
-	(no_connect
-		(at 193.04 45.72)
-		(uuid "7a769559-aa80-4597-9808-946c3c9e3038")
 	)
 	(no_connect
 		(at 332.74 86.36)
 		(uuid "7ec1404c-1270-48bc-bbd6-60dab2d4b92b")
 	)
 	(no_connect
-		(at 104.14 198.12)
+		(at 113.03 198.12)
 		(uuid "828d3131-a2b2-4135-b05c-dea481812e9d")
 	)
 	(no_connect
-		(at 215.9 124.46)
-		(uuid "85c447c9-057f-4cf8-b6c3-0ae346aee6c3")
-	)
-	(no_connect
-		(at 220.98 111.76)
-		(uuid "86a3655f-50b3-4635-9712-edee07ae1322")
-	)
-	(no_connect
-		(at 104.14 226.06)
+		(at 113.03 226.06)
 		(uuid "901d9a79-ac3e-4731-b9b7-21491f0d9dd1")
 	)
 	(no_connect
-		(at 104.14 182.88)
+		(at 113.03 182.88)
 		(uuid "953352e6-cb9e-42d3-99c2-63b4b6257d70")
 	)
 	(no_connect
-		(at 104.14 203.2)
+		(at 113.03 203.2)
 		(uuid "9e4c4d7c-f469-4dc4-9318-ab37b837552d")
 	)
 	(no_connect
@@ -11789,96 +11737,44 @@
 		(uuid "9f694b10-4c78-4ac1-8c58-03cadc43a318")
 	)
 	(no_connect
-		(at 104.14 241.3)
+		(at 113.03 241.3)
 		(uuid "a1733ac6-1804-4b22-b5f2-79498eb0be0a")
 	)
 	(no_connect
-		(at 104.14 220.98)
+		(at 113.03 220.98)
 		(uuid "a31ffded-4f6f-4238-93f4-8dff9e45bf15")
 	)
 	(no_connect
-		(at 137.16 86.36)
-		(uuid "b937254f-c4b5-4d7b-9d2d-bc19cf8327cd")
-	)
-	(no_connect
-		(at 104.14 187.96)
+		(at 113.03 187.96)
 		(uuid "be7ed2c6-7287-4005-a645-7555c9229b96")
 	)
 	(no_connect
-		(at 104.14 218.44)
+		(at 113.03 218.44)
 		(uuid "c72abd6d-2ab9-4963-8f56-d4f14021d6d5")
-	)
-	(no_connect
-		(at 312.42 38.1)
-		(uuid "c81cf4cc-11a2-4314-9aaa-3854838dec5b")
-	)
-	(no_connect
-		(at 193.04 33.02)
-		(uuid "c9b50e9e-e9b5-43d6-aeb5-037698daaf8a")
 	)
 	(no_connect
 		(at 325.12 177.8)
 		(uuid "cdfc7054-ec41-4b6a-ab47-3c8359c6bef2")
 	)
 	(no_connect
-		(at 104.14 195.58)
+		(at 113.03 195.58)
 		(uuid "ce1b7080-998a-4e04-885e-a16af13e6316")
 	)
 	(no_connect
-		(at 104.14 190.5)
+		(at 113.03 190.5)
 		(uuid "ce65c3aa-fe4a-4a20-b26d-ff396e8b7d17")
 	)
 	(no_connect
-		(at 190.5 124.46)
-		(uuid "d604375e-6896-443c-835c-441c253ff662")
-	)
-	(no_connect
-		(at 149.86 33.02)
-		(uuid "d66f7390-fbfd-4c86-94ad-b43d5c73dcd5")
-	)
-	(no_connect
-		(at 195.58 99.06)
-		(uuid "d73792ed-3780-4afd-88c7-53e43bdce175")
-	)
-	(no_connect
-		(at 137.16 73.66)
-		(uuid "d81bed11-9762-482e-8fa4-671494639aa6")
-	)
-	(no_connect
-		(at 203.2 124.46)
-		(uuid "d9644554-6a28-439f-a426-0303ba4a9270")
-	)
-	(no_connect
-		(at 304.8 81.28)
-		(uuid "da78fe1d-07c8-4e9c-b13f-086f2e49f0e8")
-	)
-	(no_connect
-		(at 104.14 236.22)
+		(at 113.03 236.22)
 		(uuid "dc72dac9-c202-4a2d-884f-05713956cb99")
 	)
 	(no_connect
-		(at 104.14 228.6)
+		(at 113.03 228.6)
 		(uuid "dcc3a072-87e0-4f1e-b6d3-66f2457cc7bd")
-	)
-	(no_connect
-		(at 307.34 81.28)
-		(uuid "e5bffefd-b83e-456a-885c-48edb994b7d2")
-	)
-	(no_connect
-		(at 294.64 81.28)
-		(uuid "e7f3d5de-2c60-4a91-86aa-bc98de8be2d6")
 	)
 	(no_connect
 		(at 325.12 208.28)
 		(uuid "ee21228b-a2ac-443f-8ba9-54a9e96b1282")
-	)
-	(no_connect
-		(at 137.16 93.98)
-		(uuid "f42b1ae6-8949-4ea8-9160-a08bedbab2d3")
-	)
-	(no_connect
-		(at 317.5 81.28)
-		(uuid "f583311f-a7b1-40f2-9d7d-56c10c38c4d8")
 	)
 	(wire
 		(pts
@@ -17417,7 +17313,7 @@
 	)
 	(text "OLDI"
 		(exclude_from_sim no)
-		(at 7.62 159.512 0)
+		(at 16.51 159.512 0)
 		(effects
 			(font
 				(size 3.556 3.556)
@@ -20243,7 +20139,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_mirrored_AM62x_BGA425")
-		(at 96.52 170.18 0)
+		(at 105.41 170.18 0)
 		(unit 12)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20251,7 +20147,7 @@
 		(dnp no)
 		(uuid "29f9c16e-668b-4fe8-a12f-1a6c3f7bcd40")
 		(property "Reference" "U1"
-			(at 20.32 168.91 0)
+			(at 29.21 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20260,7 +20156,7 @@
 			)
 		)
 		(property "Value" "AM6232ASCGHAALWR"
-			(at 20.32 250.444 0)
+			(at 29.21 250.444 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20269,7 +20165,7 @@
 			)
 		)
 		(property "Footprint" "bga425_0d5_13x13mm"
-			(at 96.52 170.18 0)
+			(at 105.41 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20278,7 +20174,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 170.18 0)
+			(at 105.41 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20287,7 +20183,7 @@
 			)
 		)
 		(property "Description" "SMD IC MPU;AM6232 Sitara Processor;BGA425"
-			(at 96.52 170.18 0)
+			(at 105.41 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20296,7 +20192,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "bga425_0d5_13x13mm"
-			(at 20.32 256.54 0)
+			(at 29.21 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20305,7 +20201,7 @@
 			)
 		)
 		(property "STATUS" "BeaglePlay"
-			(at 73.66 297.18 0)
+			(at 82.55 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20315,7 +20211,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TI"
-			(at 73.66 297.18 0)
+			(at 82.55 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20325,7 +20221,7 @@
 			)
 		)
 		(property "CLASS" "IC"
-			(at 73.66 297.18 0)
+			(at 82.55 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20335,7 +20231,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at 73.66 297.18 0)
+			(at 82.55 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20345,7 +20241,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at 73.66 297.18 0)
+			(at 82.55 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20355,7 +20251,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "BeaglePlay"
-			(at 73.66 297.18 0)
+			(at 82.55 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20365,7 +20261,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "BGA425"
-			(at 20.32 253.746 0)
+			(at 29.21 253.746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20374,7 +20270,7 @@
 			)
 		)
 		(property "PN" "310011877"
-			(at 73.66 297.18 0)
+			(at 82.55 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20384,7 +20280,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-40¡ãC to 105¡ãC"
-			(at 73.66 297.18 0)
+			(at 82.55 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20394,7 +20290,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "AM6232ASCGHAALWR"
-			(at 73.66 297.18 0)
+			(at 82.55 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)

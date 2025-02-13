@@ -14220,7 +14220,7 @@
 		(uuid "39f8feef-1f7a-4ad0-89ff-94ac80084d37")
 	)
 	(junction
-		(at 325.12 243.84)
+		(at 308.61 243.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b5c949b-b9b8-4ff1-bec1-0ed2b510e128")
@@ -14232,7 +14232,7 @@
 		(uuid "46c3f9c7-1caf-42d9-9683-ccb8702b99b5")
 	)
 	(junction
-		(at 284.48 251.46)
+		(at 267.97 251.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "46f69780-1862-48c2-afef-7879a2047e64")
@@ -14256,7 +14256,7 @@
 		(uuid "811748cc-4282-4cd8-a59d-8e727ed16deb")
 	)
 	(junction
-		(at 284.48 215.9)
+		(at 267.97 215.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8867c6c1-ec80-44f3-a004-5eb4df00b903")
@@ -14316,7 +14316,7 @@
 		(uuid "d2807ea8-b2aa-4fe4-8b6c-e7174b75dd03")
 	)
 	(junction
-		(at 325.12 208.28)
+		(at 308.61 208.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d8d6326e-0c3b-4d66-ac33-f4e1ba9fca3c")
@@ -14346,24 +14346,8 @@
 		(uuid "ff0a9bce-bb9e-4a10-8a69-2c498292ac96")
 	)
 	(no_connect
-		(at 347.98 127)
-		(uuid "020db3e7-7abc-4d86-808b-f1082b609697")
-	)
-	(no_connect
-		(at 292.1 40.64)
-		(uuid "058f0b3a-0277-4b8c-9c73-e04e4a42c7c2")
-	)
-	(no_connect
 		(at 66.04 144.78)
 		(uuid "0fad167b-1d0d-4305-abbe-f2b98875a3b4")
-	)
-	(no_connect
-		(at 121.92 233.68)
-		(uuid "22c0d7a1-238a-42a2-81a7-666ad8fb0f94")
-	)
-	(no_connect
-		(at 360.68 68.58)
-		(uuid "23f89049-5ba3-4ee3-af85-bfcc2fdc52ab")
 	)
 	(no_connect
 		(at 45.72 127)
@@ -14372,10 +14356,6 @@
 	(no_connect
 		(at 144.78 154.94)
 		(uuid "3265ee54-eb7e-4835-87c2-724ff06fb7c4")
-	)
-	(no_connect
-		(at 345.44 127)
-		(uuid "3347c265-a510-4263-a86f-5d63d2d4ebe1")
 	)
 	(no_connect
 		(at 149.86 129.54)
@@ -14394,40 +14374,12 @@
 		(uuid "63471eed-dcec-438c-ae31-c4d20b6db595")
 	)
 	(no_connect
-		(at 327.66 127)
-		(uuid "65975fa5-d31e-451f-b9ae-7fcbcf0618c5")
-	)
-	(no_connect
-		(at 276.86 43.18)
-		(uuid "7800e8bc-add8-4750-88a1-492f3696400a")
-	)
-	(no_connect
 		(at 121.92 154.94)
 		(uuid "7c8573f8-20c3-4f44-8c63-4e193ef9fd4d")
 	)
 	(no_connect
-		(at 309.88 127)
-		(uuid "7d7c1403-599b-4797-8566-e7231c51f9a0")
-	)
-	(no_connect
-		(at 251.46 43.18)
-		(uuid "86474cf5-26ec-4420-9b06-c70985b1a47d")
-	)
-	(no_connect
-		(at 279.4 127)
-		(uuid "8df93d64-ab8c-4f5f-a25b-4e9b778fd5c8")
-	)
-	(no_connect
 		(at 66.04 134.62)
 		(uuid "97015d6c-b964-4301-ab82-888d3a27f101")
-	)
-	(no_connect
-		(at 66.04 233.68)
-		(uuid "a31ff5dd-7f02-42b8-8d65-9dbc3b452488")
-	)
-	(no_connect
-		(at 314.96 127)
-		(uuid "a48e77ea-5fc1-4a21-b3fd-379b9e2858d1")
 	)
 	(no_connect
 		(at 114.3 154.94)
@@ -14438,48 +14390,12 @@
 		(uuid "aecfe91a-bf32-4036-ba07-f68d17f51a50")
 	)
 	(no_connect
-		(at 332.74 127)
-		(uuid "b1125e30-6266-40f3-8994-996d63c70011")
-	)
-	(no_connect
-		(at 347.98 68.58)
-		(uuid "b16efcca-2609-4113-b149-b3bc7a1535dc")
-	)
-	(no_connect
-		(at 121.92 220.98)
-		(uuid "ca2b1b2a-2c00-4a53-a208-350a3b4464f1")
-	)
-	(no_connect
 		(at 149.86 154.94)
 		(uuid "d0817f8d-85a1-4079-aabb-107cc8a2676e")
 	)
 	(no_connect
-		(at 292.1 127)
-		(uuid "d48d3450-ffa9-4da0-b19f-33c18853e0bc")
-	)
-	(no_connect
-		(at 73.66 233.68)
-		(uuid "d6abf919-1705-4da0-b9c5-6854f193824a")
-	)
-	(no_connect
-		(at 373.38 43.18)
-		(uuid "d726ac5a-b4ab-4f53-b3dd-6fe76078a971")
-	)
-	(no_connect
 		(at 127 154.94)
 		(uuid "dfb0a45e-c8ab-4a46-930f-82f8e29101d0")
-	)
-	(no_connect
-		(at 299.72 40.64)
-		(uuid "e05af7b1-0055-4f8f-bb8a-6c3eeffa051d")
-	)
-	(no_connect
-		(at 335.28 43.18)
-		(uuid "f0dd8786-7e97-4efd-96ff-4c2f10ee6b07")
-	)
-	(no_connect
-		(at 297.18 127)
-		(uuid "f23787fe-2740-49b4-8c5f-371dfd47cc54")
 	)
 	(no_connect
 		(at 157.48 154.94)
@@ -14488,10 +14404,6 @@
 	(no_connect
 		(at 134.62 154.94)
 		(uuid "fe0063b8-de98-42ab-aab7-58cc087d5711")
-	)
-	(no_connect
-		(at 373.38 127)
-		(uuid "ff2f9872-ea9e-42db-b910-c01d0a925a64")
 	)
 	(wire
 		(pts
@@ -14515,7 +14427,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 251.46) (xy 284.48 243.84)
+			(xy 267.97 251.46) (xy 267.97 243.84)
 		)
 		(stroke
 			(width 0)
@@ -14625,7 +14537,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 259.08) (xy 284.48 251.46)
+			(xy 267.97 259.08) (xy 267.97 251.46)
 		)
 		(stroke
 			(width 0)
@@ -14645,7 +14557,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 243.84) (xy 335.28 243.84)
+			(xy 308.61 243.84) (xy 318.77 243.84)
 		)
 		(stroke
 			(width 0)
@@ -14775,7 +14687,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 223.52) (xy 284.48 215.9)
+			(xy 267.97 223.52) (xy 267.97 215.9)
 		)
 		(stroke
 			(width 0)
@@ -14785,7 +14697,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 208.28) (xy 335.28 208.28)
+			(xy 308.61 208.28) (xy 318.77 208.28)
 		)
 		(stroke
 			(width 0)
@@ -14985,7 +14897,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 215.9) (xy 284.48 215.9)
+			(xy 273.05 215.9) (xy 267.97 215.9)
 		)
 		(stroke
 			(width 0)
@@ -15066,7 +14978,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 251.46) (xy 284.48 251.46)
+			(xy 273.05 251.46) (xy 267.97 251.46)
 		)
 		(stroke
 			(width 0)
@@ -15086,7 +14998,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 215.9) (xy 284.48 208.28)
+			(xy 267.97 215.9) (xy 267.97 208.28)
 		)
 		(stroke
 			(width 0)
@@ -15116,7 +15028,7 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 208.28) (xy 325.12 208.28)
+			(xy 298.45 208.28) (xy 308.61 208.28)
 		)
 		(stroke
 			(width 0)
@@ -15216,7 +15128,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 208.28) (xy 325.12 215.9)
+			(xy 308.61 208.28) (xy 308.61 215.9)
 		)
 		(stroke
 			(width 0)
@@ -15346,7 +15258,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 251.46) (xy 325.12 243.84)
+			(xy 308.61 251.46) (xy 308.61 243.84)
 		)
 		(stroke
 			(width 0)
@@ -15527,7 +15439,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 243.84) (xy 289.56 243.84)
+			(xy 267.97 243.84) (xy 273.05 243.84)
 		)
 		(stroke
 			(width 0)
@@ -15839,7 +15751,7 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 243.84) (xy 325.12 243.84)
+			(xy 298.45 243.84) (xy 308.61 243.84)
 		)
 		(stroke
 			(width 0)
@@ -15969,7 +15881,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 208.28) (xy 289.56 208.28)
+			(xy 267.97 208.28) (xy 273.05 208.28)
 		)
 		(stroke
 			(width 0)
@@ -16100,7 +16012,7 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 251.46) (xy 325.12 251.46)
+			(xy 298.45 251.46) (xy 308.61 251.46)
 		)
 		(stroke
 			(width 0)
@@ -16190,7 +16102,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 215.9) (xy 314.96 215.9)
+			(xy 308.61 215.9) (xy 298.45 215.9)
 		)
 		(stroke
 			(width 0)
@@ -20724,7 +20636,7 @@
 	)
 	(text "JTAG"
 		(exclude_from_sim no)
-		(at 10.16 17.272 0)
+		(at 14.478 18.796 0)
 		(effects
 			(font
 				(size 3.556 3.556)
@@ -20738,7 +20650,7 @@
 	)
 	(text "Tag-Connect"
 		(exclude_from_sim no)
-		(at 228.6 17.272 0)
+		(at 228.346 19.05 0)
 		(effects
 			(font
 				(size 3.556 3.556)
@@ -20752,7 +20664,7 @@
 	)
 	(text "Debug"
 		(exclude_from_sim no)
-		(at 10.16 205.232 0)
+		(at 16.764 204.978 0)
 		(effects
 			(font
 				(size 3.556 3.556)
@@ -20766,7 +20678,7 @@
 	)
 	(text "MCU"
 		(exclude_from_sim no)
-		(at 10.16 101.092 0)
+		(at 18.034 100.838 0)
 		(effects
 			(font
 				(size 3.556 3.556)
@@ -21676,7 +21588,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:PWR_BTN_ARROW")
-		(at 335.28 208.28 90)
+		(at 318.77 208.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21684,7 +21596,7 @@
 		(dnp no)
 		(uuid "0e935b78-f6fa-4af7-9c99-a207ae85e8e6")
 		(property "Reference" "#PWR?"
-			(at 335.28 208.28 0)
+			(at 318.77 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21693,7 +21605,7 @@
 			)
 		)
 		(property "Value" "PWR_BTN"
-			(at 339.09 208.28 90)
+			(at 322.58 208.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21702,7 +21614,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 335.28 208.28 0)
+			(at 318.77 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21711,7 +21623,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 335.28 208.28 0)
+			(at 318.77 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21720,7 +21632,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 335.28 208.28 0)
+			(at 318.77 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24508,7 +24420,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:GND_POWER_GROUND")
-		(at 284.48 259.08 0)
+		(at 267.97 259.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24516,7 +24428,7 @@
 		(dnp no)
 		(uuid "4dab5f2b-5729-499b-9061-4a1d1338844c")
 		(property "Reference" "#PWR?"
-			(at 284.48 259.08 0)
+			(at 267.97 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24525,7 +24437,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 284.48 265.43 0)
+			(at 267.97 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24534,7 +24446,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 284.48 259.08 0)
+			(at 267.97 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24543,7 +24455,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 284.48 259.08 0)
+			(at 267.97 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24552,7 +24464,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 284.48 259.08 0)
+			(at 267.97 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27112,7 +27024,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:GND_POWER_GROUND")
-		(at 284.48 223.52 0)
+		(at 267.97 223.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27120,7 +27032,7 @@
 		(dnp no)
 		(uuid "8e7a8b41-8e1e-4eee-9a95-c1e8132596dc")
 		(property "Reference" "#PWR?"
-			(at 284.48 223.52 0)
+			(at 267.97 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27129,7 +27041,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 284.48 229.87 0)
+			(at 267.97 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27138,7 +27050,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 284.48 223.52 0)
+			(at 267.97 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27147,7 +27059,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 284.48 223.52 0)
+			(at 267.97 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27156,7 +27068,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 284.48 223.52 0)
+			(at 267.97 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27328,7 +27240,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_Tactile Switch_4P")
-		(at 297.18 205.74 0)
+		(at 280.67 205.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27336,7 +27248,7 @@
 		(dnp no)
 		(uuid "990968c9-63ca-41c7-8461-ee52dea29ed2")
 		(property "Reference" "SW2"
-			(at 297.18 205.74 0)
+			(at 280.67 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27345,7 +27257,7 @@
 			)
 		)
 		(property "Value" "Tactile Switch"
-			(at 297.18 220.98 0)
+			(at 280.67 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27354,7 +27266,7 @@
 			)
 		)
 		(property "Footprint" "SW_4P"
-			(at 297.18 205.74 0)
+			(at 280.67 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27363,7 +27275,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 297.18 205.74 0)
+			(at 280.67 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27372,7 +27284,7 @@
 			)
 		)
 		(property "Description" "SMD Top Button 1.57N;4P-L4.6*W3.2*H2.5mm"
-			(at 297.18 205.74 0)
+			(at 280.67 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27381,7 +27293,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "SW_4P"
-			(at 297.18 223.52 0)
+			(at 280.67 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27390,7 +27302,7 @@
 			)
 		)
 		(property "PN" "311021800"
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27400,7 +27312,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "4.6 x 3.2 x 2.5mm"
-			(at 297.18 226.06 0)
+			(at 280.67 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27409,7 +27321,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "BeagleBone Carrier Board"
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27419,7 +27331,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27429,7 +27341,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27439,7 +27351,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27449,7 +27361,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JinBeiLi Electrical"
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27459,7 +27371,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-20¡ãC to 70¡ãC"
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27469,7 +27381,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "TS-1185F-W"
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27479,7 +27391,7 @@
 			)
 		)
 		(property "STATUS" "TBD"
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28076,7 +27988,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_Tactile Switch_4P")
-		(at 297.18 241.3 0)
+		(at 280.67 241.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28084,7 +27996,7 @@
 		(dnp no)
 		(uuid "a9afaa08-533c-4b94-a2ab-872bc9c1be02")
 		(property "Reference" "SW1"
-			(at 297.18 241.3 0)
+			(at 280.67 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28093,7 +28005,7 @@
 			)
 		)
 		(property "Value" "Tactile Switch"
-			(at 297.18 256.54 0)
+			(at 280.67 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28102,7 +28014,7 @@
 			)
 		)
 		(property "Footprint" "SW_4P"
-			(at 297.18 241.3 0)
+			(at 280.67 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28111,7 +28023,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 297.18 241.3 0)
+			(at 280.67 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28120,7 +28032,7 @@
 			)
 		)
 		(property "Description" "SMD Top Button 1.57N;4P-L4.6*W3.2*H2.5mm"
-			(at 297.18 241.3 0)
+			(at 280.67 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28129,7 +28041,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "SW_4P"
-			(at 297.18 259.08 0)
+			(at 280.67 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28138,7 +28050,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JinBeiLi Electrical"
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28148,7 +28060,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28158,7 +28070,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28168,7 +28080,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28178,7 +28090,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "BeagleBone Carrier Board"
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28188,7 +28100,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "4.6 x 3.2 x 2.5mm"
-			(at 297.18 261.62 0)
+			(at 280.67 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28197,7 +28109,7 @@
 			)
 		)
 		(property "PN" "311021800"
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28207,7 +28119,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-20¡ãC to 70¡ãC"
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28217,7 +28129,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "TS-1185F-W"
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28227,7 +28139,7 @@
 			)
 		)
 		(property "STATUS" "TBD"
-			(at 0 297.18 0)
+			(at -16.51 297.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28935,7 +28847,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:USER_BTN_ARROW")
-		(at 335.28 243.84 90)
+		(at 318.77 243.84 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28943,7 +28855,7 @@
 		(dnp no)
 		(uuid "b42aacf5-485a-4d3a-a990-a665abc4d609")
 		(property "Reference" "#PWR?"
-			(at 335.28 243.84 0)
+			(at 318.77 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28952,7 +28864,7 @@
 			)
 		)
 		(property "Value" "USER_BTN"
-			(at 339.09 243.84 90)
+			(at 322.58 243.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28961,7 +28873,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 335.28 243.84 0)
+			(at 318.77 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28970,7 +28882,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 335.28 243.84 0)
+			(at 318.77 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28979,7 +28891,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 335.28 243.84 0)
+			(at 318.77 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
