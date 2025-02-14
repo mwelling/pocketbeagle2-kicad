@@ -452,6 +452,74 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "All Nets",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "DDR_ADDR",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "DDR_DATA",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "POWER",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -459,7 +527,368 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ0"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ1"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ10"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ11"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ12"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ13"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ14"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ15"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ2"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ3"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ4"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ5"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ6"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ7"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ8"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_DQ9"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_LDM"
+      },
+      {
+        "netclass": "DDR_DATA",
+        "pattern": "DDR_UDM"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A0"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A1"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A10"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A11"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A12"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A13"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A14_WEN"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A15_CAS"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A16_RAS"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A2"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A3"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A4"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A5"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A6"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A7"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A8"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_A9"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_ACTN"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_ALERTN"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_BA0"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_BA1"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_BG0"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_CKE"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_CSN"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_ODT"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_PARITY"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_RESET#"
+      },
+      {
+        "netclass": "DDR_ADDR",
+        "pattern": "DDR_TEN"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "A18"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "A19"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "A20"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "A5"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "AA19"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "AB20"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "AB22"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "AC21"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "AC24"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "AD18"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "AD22"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "AD23"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "AD24"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "AE21"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "AE22"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "AE23"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "AIN5"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "AIN7"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "B5"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "CHG_N"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "D14"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "D20"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "E14"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "GPIO0_3"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "GPIO0_6"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "J23"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "J25"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "MCU_GPIO0_1"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "MCU_SPI0_CLK"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "MCU_SPI0_CS0"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "MCU_SPI0_D0"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "MCU_SPI0_D1"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "N17856912"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "N20"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "PWR_BTN"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "SD_PWR_EN"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "VBAT"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "VDD_1V8"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "VDD_3V3"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "VDD_SD"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "WKUP_I2C0_SCL"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "WKUP_I2C0_SDA"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "Y25"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
