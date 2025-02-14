@@ -18478,7 +18478,7 @@
 		(dnp no)
 		(uuid "1c872c52-b5fe-407b-8b03-7389df06dfa7")
 		(property "Reference" "U1"
-			(at 241.3 171.45 0)
+			(at 237.236 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18487,7 +18487,7 @@
 			)
 		)
 		(property "Value" "AM6232ASCGHAALWR"
-			(at 241.3 227.584 0)
+			(at 237.236 227.584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18523,7 +18523,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "bga425_0d5_13x13mm"
-			(at 241.3 233.68 0)
+			(at 237.236 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18592,7 +18592,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "BGA425"
-			(at 241.3 230.886 0)
+			(at 237.236 230.886 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20147,7 +20147,7 @@
 		(dnp no)
 		(uuid "29f9c16e-668b-4fe8-a12f-1a6c3f7bcd40")
 		(property "Reference" "U1"
-			(at 29.21 168.91 0)
+			(at 32.004 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20156,7 +20156,7 @@
 			)
 		)
 		(property "Value" "AM6232ASCGHAALWR"
-			(at 29.21 250.444 0)
+			(at 28.448 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20192,7 +20192,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "bga425_0d5_13x13mm"
-			(at 29.21 256.54 0)
+			(at 28.448 256.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20261,7 +20261,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "BGA425"
-			(at 29.21 253.746 0)
+			(at 28.448 253.492 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25090,7 +25090,7 @@
 			)
 		)
 		(property "Value" "AM6232ASCGHAALWR"
-			(at 30.48 120.904 0)
+			(at 30.988 120.142 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25126,7 +25126,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "bga425_0d5_13x13mm"
-			(at 30.48 127 0)
+			(at 30.988 126.238 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25155,7 +25155,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "BGA425"
-			(at 30.48 124.206 0)
+			(at 30.988 123.444 0)
 			(effects
 				(font
 					(size 1.27 1.27)

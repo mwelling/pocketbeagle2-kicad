@@ -28301,7 +28301,7 @@
 		(dnp no)
 		(uuid "339c5ae2-5b7c-4039-a774-e3afb33e4e7e")
 		(property "Reference" "U1"
-			(at 20.32 181.61 0)
+			(at 33.782 182.372 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31781,7 +31781,7 @@
 		(dnp no)
 		(uuid "5535f04b-1c41-4bd9-b5b4-e42a33abd085")
 		(property "Reference" "U1"
-			(at 15.24 140.97 0)
+			(at 33.274 141.478 0)
 			(effects
 				(font
 					(size 1.27 1.27)

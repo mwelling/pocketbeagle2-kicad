@@ -18693,7 +18693,7 @@
 			)
 		)
 		(property "Value" "AM6232ASCGHAALWR"
-			(at 15.24 256.794 0)
+			(at 35.56 255.778 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18729,7 +18729,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "bga425_0d5_13x13mm"
-			(at 15.24 262.89 0)
+			(at 35.56 261.874 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18748,7 +18748,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "BGA425"
-			(at 15.24 260.096 0)
+			(at 35.56 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
