@@ -10330,10 +10330,6 @@
 		(uuid "52eed869-b3e6-46ae-a8fd-7352f588c63d")
 	)
 	(no_connect
-		(at 124.46 177.8)
-		(uuid "7f12cbd7-70b5-49f8-90ca-a5bbb05d14bd")
-	)
-	(no_connect
 		(at 86.36 124.46)
 		(uuid "897aa1e3-d7fa-4d70-a2ef-82dc37921915")
 	)

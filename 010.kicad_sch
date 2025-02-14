@@ -12337,13 +12337,13 @@
 		(uuid "43ea57f8-2472-450a-9386-e6442334d8fe")
 	)
 	(junction
-		(at 298.45 243.84)
+		(at 298.45 238.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "53cb83f3-bc82-475f-ad0a-fbba007e3ca3")
 	)
 	(junction
-		(at 262.89 233.68)
+		(at 262.89 228.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "90027b77-063a-4edf-a8ae-c932ceaad269")
@@ -12403,7 +12403,7 @@
 		(uuid "569a069d-cdc9-4151-b92c-a32467d65833")
 	)
 	(no_connect
-		(at 109.22 210.82)
+		(at 109.22 205.74)
 		(uuid "654d8350-5c69-4184-99ae-2bed03d0d7bb")
 	)
 	(no_connect
@@ -12411,11 +12411,11 @@
 		(uuid "af02f65d-4ba9-424a-b131-ea81da361205")
 	)
 	(no_connect
-		(at 109.22 208.28)
+		(at 109.22 203.2)
 		(uuid "b861bf13-77c9-4f5a-bf5d-5d82d04663cf")
 	)
 	(no_connect
-		(at 109.22 256.54)
+		(at 109.22 251.46)
 		(uuid "c08f6c75-8a98-4ba9-8a26-17e0137de6c4")
 	)
 	(no_connect
@@ -12423,7 +12423,7 @@
 		(uuid "ecaf0ae8-0fa6-4950-b7ff-4392819c98c4")
 	)
 	(no_connect
-		(at 109.22 259.08)
+		(at 109.22 254)
 		(uuid "ee1279ed-5be8-4a64-9a37-296cb6247a5f")
 	)
 	(no_connect
@@ -12462,7 +12462,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 248.92) (xy 267.97 243.84)
+			(xy 267.97 243.84) (xy 267.97 238.76)
 		)
 		(stroke
 			(width 0)
@@ -12482,7 +12482,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 218.44) (xy 243.84 218.44)
+			(xy 109.22 213.36) (xy 243.84 213.36)
 		)
 		(stroke
 			(width 0)
@@ -12502,7 +12502,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 256.54) (xy 298.45 256.54)
+			(xy 262.89 251.46) (xy 298.45 251.46)
 		)
 		(stroke
 			(width 0)
@@ -12562,7 +12562,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 233.68) (xy 326.39 238.76)
+			(xy 326.39 228.6) (xy 326.39 233.68)
 		)
 		(stroke
 			(width 0)
@@ -12592,7 +12592,7 @@
 	)
 	(wire
 		(pts
-			(xy 290.83 233.68) (xy 326.39 233.68)
+			(xy 290.83 228.6) (xy 326.39 228.6)
 		)
 		(stroke
 			(width 0)
@@ -12602,7 +12602,7 @@
 	)
 	(wire
 		(pts
-			(xy 318.77 243.84) (xy 318.77 226.06)
+			(xy 318.77 238.76) (xy 318.77 220.98)
 		)
 		(stroke
 			(width 0)
@@ -12622,7 +12622,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 223.52) (xy 243.84 223.52)
+			(xy 109.22 218.44) (xy 243.84 218.44)
 		)
 		(stroke
 			(width 0)
@@ -12632,7 +12632,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 215.9) (xy 243.84 215.9)
+			(xy 109.22 210.82) (xy 243.84 210.82)
 		)
 		(stroke
 			(width 0)
@@ -12722,7 +12722,7 @@
 	)
 	(wire
 		(pts
-			(xy 298.45 256.54) (xy 298.45 243.84)
+			(xy 298.45 251.46) (xy 298.45 238.76)
 		)
 		(stroke
 			(width 0)
@@ -12742,7 +12742,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 251.46) (xy 243.84 251.46)
+			(xy 109.22 246.38) (xy 243.84 246.38)
 		)
 		(stroke
 			(width 0)
@@ -12792,7 +12792,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 271.78) (xy 109.22 271.78)
+			(xy 243.84 266.7) (xy 109.22 266.7)
 		)
 		(stroke
 			(width 0)
@@ -12812,7 +12812,7 @@
 	)
 	(wire
 		(pts
-			(xy 290.83 243.84) (xy 298.45 243.84)
+			(xy 290.83 238.76) (xy 298.45 238.76)
 		)
 		(stroke
 			(width 0)
@@ -12862,7 +12862,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 226.06) (xy 243.84 226.06)
+			(xy 109.22 220.98) (xy 243.84 220.98)
 		)
 		(stroke
 			(width 0)
@@ -12882,7 +12882,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 233.68) (xy 262.89 233.68)
+			(xy 109.22 228.6) (xy 262.89 228.6)
 		)
 		(stroke
 			(width 0)
@@ -12902,7 +12902,7 @@
 	)
 	(wire
 		(pts
-			(xy 306.07 226.06) (xy 262.89 226.06)
+			(xy 306.07 220.98) (xy 262.89 220.98)
 		)
 		(stroke
 			(width 0)
@@ -12972,7 +12972,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 264.16) (xy 243.84 264.16)
+			(xy 109.22 259.08) (xy 243.84 259.08)
 		)
 		(stroke
 			(width 0)
@@ -12982,7 +12982,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 220.98) (xy 243.84 220.98)
+			(xy 109.22 215.9) (xy 243.84 215.9)
 		)
 		(stroke
 			(width 0)
@@ -12992,7 +12992,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 243.84) (xy 270.51 243.84)
+			(xy 267.97 238.76) (xy 270.51 238.76)
 		)
 		(stroke
 			(width 0)
@@ -13002,7 +13002,7 @@
 	)
 	(wire
 		(pts
-			(xy 318.77 226.06) (xy 313.69 226.06)
+			(xy 318.77 220.98) (xy 313.69 220.98)
 		)
 		(stroke
 			(width 0)
@@ -13052,7 +13052,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 248.92) (xy 243.84 248.92)
+			(xy 109.22 243.84) (xy 243.84 243.84)
 		)
 		(stroke
 			(width 0)
@@ -13062,7 +13062,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 233.68) (xy 270.51 233.68)
+			(xy 262.89 228.6) (xy 270.51 228.6)
 		)
 		(stroke
 			(width 0)
@@ -13102,7 +13102,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 226.06) (xy 262.89 233.68)
+			(xy 262.89 220.98) (xy 262.89 228.6)
 		)
 		(stroke
 			(width 0)
@@ -13142,7 +13142,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 274.32) (xy 109.22 274.32)
+			(xy 243.84 269.24) (xy 109.22 269.24)
 		)
 		(stroke
 			(width 0)
@@ -13182,7 +13182,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 241.3) (xy 262.89 256.54)
+			(xy 262.89 236.22) (xy 262.89 251.46)
 		)
 		(stroke
 			(width 0)
@@ -13192,7 +13192,7 @@
 	)
 	(wire
 		(pts
-			(xy 298.45 243.84) (xy 306.07 243.84)
+			(xy 298.45 238.76) (xy 306.07 238.76)
 		)
 		(stroke
 			(width 0)
@@ -13232,7 +13232,7 @@
 	)
 	(wire
 		(pts
-			(xy 313.69 243.84) (xy 318.77 243.84)
+			(xy 313.69 238.76) (xy 318.77 238.76)
 		)
 		(stroke
 			(width 0)
@@ -13242,7 +13242,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 266.7) (xy 243.84 266.7)
+			(xy 109.22 261.62) (xy 243.84 261.62)
 		)
 		(stroke
 			(width 0)
@@ -13262,7 +13262,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 241.3) (xy 262.89 241.3)
+			(xy 109.22 236.22) (xy 262.89 236.22)
 		)
 		(stroke
 			(width 0)
@@ -17734,7 +17734,7 @@
 	)
 	(text_box "MCU_SPI0_CLK/MCU_GPIO0_2\n"
 		(exclude_from_sim no)
-		(at 145.288 215.646 0)
+		(at 145.288 210.566 0)
 		(size -30.988 -2.286)
 		(stroke
 			(width -0.0001)
@@ -17754,7 +17754,7 @@
 	)
 	(text_box "MCU_UART0_CTSn/MCU_TIMER_IO0/MCU_SPI1_D0/MCU_GPIO0_7\n"
 		(exclude_from_sim no)
-		(at 180.848 256.286 0)
+		(at 180.848 251.206 0)
 		(size -66.548 -2.286)
 		(stroke
 			(width -0.0001)
@@ -17774,7 +17774,7 @@
 	)
 	(text_box "MCU_SPI0_CS1/MCU_OBSCLK0/MCU_SYSCLKOUT0/MCU_EXT_REFCLK0/MCU_TIMER_IO1/MCU_GPIO0_1\n"
 		(exclude_from_sim no)
-		(at 217.678 225.806 0)
+		(at 217.678 220.726 0)
 		(size -103.378 -2.286)
 		(stroke
 			(width -0.0001)
@@ -17814,7 +17814,7 @@
 	)
 	(text_box "MCU_I2C0_SDA/MCU_GPIO0_18\n"
 		(exclude_from_sim no)
-		(at 146.558 210.566 0)
+		(at 146.558 205.486 0)
 		(size -32.258 -2.286)
 		(stroke
 			(width -0.0001)
@@ -17894,7 +17894,7 @@
 	)
 	(text_box "MCU_UART0_TXD/MCU_GPIO0_6\n"
 		(exclude_from_sim no)
-		(at 146.558 251.206 0)
+		(at 146.558 246.126 0)
 		(size -32.258 -2.286)
 		(stroke
 			(width -0.0001)
@@ -17934,7 +17934,7 @@
 	)
 	(text_box "MCU_MCAN0_TX/WKUP_TIMER_IO0/MCU_SPI0_CS3/MCU_GPIO0_13\n"
 		(exclude_from_sim no)
-		(at 182.118 266.446 0)
+		(at 182.118 261.366 0)
 		(size -67.818 -2.286)
 		(stroke
 			(width -0.0001)
@@ -17974,7 +17974,7 @@
 	)
 	(text_box "MCU_MCAN1_TX/MCU_TIMER_IO2/MCU_SPI1_CS1/MCU_EXT_REFCLK0/MCU_GPIO0_15\n"
 		(exclude_from_sim no)
-		(at 201.168 274.066 0)
+		(at 201.168 268.986 0)
 		(size -86.868 -2.286)
 		(stroke
 			(width -0.0001)
@@ -17994,7 +17994,7 @@
 	)
 	(text_box "MCU_UART0_RXD/MCU_GPIO0_5\n"
 		(exclude_from_sim no)
-		(at 146.558 248.666 0)
+		(at 146.558 243.586 0)
 		(size -32.258 -2.286)
 		(stroke
 			(width -0.0001)
@@ -18014,7 +18014,7 @@
 	)
 	(text_box "MCU_I2C0_SCL/MCU_GPIO0_17\n"
 		(exclude_from_sim no)
-		(at 146.558 208.026 0)
+		(at 146.558 202.946 0)
 		(size -32.258 -2.286)
 		(stroke
 			(width -0.0001)
@@ -18034,7 +18034,7 @@
 	)
 	(text_box "MCU_SPI0_CS0/WKUP_TIMER_IO1/MCU_GPIO0_0\n"
 		(exclude_from_sim no)
-		(at 164.338 223.266 0)
+		(at 164.338 218.186 0)
 		(size -50.038 -2.286)
 		(stroke
 			(width -0.0001)
@@ -18074,7 +18074,7 @@
 	)
 	(text_box "MCU_OSC0_XO\n"
 		(exclude_from_sim no)
-		(at 128.778 241.046 0)
+		(at 128.778 235.966 0)
 		(size -14.478 -2.286)
 		(stroke
 			(width -0.0001)
@@ -18094,7 +18094,7 @@
 	)
 	(text_box "MCU_UART0_RTSn/MCU_TIMER_IO1/MCU_SPI1_D1/MCU_GPIO0_8\n"
 		(exclude_from_sim no)
-		(at 180.848 258.826 0)
+		(at 180.848 253.746 0)
 		(size -66.548 -2.286)
 		(stroke
 			(width -0.0001)
@@ -18154,7 +18154,7 @@
 	)
 	(text_box "MCU_SPI0_D1/MCU_GPIO0_4\n"
 		(exclude_from_sim no)
-		(at 144.018 220.726 0)
+		(at 144.018 215.646 0)
 		(size -29.718 -2.286)
 		(stroke
 			(width -0.0001)
@@ -18174,7 +18174,7 @@
 	)
 	(text_box "MCU_MCAN1_RX/MCU_TIMER_IO3/MCU_SPI0_CS2/MCU_SPI1_CS2/MCU_SPI1_CLK/MCU_GPIO0_16\n"
 		(exclude_from_sim no)
-		(at 213.868 271.526 0)
+		(at 213.868 266.446 0)
 		(size -99.568 -2.286)
 		(stroke
 			(width -0.0001)
@@ -18194,7 +18194,7 @@
 	)
 	(text_box "MCU_MCAN0_RX/MCU_TIMER_IO0/MCU_SPI1_CS3/MCU_GPIO0_14\n"
 		(exclude_from_sim no)
-		(at 180.848 263.906 0)
+		(at 180.848 258.826 0)
 		(size -66.548 -2.286)
 		(stroke
 			(width -0.0001)
@@ -18254,7 +18254,7 @@
 	)
 	(text_box "MCU_OSC0_XI\n"
 		(exclude_from_sim no)
-		(at 128.778 233.426 0)
+		(at 128.778 228.346 0)
 		(size -14.478 -2.286)
 		(stroke
 			(width -0.0001)
@@ -18274,7 +18274,7 @@
 	)
 	(text_box "MCU_SPI0_D0/MCU_GPIO0_3\n"
 		(exclude_from_sim no)
-		(at 144.018 218.186 0)
+		(at 144.018 213.106 0)
 		(size -29.718 -2.286)
 		(stroke
 			(width -0.0001)
@@ -18294,7 +18294,7 @@
 	)
 	(text "3.3V"
 		(exclude_from_sim no)
-		(at 71.12 218.186 0)
+		(at 71.12 213.106 0)
 		(effects
 			(font
 				(size 1.143 1.143)
@@ -18341,7 +18341,7 @@
 	)
 	(text "MCU Domain"
 		(exclude_from_sim no)
-		(at 15.24 200.152 0)
+		(at 15.24 195.072 0)
 		(effects
 			(font
 				(size 3.556 3.556)
@@ -18424,7 +18424,7 @@
 	)
 	(text "3.3V"
 		(exclude_from_sim no)
-		(at 71.12 256.286 0)
+		(at 71.12 251.206 0)
 		(effects
 			(font
 				(size 1.143 1.143)
@@ -18698,7 +18698,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:GND_POWER_GROUND")
-		(at 267.97 248.92 0)
+		(at 267.97 243.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18706,7 +18706,7 @@
 		(dnp no)
 		(uuid "04f66ffc-25ee-4ed0-90b8-c07f4f0841a6")
 		(property "Reference" "#PWR?"
-			(at 267.97 248.92 0)
+			(at 267.97 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18715,7 +18715,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 267.97 255.27 0)
+			(at 267.97 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18724,7 +18724,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 267.97 248.92 0)
+			(at 267.97 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18733,7 +18733,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 267.97 248.92 0)
+			(at 267.97 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18742,7 +18742,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 267.97 248.92 0)
+			(at 267.97 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18932,7 +18932,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:MCU_GPIO0_1_ARROW")
-		(at 243.84 226.06 90)
+		(at 243.84 220.98 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18940,7 +18940,7 @@
 		(dnp no)
 		(uuid "0c459612-7a18-415b-9509-5192be7e4cf6")
 		(property "Reference" "#PWR?"
-			(at 243.84 226.06 0)
+			(at 243.84 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18949,7 +18949,7 @@
 			)
 		)
 		(property "Value" "MCU_GPIO0_1"
-			(at 247.65 226.06 90)
+			(at 247.65 220.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18958,7 +18958,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 226.06 0)
+			(at 243.84 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18967,7 +18967,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 226.06 0)
+			(at 243.84 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18976,7 +18976,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 226.06 0)
+			(at 243.84 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19166,7 +19166,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:GND_POWER_GROUND")
-		(at 326.39 238.76 0)
+		(at 326.39 233.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19174,7 +19174,7 @@
 		(dnp no)
 		(uuid "1b1adf32-cee3-4ad7-a3f1-196df1e1a941")
 		(property "Reference" "#PWR?"
-			(at 326.39 238.76 0)
+			(at 326.39 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19183,7 +19183,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 326.39 245.11 0)
+			(at 326.39 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19192,7 +19192,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 326.39 238.76 0)
+			(at 326.39 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19201,7 +19201,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 326.39 238.76 0)
+			(at 326.39 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19210,7 +19210,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 326.39 238.76 0)
+			(at 326.39 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19716,7 +19716,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:E5_ARROW")
-		(at 243.84 274.32 90)
+		(at 243.84 269.24 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19724,7 +19724,7 @@
 		(dnp no)
 		(uuid "3e6521ec-d7af-4cc0-9c23-cddad4a29807")
 		(property "Reference" "#PWR?"
-			(at 243.84 274.32 0)
+			(at 243.84 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19733,7 +19733,7 @@
 			)
 		)
 		(property "Value" "E5"
-			(at 247.65 274.32 90)
+			(at 247.65 269.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19742,7 +19742,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 274.32 0)
+			(at 243.84 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19751,7 +19751,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 274.32 0)
+			(at 243.84 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19760,7 +19760,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 274.32 0)
+			(at 243.84 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19796,7 +19796,7 @@
 		(dnp no)
 		(uuid "43118999-99a3-48da-996b-3e54a1440de7")
 		(property "Reference" "U1"
-			(at 35.56 110.49 0)
+			(at 25.654 110.744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19805,7 +19805,7 @@
 			)
 		)
 		(property "Value" "AM6232ASCGHAALWR"
-			(at 35.56 179.324 0)
+			(at 25.908 178.054 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19841,7 +19841,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "bga425_0d5_13x13mm"
-			(at 35.56 185.42 0)
+			(at 26.162 184.404 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19910,7 +19910,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "BGA425"
-			(at 35.56 182.626 0)
+			(at 25.908 181.102 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21474,7 +21474,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_CC_1")
-		(at 308.61 223.52 0)
+		(at 308.61 218.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21482,7 +21482,7 @@
 		(dnp no)
 		(uuid "568a95c8-e2c8-4b82-96d8-e59775f60f52")
 		(property "Reference" "C3"
-			(at 300.99 226.06 0)
+			(at 300.99 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21491,7 +21491,7 @@
 			)
 		)
 		(property "Value" "8pF"
-			(at 311.15 226.06 0)
+			(at 311.15 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21500,7 +21500,7 @@
 			)
 		)
 		(property "Footprint" "C0402"
-			(at 308.61 223.52 0)
+			(at 308.61 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21509,7 +21509,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 308.61 223.52 0)
+			(at 308.61 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21518,7 +21518,7 @@
 			)
 		)
 		(property "Description" "SMD CAP Ceramic 8pF-50V-0.5pF-NPO;0402"
-			(at 308.61 223.52 0)
+			(at 308.61 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21527,7 +21527,7 @@
 			)
 		)
 		(property "RATING" ""
-			(at 311.15 227.838 0)
+			(at 311.15 222.758 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21537,7 +21537,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "C0402"
-			(at 300.99 228.6 0)
+			(at 300.99 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21546,7 +21546,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0402DRNPO9BN8R0"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21556,7 +21556,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55¡ãC to 125¡ãC"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21566,7 +21566,7 @@
 			)
 		)
 		(property "PN" "302010026"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21576,7 +21576,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0402"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21586,7 +21586,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "reterminal Bridge"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21596,7 +21596,7 @@
 			)
 		)
 		(property "DIELECTRIC TYPE" "Ceramic"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21606,7 +21606,7 @@
 			)
 		)
 		(property "TEMPERATURE COEFFICIENT" "NPO"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21616,7 +21616,7 @@
 			)
 		)
 		(property "TOLERANCE" "0.5pF"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21626,7 +21626,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21636,7 +21636,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21646,7 +21646,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21656,7 +21656,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21666,7 +21666,7 @@
 			)
 		)
 		(property "STATUS" "reterminal Bridge"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21698,7 +21698,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:MCU_SPI0_CLK_ARROW")
-		(at 243.84 215.9 90)
+		(at 243.84 210.82 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21706,7 +21706,7 @@
 		(dnp no)
 		(uuid "56c8134f-a554-4b06-826a-0f9f17d70856")
 		(property "Reference" "#PWR?"
-			(at 243.84 215.9 0)
+			(at 243.84 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21715,7 +21715,7 @@
 			)
 		)
 		(property "Value" "MCU_SPI0_CLK"
-			(at 247.65 215.9 90)
+			(at 247.65 210.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21724,7 +21724,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 215.9 0)
+			(at 243.84 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21733,7 +21733,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 215.9 0)
+			(at 243.84 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21742,7 +21742,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 215.9 0)
+			(at 243.84 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22003,7 +22003,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:D4_ARROW")
-		(at 243.84 271.78 90)
+		(at 243.84 266.7 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22011,7 +22011,7 @@
 		(dnp no)
 		(uuid "583fd6e6-7723-43cd-92dd-6c6cf1f1ad6d")
 		(property "Reference" "#PWR?"
-			(at 243.84 271.78 0)
+			(at 243.84 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22020,7 +22020,7 @@
 			)
 		)
 		(property "Value" "D4"
-			(at 247.65 271.78 90)
+			(at 247.65 266.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22029,7 +22029,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 271.78 0)
+			(at 243.84 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22038,7 +22038,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 271.78 0)
+			(at 243.84 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22047,7 +22047,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 271.78 0)
+			(at 243.84 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22083,7 +22083,7 @@
 		(dnp no)
 		(uuid "59e8dc26-4be2-44b7-bf79-f2674b22ea52")
 		(property "Reference" "U1"
-			(at 15.24 31.75 0)
+			(at 25.654 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22092,7 +22092,7 @@
 			)
 		)
 		(property "Value" "AM6232ASCGHAALWR"
-			(at 15.24 82.804 0)
+			(at 25.4 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22128,7 +22128,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "bga425_0d5_13x13mm"
-			(at 15.24 88.9 0)
+			(at 25.146 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22157,7 +22157,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "BGA425"
-			(at 15.24 86.106 0)
+			(at 25.146 84.582 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23527,7 +23527,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:D6_ARROW")
-		(at 243.84 266.7 90)
+		(at 243.84 261.62 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23535,7 +23535,7 @@
 		(dnp no)
 		(uuid "5fd2721a-30a7-43bd-9168-88f565d82605")
 		(property "Reference" "#PWR?"
-			(at 243.84 266.7 0)
+			(at 243.84 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23544,7 +23544,7 @@
 			)
 		)
 		(property "Value" "D6"
-			(at 247.65 266.7 90)
+			(at 247.65 261.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23553,7 +23553,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 266.7 0)
+			(at 243.84 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23562,7 +23562,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 266.7 0)
+			(at 243.84 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23571,7 +23571,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 266.7 0)
+			(at 243.84 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23599,7 +23599,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:MCU_SPI0_D0_ARROW")
-		(at 243.84 218.44 90)
+		(at 243.84 213.36 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23607,7 +23607,7 @@
 		(dnp no)
 		(uuid "61f45856-b10b-47b8-965c-181b169155d3")
 		(property "Reference" "#PWR?"
-			(at 243.84 218.44 0)
+			(at 243.84 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23616,7 +23616,7 @@
 			)
 		)
 		(property "Value" "MCU_SPI0_D0"
-			(at 247.65 218.44 90)
+			(at 247.65 213.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23625,7 +23625,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 218.44 0)
+			(at 243.84 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23634,7 +23634,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 218.44 0)
+			(at 243.84 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23643,7 +23643,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 218.44 0)
+			(at 243.84 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23976,7 +23976,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:B5_ARROW")
-		(at 243.84 248.92 90)
+		(at 243.84 243.84 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23984,7 +23984,7 @@
 		(dnp no)
 		(uuid "7196168d-d2e7-4e89-8079-57f179cdfec9")
 		(property "Reference" "#PWR?"
-			(at 243.84 248.92 0)
+			(at 243.84 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23993,7 +23993,7 @@
 			)
 		)
 		(property "Value" "B5"
-			(at 247.65 248.92 90)
+			(at 247.65 243.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24002,7 +24002,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 248.92 0)
+			(at 243.84 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24011,7 +24011,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 248.92 0)
+			(at 243.84 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24020,7 +24020,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 248.92 0)
+			(at 243.84 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24699,7 +24699,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:MCU_SPI0_D1_ARROW")
-		(at 243.84 220.98 90)
+		(at 243.84 215.9 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24707,7 +24707,7 @@
 		(dnp no)
 		(uuid "8a43b08d-c67a-4048-92b2-7ee3f845b9fa")
 		(property "Reference" "#PWR?"
-			(at 243.84 220.98 0)
+			(at 243.84 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24716,7 +24716,7 @@
 			)
 		)
 		(property "Value" "MCU_SPI0_D1"
-			(at 247.65 220.98 90)
+			(at 247.65 215.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24725,7 +24725,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 220.98 0)
+			(at 243.84 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24734,7 +24734,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 220.98 0)
+			(at 243.84 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24743,7 +24743,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 220.98 0)
+			(at 243.84 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24986,7 +24986,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_CC_1")
-		(at 308.61 241.3 0)
+		(at 308.61 236.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24994,7 +24994,7 @@
 		(dnp no)
 		(uuid "9e8ee7e9-3e74-4e2f-863b-b531a87094d4")
 		(property "Reference" "C4"
-			(at 300.99 243.84 0)
+			(at 300.99 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25003,7 +25003,7 @@
 			)
 		)
 		(property "Value" "8pF"
-			(at 311.15 243.84 0)
+			(at 311.15 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25012,7 +25012,7 @@
 			)
 		)
 		(property "Footprint" "C0402"
-			(at 308.61 241.3 0)
+			(at 308.61 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25021,7 +25021,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 308.61 241.3 0)
+			(at 308.61 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25030,7 +25030,7 @@
 			)
 		)
 		(property "Description" "SMD CAP Ceramic 8pF-50V-0.5pF-NPO;0402"
-			(at 308.61 241.3 0)
+			(at 308.61 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25039,7 +25039,7 @@
 			)
 		)
 		(property "RATING" ""
-			(at 311.15 245.618 0)
+			(at 311.15 240.538 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25049,7 +25049,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "C0402"
-			(at 300.99 246.38 0)
+			(at 300.99 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25058,7 +25058,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0402DRNPO9BN8R0"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25068,7 +25068,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55¡ãC to 125¡ãC"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25078,7 +25078,7 @@
 			)
 		)
 		(property "PN" "302010026"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25088,7 +25088,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "0402"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25098,7 +25098,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "reterminal Bridge"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25108,7 +25108,7 @@
 			)
 		)
 		(property "DIELECTRIC TYPE" "Ceramic"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25118,7 +25118,7 @@
 			)
 		)
 		(property "TEMPERATURE COEFFICIENT" "NPO"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25128,7 +25128,7 @@
 			)
 		)
 		(property "TOLERANCE" "0.5pF"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25138,7 +25138,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25148,7 +25148,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25158,7 +25158,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25168,7 +25168,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25178,7 +25178,7 @@
 			)
 		)
 		(property "STATUS" "reterminal Bridge"
-			(at -36.83 297.18 0)
+			(at -36.83 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25760,7 +25760,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:B3_ARROW")
-		(at 243.84 264.16 90)
+		(at 243.84 259.08 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25768,7 +25768,7 @@
 		(dnp no)
 		(uuid "b91e54ed-07de-482f-8b98-61cdda523a92")
 		(property "Reference" "#PWR?"
-			(at 243.84 264.16 0)
+			(at 243.84 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25777,7 +25777,7 @@
 			)
 		)
 		(property "Value" "B3"
-			(at 247.65 264.16 90)
+			(at 247.65 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25786,7 +25786,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 264.16 0)
+			(at 243.84 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25795,7 +25795,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 264.16 0)
+			(at 243.84 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25804,7 +25804,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 264.16 0)
+			(at 243.84 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26402,7 +26402,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_mirrored_XTAL_4P")
-		(at 288.29 231.14 0)
+		(at 288.29 226.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26410,7 +26410,7 @@
 		(dnp no)
 		(uuid "c81a033d-154c-4882-991d-928763d16f96")
 		(property "Reference" "X2"
-			(at 285.75 231.14 0)
+			(at 285.75 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26419,7 +26419,7 @@
 			)
 		)
 		(property "Value" "25MHz"
-			(at 275.59 248.92 0)
+			(at 275.59 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26428,7 +26428,7 @@
 			)
 		)
 		(property "Footprint" "X4-SMD-3_2X2_5X1_0MM"
-			(at 288.29 231.14 0)
+			(at 288.29 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26437,7 +26437,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 288.29 231.14 0)
+			(at 288.29 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26446,7 +26446,7 @@
 			)
 		)
 		(property "Description" "SMD Crystal 25MHz-10pF-10ppm;4P-SMD-L3.2*W2.5*H0.7mm"
-			(at 288.29 231.14 0)
+			(at 288.29 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26455,7 +26455,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "X4-SMD-3_2X2_5X1_0MM"
-			(at 288.29 250.698 0)
+			(at 288.29 245.618 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26465,7 +26465,7 @@
 			)
 		)
 		(property "PN" "306011583"
-			(at -21.59 297.18 0)
+			(at -21.59 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26475,7 +26475,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "3.2x2.5x0.8mm"
-			(at 275.59 251.46 0)
+			(at 275.59 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26484,7 +26484,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "RV PI"
-			(at -21.59 297.18 0)
+			(at -21.59 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26494,7 +26494,7 @@
 			)
 		)
 		(property "FREQUENCY TOLERANCE" "10 ppm"
-			(at -21.59 297.18 0)
+			(at -21.59 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26504,7 +26504,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at -21.59 297.18 0)
+			(at -21.59 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26514,7 +26514,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at -21.59 297.18 0)
+			(at -21.59 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26524,7 +26524,7 @@
 			)
 		)
 		(property "CLASS" "DISCRETE"
-			(at -21.59 297.18 0)
+			(at -21.59 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26534,7 +26534,7 @@
 			)
 		)
 		(property "MANUFACTURER" "ECEC"
-			(at -21.59 297.18 0)
+			(at -21.59 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26544,7 +26544,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-40¡ãC to 85¡ãC"
-			(at -21.59 297.18 0)
+			(at -21.59 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26554,7 +26554,7 @@
 			)
 		)
 		(property "RATING" "10ppm,10pF"
-			(at 275.59 254 0)
+			(at 275.59 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26563,7 +26563,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "M25000C239"
-			(at -21.59 297.18 0)
+			(at -21.59 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26573,7 +26573,7 @@
 			)
 		)
 		(property "STATUS" "J40 MINI AI BOX"
-			(at -21.59 297.18 0)
+			(at -21.59 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26611,7 +26611,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:root_0_mirrored_AM62x_BGA425")
-		(at 101.6 205.74 0)
+		(at 101.6 200.66 0)
 		(unit 8)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26619,7 +26619,7 @@
 		(dnp no)
 		(uuid "d16c0ebd-a082-4258-ae77-ee3982b75577")
 		(property "Reference" "U1"
-			(at 25.4 204.47 0)
+			(at 25.4 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26628,7 +26628,7 @@
 			)
 		)
 		(property "Value" "AM6232ASCGHAALWR"
-			(at 25.4 280.924 0)
+			(at 25.4 275.844 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26637,7 +26637,7 @@
 			)
 		)
 		(property "Footprint" "bga425_0d5_13x13mm"
-			(at 101.6 205.74 0)
+			(at 101.6 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26646,7 +26646,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 205.74 0)
+			(at 101.6 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26655,7 +26655,7 @@
 			)
 		)
 		(property "Description" "SMD IC MPU;AM6232 Sitara Processor;BGA425"
-			(at 101.6 205.74 0)
+			(at 101.6 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26664,7 +26664,7 @@
 			)
 		)
 		(property "PCB FOOTPRINT" "bga425_0d5_13x13mm"
-			(at 25.4 287.02 0)
+			(at 25.4 281.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26673,7 +26673,7 @@
 			)
 		)
 		(property "STATUS" "BeaglePlay"
-			(at 76.2 297.18 0)
+			(at 76.2 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26683,7 +26683,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TI"
-			(at 76.2 297.18 0)
+			(at 76.2 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26693,7 +26693,7 @@
 			)
 		)
 		(property "CLASS" "IC"
-			(at 76.2 297.18 0)
+			(at 76.2 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26703,7 +26703,7 @@
 			)
 		)
 		(property "ICA_MFR_NAME" ""
-			(at 76.2 297.18 0)
+			(at 76.2 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26713,7 +26713,7 @@
 			)
 		)
 		(property "ICA_PARTNUM" ""
-			(at 76.2 297.18 0)
+			(at 76.2 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26723,7 +26723,7 @@
 			)
 		)
 		(property "COMPANY PART STATUS" "BeaglePlay"
-			(at 76.2 297.18 0)
+			(at 76.2 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26733,7 +26733,7 @@
 			)
 		)
 		(property "PACKAGE SIZE" "BGA425"
-			(at 25.4 284.226 0)
+			(at 25.4 279.146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26742,7 +26742,7 @@
 			)
 		)
 		(property "PN" "310011877"
-			(at 76.2 297.18 0)
+			(at 76.2 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26752,7 +26752,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-40¡ãC to 105¡ãC"
-			(at 76.2 297.18 0)
+			(at 76.2 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26762,7 +26762,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "AM6232ASCGHAALWR"
-			(at 76.2 297.18 0)
+			(at 76.2 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28215,7 +28215,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:A5_ARROW")
-		(at 243.84 251.46 90)
+		(at 243.84 246.38 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28223,7 +28223,7 @@
 		(dnp no)
 		(uuid "d452ee5d-333f-4870-aa88-4b9549a0497e")
 		(property "Reference" "#PWR?"
-			(at 243.84 251.46 0)
+			(at 243.84 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28232,7 +28232,7 @@
 			)
 		)
 		(property "Value" "A5"
-			(at 247.65 251.46 90)
+			(at 247.65 246.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28241,7 +28241,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 251.46 0)
+			(at 243.84 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28250,7 +28250,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 251.46 0)
+			(at 243.84 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28259,7 +28259,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 251.46 0)
+			(at 243.84 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29083,7 +29083,7 @@
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:MCU_SPI0_CS0_ARROW")
-		(at 243.84 223.52 90)
+		(at 243.84 218.44 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29091,7 +29091,7 @@
 		(dnp no)
 		(uuid "ff7b6966-d520-46ee-9ade-65921462318a")
 		(property "Reference" "#PWR?"
-			(at 243.84 223.52 0)
+			(at 243.84 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29100,7 +29100,7 @@
 			)
 		)
 		(property "Value" "MCU_SPI0_CS0"
-			(at 247.65 223.52 90)
+			(at 247.65 218.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29109,7 +29109,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 223.52 0)
+			(at 243.84 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29118,7 +29118,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 223.52 0)
+			(at 243.84 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29127,7 +29127,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 223.52 0)
+			(at 243.84 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
