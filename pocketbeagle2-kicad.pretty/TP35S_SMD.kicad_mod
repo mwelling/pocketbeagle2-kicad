@@ -1,0 +1,118 @@
+(footprint "TP35S_SMD"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.26772 -0.15323 0)
+		(unlocked yes)
+		(layer "Eco1.User")
+		(uuid "c6c571d2-2f38-4390-b836-1ba90549917b")
+		(effects
+			(font
+				(size 0.3302 0.3302)
+				(thickness 0.02032)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(property "Value" "TEST POINT_TP35S_SMD_DISCRETE_TEST POINT"
+		(at 0 -0.18669 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(hide yes)
+		(uuid "4eff6835-5ece-4d7e-a623-588214968ced")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "6f93170d-6930-4ab9-b29e-704f20fd87ed")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "e3836c3d-a14c-4d8d-9d2e-10d1162dda60")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "596cf76a-fc76-45c1-8d7e-8f773a6e5f8b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 0.4539)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill none)
+		(layer "Eco1.User")
+		(uuid "44c14ce3-24d1-47a5-87ba-f9ad555183e3")
+	)
+	(fp_poly
+		(pts
+			(xy 0.46072 0) (xy 0.42565 0.17631) (xy 0.32578 0.32577) (xy 0.17631 0.42564) (xy 0 0.46071) (xy -0.17631 0.42564)
+			(xy -0.22641 0.39216) (xy -0.32577 0.32577) (xy -0.42564 0.17631) (xy -0.46071 0) (xy -0.42564 -0.17631)
+			(xy -0.32577 -0.32578) (xy -0.22641 -0.39217) (xy -0.17631 -0.42565) (xy 0 -0.46072) (xy 0.17631 -0.42565)
+			(xy 0.32578 -0.32578) (xy 0.42565 -0.17631)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "User.8")
+		(uuid "37185bd0-b3e9-40c7-9522-77770593cf3e")
+	)
+	(fp_text user "1"
+		(at -0.04394 -0.099722 0)
+		(unlocked yes)
+		(layer "Eco1.User")
+		(uuid "654a80f4-7e9e-4f5b-9261-91f413d8ea41")
+		(effects
+			(font
+				(size 0.08001 0.08001)
+				(thickness 0.00399)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(pad "1" smd roundrect
+		(at 0 0 180)
+		(size 0.89967 0.89967)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.335)
+		(uuid "4e4a0b75-f007-431d-b5e2-ef40ab9a36b8")
+	)
+)

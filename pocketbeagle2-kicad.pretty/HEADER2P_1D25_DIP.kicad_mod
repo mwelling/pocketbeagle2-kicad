@@ -1,0 +1,181 @@
+(footprint "HEADER2P_1D25_DIP"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.48673 0.27127 -90)
+		(unlocked yes)
+		(layer "Eco1.User")
+		(uuid "0ed61eb1-d26b-48bd-98a5-d1e7e9df71c6")
+		(effects
+			(font
+				(size 0.3302 0.3302)
+				(thickness 0.02032)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(property "Value" "HEADER 1X2_HEADER2P_1D25_DIP_IO_HEADER 1X2 1.25MM"
+		(at 0.18669 0 -90)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(hide yes)
+		(uuid "4e8ed511-c59a-434c-8d12-aeedb5f9248f")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "64a98923-e452-4ee2-b00a-ba614a372896")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "ca90a14e-8070-4a44-874e-b54ca3f51b57")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "756297d7-759a-4947-9ea2-42ab2295a367")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_line
+		(start 2.19989 1.79985)
+		(end 2.19989 -1.8001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Eco1.User")
+		(uuid "d56f46eb-497f-47fe-b761-775676a14b67")
+	)
+	(fp_line
+		(start -2.19989 1.79985)
+		(end 2.19989 1.79985)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Eco1.User")
+		(uuid "d45d2fb2-89a7-4ce2-aa74-bba018c1a11b")
+	)
+	(fp_line
+		(start -2.19989 1.79985)
+		(end -2.19989 -1.8001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Eco1.User")
+		(uuid "f2b6204b-71d0-4069-9e45-f7c1ee87e494")
+	)
+	(fp_line
+		(start -2.19989 -1.8001)
+		(end 2.19989 -1.8001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Eco1.User")
+		(uuid "de7ecb8a-f38c-4f59-a202-12aeea8f4086")
+	)
+	(fp_poly
+		(pts
+			(xy -2.19989 -1.8001) (xy -2.19989 1.79985) (xy 2.19989 1.79985) (xy 2.19989 -1.8001)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "User.8")
+		(uuid "1d33eee3-d1e7-4195-8071-8f362db84d30")
+	)
+	(fp_text user "Header 1x2 1.25mm"
+		(at 0.29997 -1.890368 180)
+		(unlocked yes)
+		(layer "Eco1.User")
+		(uuid "034d9b3d-3a8c-4aec-9589-630ec8dc6b2c")
+		(effects
+			(font
+				(size 0.08001 0.08001)
+				(thickness 0.00399)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(fp_text user "2"
+		(at -0.70002 0.645822 180)
+		(unlocked yes)
+		(layer "Eco1.User")
+		(uuid "5366a766-b948-46ca-9d71-d7b94b2cd41b")
+		(effects
+			(font
+				(size 0.08001 0.08001)
+				(thickness 0.00399)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(fp_text user "1"
+		(at 0.59995 0.645822 180)
+		(unlocked yes)
+		(layer "Eco1.User")
+		(uuid "8b08b8c5-f468-493d-8fe8-294d6ccc07fc")
+		(effects
+			(font
+				(size 0.08001 0.08001)
+				(thickness 0.00399)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0.62509 0.59995 90)
+		(size 0.89992 0.89992)
+		(drill 0.54991)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "4f57c579-e4cf-4c3c-a8ab-91e171596e4e")
+	)
+	(pad "2" thru_hole circle
+		(at -0.62509 0.59995 90)
+		(size 0.89992 0.89992)
+		(drill 0.54991)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "d0143858-5a48-4467-a7db-00e82a80bf3b")
+	)
+)
