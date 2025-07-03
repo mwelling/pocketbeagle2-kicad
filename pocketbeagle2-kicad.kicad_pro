@@ -945,7 +945,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "pocketbeagle2-kicad.step",
       "svg": "",
       "vrml": ""
     },

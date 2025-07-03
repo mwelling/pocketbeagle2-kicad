@@ -1,7 +1,7 @@
 (footprint "SOT23-5"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at -0.05226 0.28829 90)
@@ -28,18 +28,6 @@
 				(thickness 0.254)
 			)
 			(justify left bottom)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "5a77a21c-d907-4d3a-9b7a-e2fd66427c13")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.15)
-			)
 		)
 	)
 	(property "Datasheet" ""
@@ -103,7 +91,7 @@
 			(width 0.254)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "3ba1730c-79e0-4a0c-b1ed-edbb91f787da")
 	)
@@ -194,7 +182,7 @@
 			(width 0.254)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "Eco1.User")
 		(uuid "3d6cd693-0bb5-4447-8b11-85c1a6cce41d")
 	)
@@ -206,7 +194,7 @@
 			(width 0)
 			(type default)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "User.7")
 		(uuid "fa77d048-18c0-4430-86ba-3395f2c67e64")
 	)
@@ -237,7 +225,7 @@
 			(width 0.0254)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "User.9")
 		(uuid "9465624a-a49a-4add-9f2d-e8c3950b123c")
 	)
@@ -322,31 +310,43 @@
 	(pad "1" smd rect
 		(at -0.9525 1.2954 90)
 		(size 1.016 0.635)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "05eb3eac-9b0d-4a94-8da2-9b574c6dd214")
 	)
 	(pad "2" smd rect
 		(at 0 1.2954 90)
 		(size 1.016 0.635)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "4bcb8800-af90-447e-83c2-37ca1eaa7a3f")
 	)
 	(pad "3" smd rect
 		(at 0.9525 1.2954 90)
 		(size 1.016 0.635)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "43f12280-dfc5-4cca-bf30-7dc1de0c5321")
 	)
 	(pad "4" smd rect
 		(at 0.9525 -1.2954 90)
 		(size 1.016 0.635)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "93489071-7e16-434d-b446-cda917d9f91c")
 	)
 	(pad "5" smd rect
 		(at -0.9525 -1.2954 90)
 		(size 1.016 0.635)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "beac49bd-2501-4352-95e3-82f6d1869ffe")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
 	)
 )

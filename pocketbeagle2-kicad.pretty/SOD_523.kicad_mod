@@ -1,7 +1,7 @@
 (footprint "SOD_523"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0.11684 -0.23095 0)
@@ -28,19 +28,6 @@
 				(thickness 0.254)
 			)
 			(justify left bottom mirror)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "B.Fab")
-		(hide yes)
-		(uuid "63b9cdbc-82d2-458d-8ccb-ed0abc605293")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.15)
-			)
-			(justify mirror)
 		)
 	)
 	(property "Datasheet" ""
@@ -70,16 +57,6 @@
 		)
 	)
 	(fp_line
-		(start 0.34595 0.40005)
-		(end -0.34595 0.40005)
-		(stroke
-			(width 0.127)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "8cbbf34e-a0e9-45bb-8680-372b41a09a96")
-	)
-	(fp_line
 		(start 0.34595 -0.40005)
 		(end -0.34595 -0.40005)
 		(stroke
@@ -89,6 +66,16 @@
 		(layer "F.SilkS")
 		(uuid "e7851e6d-8593-4aba-b89e-46a2312e39ce")
 	)
+	(fp_line
+		(start 0.34595 0.40005)
+		(end -0.34595 0.40005)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8cbbf34e-a0e9-45bb-8680-372b41a09a96")
+	)
 	(fp_poly
 		(pts
 			(xy -0.127 -0.254) (xy -0.127 0.254) (xy 0.127 0)
@@ -97,29 +84,19 @@
 			(width 0.1)
 			(type dash)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "11ab115d-81a8-442f-b693-188e0cb402c7")
 	)
 	(fp_line
-		(start 0.635 0.381)
-		(end 0.635 -0.381)
+		(start -0.635 0.381)
+		(end -0.635 -0.381)
 		(stroke
 			(width 0.0254)
 			(type solid)
 		)
 		(layer "Eco1.User")
-		(uuid "b874bb81-a52d-44b0-89b4-278f601619ef")
-	)
-	(fp_line
-		(start 0.635 0.381)
-		(end -0.635 0.381)
-		(stroke
-			(width 0.0254)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "6e825e43-6e3c-425b-bafa-30018bb115d2")
+		(uuid "79373dc3-4ead-4b53-a527-a85d804a2629")
 	)
 	(fp_line
 		(start 0.635 -0.381)
@@ -132,14 +109,24 @@
 		(uuid "027d4081-d205-4ec1-895c-5a38734f8930")
 	)
 	(fp_line
-		(start -0.635 0.381)
-		(end -0.635 -0.381)
+		(start 0.635 0.381)
+		(end -0.635 0.381)
 		(stroke
 			(width 0.0254)
 			(type solid)
 		)
 		(layer "Eco1.User")
-		(uuid "79373dc3-4ead-4b53-a527-a85d804a2629")
+		(uuid "6e825e43-6e3c-425b-bafa-30018bb115d2")
+	)
+	(fp_line
+		(start 0.635 0.381)
+		(end 0.635 -0.381)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Eco1.User")
+		(uuid "b874bb81-a52d-44b0-89b4-278f601619ef")
 	)
 	(fp_poly
 		(pts
@@ -149,7 +136,7 @@
 			(width 0)
 			(type default)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "User.8")
 		(uuid "921a01cb-2de6-44c1-a74d-7ba814392b26")
 	)
@@ -167,7 +154,7 @@
 		)
 	)
 	(fp_text user "2"
-		(at 0.839788 0 -90)
+		(at 0.839788 0 270)
 		(unlocked yes)
 		(layer "Eco1.User")
 		(uuid "4091553d-f57c-4ed6-9462-867f87ab942a")
@@ -180,7 +167,7 @@
 		)
 	)
 	(fp_text user "1"
-		(at -0.811212 0 -90)
+		(at -0.811212 0 270)
 		(unlocked yes)
 		(layer "Eco1.User")
 		(uuid "91567c01-047c-4fba-bd83-9465bcc38bd6")
@@ -195,15 +182,27 @@
 	(pad "1" smd roundrect
 		(at -0.8001 0 90)
 		(size 0.70002 0.762)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.07)
 		(uuid "b8f6803b-4a78-492a-bc85-f9b40714f605")
 	)
 	(pad "2" smd roundrect
 		(at 0.8001 0 90)
 		(size 0.70002 0.762)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.07)
 		(uuid "cd4bd32a-296e-4689-bca9-1b4321124ce1")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-523.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -180)
+		)
 	)
 )

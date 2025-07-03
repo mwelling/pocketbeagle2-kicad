@@ -1,7 +1,7 @@
 (footprint "SOT23_6"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at -0.26416 -0.20555 0)
@@ -28,19 +28,6 @@
 				(thickness 0.254)
 			)
 			(justify left bottom mirror)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "B.Fab")
-		(hide yes)
-		(uuid "ab317706-deab-4cfb-90c2-3ef6ee55f301")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.15)
-			)
-			(justify mirror)
 		)
 	)
 	(property "Datasheet" ""
@@ -70,14 +57,14 @@
 		)
 	)
 	(fp_line
-		(start 1.45009 0.77495)
-		(end 1.45009 -0.47498)
+		(start -1.45008 0.77495)
+		(end -1.45008 -0.77496)
 		(stroke
 			(width 0.127)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "5d45e9a6-1cac-43e8-b207-c889c179d3be")
+		(uuid "bc4b0a14-fa01-4a53-a580-fb16faca857a")
 	)
 	(fp_line
 		(start 1.45009 -0.47498)
@@ -90,14 +77,14 @@
 		(uuid "7120c5a8-0a34-4075-bd86-f635b116838f")
 	)
 	(fp_line
-		(start -1.45008 0.77495)
-		(end -1.45008 -0.77496)
+		(start 1.45009 0.77495)
+		(end 1.45009 -0.47498)
 		(stroke
 			(width 0.127)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "bc4b0a14-fa01-4a53-a580-fb16faca857a")
+		(uuid "5d45e9a6-1cac-43e8-b207-c889c179d3be")
 	)
 	(fp_circle
 		(center 1.651 -1.016)
@@ -106,29 +93,19 @@
 			(width 0.254)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "00a1311a-ca76-421e-82cc-fefc3a50d9c6")
 	)
 	(fp_line
-		(start 1.397 0.762)
-		(end 1.397 -0.762)
+		(start -1.397 0.762)
+		(end -1.397 -0.762)
 		(stroke
 			(width 0.0254)
 			(type solid)
 		)
 		(layer "Eco1.User")
-		(uuid "879c9386-a4d6-4e01-83bb-8482cb011273")
-	)
-	(fp_line
-		(start 1.397 0.762)
-		(end -1.397 0.762)
-		(stroke
-			(width 0.0254)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "da28a9aa-db1a-41bd-8bfb-2bfcd37d6d57")
+		(uuid "f65e4fb3-f407-4c93-9326-89ab9b908839")
 	)
 	(fp_line
 		(start 1.397 -0.762)
@@ -141,14 +118,24 @@
 		(uuid "3108e9f8-bdec-41bd-9d1b-4e642052a6cf")
 	)
 	(fp_line
-		(start -1.397 0.762)
-		(end -1.397 -0.762)
+		(start 1.397 0.762)
+		(end -1.397 0.762)
 		(stroke
 			(width 0.0254)
 			(type solid)
 		)
 		(layer "Eco1.User")
-		(uuid "f65e4fb3-f407-4c93-9326-89ab9b908839")
+		(uuid "da28a9aa-db1a-41bd-8bfb-2bfcd37d6d57")
+	)
+	(fp_line
+		(start 1.397 0.762)
+		(end 1.397 -0.762)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Eco1.User")
+		(uuid "879c9386-a4d6-4e01-83bb-8482cb011273")
 	)
 	(fp_circle
 		(center 1.143 -0.508)
@@ -157,7 +144,7 @@
 			(width 0.254)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "Eco1.User")
 		(uuid "d6265b9d-715c-4d9f-a551-39428662a91c")
 	)
@@ -169,7 +156,7 @@
 			(width 0)
 			(type default)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "User.8")
 		(uuid "a41036f0-59f7-4572-b083-7fb5c222c1f3")
 	)
@@ -267,43 +254,55 @@
 	(pad "1" smd roundrect
 		(at 0.94996 -1.143 180)
 		(size 0.54966 1.016)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.09)
 		(uuid "6fccdc40-2aaf-435c-91c3-25c8fb4e7c1e")
 	)
 	(pad "2" smd roundrect
 		(at 0 -1.143 180)
 		(size 0.54966 1.016)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.09)
 		(uuid "34793031-adec-4984-aea0-590b2d2c6fb8")
 	)
 	(pad "3" smd roundrect
 		(at -0.94996 -1.143 180)
 		(size 0.54966 1.016)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.09)
 		(uuid "6e4d0577-0191-4202-8743-4c3efa6eaa55")
 	)
 	(pad "4" smd roundrect
 		(at -0.94996 1.143 180)
 		(size 0.54966 1.016)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.09)
 		(uuid "411e45c4-c490-4064-98d6-496efd01c91f")
 	)
 	(pad "5" smd roundrect
 		(at 0 1.143 180)
 		(size 0.54966 1.016)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.09)
 		(uuid "f4d94eda-296e-4a73-8078-eb2d6373cc5c")
 	)
 	(pad "6" smd roundrect
 		(at 0.94996 1.143 180)
 		(size 0.54966 1.016)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.09)
 		(uuid "6eb4e1cf-2ffb-491c-9d84-b95361fa1362")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
 	)
 )
