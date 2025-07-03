@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "9b26b93b-7e25-4697-9eea-2c9b56d94edb")
 	(paper "User" 419.989 297.002)
 	(lib_symbols
@@ -65,7 +65,7 @@
 			(symbol "A13_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -77,7 +77,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -89,7 +89,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "A13"
 						(effects
 							(font
@@ -106,6 +107,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:A14_ARROW"
 			(power)
@@ -167,7 +169,7 @@
 			(symbol "A14_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -179,7 +181,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -191,7 +193,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "A14"
 						(effects
 							(font
@@ -208,6 +211,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:A15_ARROW"
 			(power)
@@ -269,7 +273,7 @@
 			(symbol "A15_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -281,7 +285,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -293,7 +297,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "A15"
 						(effects
 							(font
@@ -310,6 +315,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:A17_ARROW"
 			(power)
@@ -371,7 +377,7 @@
 			(symbol "A17_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -383,7 +389,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -395,7 +401,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "A17"
 						(effects
 							(font
@@ -412,6 +419,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:A18_ARROW"
 			(power)
@@ -473,7 +481,7 @@
 			(symbol "A18_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -485,7 +493,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -497,7 +505,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "A18"
 						(effects
 							(font
@@ -514,6 +523,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:A19_ARROW"
 			(power)
@@ -575,7 +585,7 @@
 			(symbol "A19_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -587,7 +597,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -599,7 +609,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "A19"
 						(effects
 							(font
@@ -616,6 +627,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:A20_ARROW"
 			(power)
@@ -677,7 +689,7 @@
 			(symbol "A20_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -689,7 +701,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -701,7 +713,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "A20"
 						(effects
 							(font
@@ -718,6 +731,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:A5_ARROW"
 			(power)
@@ -779,7 +793,7 @@
 			(symbol "A5_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -791,7 +805,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -803,7 +817,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "A5"
 						(effects
 							(font
@@ -820,6 +835,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AA18_ARROW"
 			(power)
@@ -881,7 +897,7 @@
 			(symbol "AA18_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -893,7 +909,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -905,7 +921,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AA18"
 						(effects
 							(font
@@ -922,6 +939,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AA19_ARROW"
 			(power)
@@ -983,7 +1001,7 @@
 			(symbol "AA19_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -995,7 +1013,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1007,7 +1025,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AA19"
 						(effects
 							(font
@@ -1024,6 +1043,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AA21_ARROW"
 			(power)
@@ -1085,7 +1105,7 @@
 			(symbol "AA21_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1097,7 +1117,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1109,7 +1129,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AA21"
 						(effects
 							(font
@@ -1126,6 +1147,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AA23_ARROW"
 			(power)
@@ -1187,7 +1209,7 @@
 			(symbol "AA23_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1199,7 +1221,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1211,7 +1233,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AA23"
 						(effects
 							(font
@@ -1228,6 +1251,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AA24_ARROW"
 			(power)
@@ -1289,7 +1313,7 @@
 			(symbol "AA24_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1301,7 +1325,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1313,7 +1337,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AA24"
 						(effects
 							(font
@@ -1330,6 +1355,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AA25_ARROW"
 			(power)
@@ -1391,7 +1417,7 @@
 			(symbol "AA25_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1403,7 +1429,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1415,7 +1441,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AA25"
 						(effects
 							(font
@@ -1432,6 +1459,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AB10_ARROW"
 			(power)
@@ -1493,7 +1521,7 @@
 			(symbol "AB10_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1505,7 +1533,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1517,7 +1545,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AB10"
 						(effects
 							(font
@@ -1534,6 +1563,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AB20_ARROW"
 			(power)
@@ -1595,7 +1625,7 @@
 			(symbol "AB20_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1607,7 +1637,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1619,7 +1649,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AB20"
 						(effects
 							(font
@@ -1636,6 +1667,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AB22_ARROW"
 			(power)
@@ -1697,7 +1729,7 @@
 			(symbol "AB22_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1709,7 +1741,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1721,7 +1753,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AB22"
 						(effects
 							(font
@@ -1738,6 +1771,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AB24_ARROW"
 			(power)
@@ -1799,7 +1833,7 @@
 			(symbol "AB24_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1811,7 +1845,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1823,7 +1857,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AB24"
 						(effects
 							(font
@@ -1840,6 +1875,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AB25_ARROW"
 			(power)
@@ -1901,7 +1937,7 @@
 			(symbol "AB25_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1913,7 +1949,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1925,7 +1961,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AB25"
 						(effects
 							(font
@@ -1942,6 +1979,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AC20_ARROW"
 			(power)
@@ -2003,7 +2041,7 @@
 			(symbol "AC20_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2015,7 +2053,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2027,7 +2065,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AC20"
 						(effects
 							(font
@@ -2044,6 +2083,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AC21_ARROW"
 			(power)
@@ -2105,7 +2145,7 @@
 			(symbol "AC21_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2117,7 +2157,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2129,7 +2169,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AC21"
 						(effects
 							(font
@@ -2146,6 +2187,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AC24_ARROW"
 			(power)
@@ -2207,7 +2249,7 @@
 			(symbol "AC24_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2219,7 +2261,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2231,7 +2273,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AC24"
 						(effects
 							(font
@@ -2248,6 +2291,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AC25_ARROW"
 			(power)
@@ -2309,7 +2353,7 @@
 			(symbol "AC25_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2321,7 +2365,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2333,7 +2377,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AC25"
 						(effects
 							(font
@@ -2350,6 +2395,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AD18_ARROW"
 			(power)
@@ -2411,7 +2457,7 @@
 			(symbol "AD18_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2423,7 +2469,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2435,7 +2481,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AD18"
 						(effects
 							(font
@@ -2452,6 +2499,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AD21_ARROW"
 			(power)
@@ -2513,7 +2561,7 @@
 			(symbol "AD21_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2525,7 +2573,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2537,7 +2585,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AD21"
 						(effects
 							(font
@@ -2554,6 +2603,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AD22_ARROW"
 			(power)
@@ -2615,7 +2665,7 @@
 			(symbol "AD22_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2627,7 +2677,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2639,7 +2689,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AD22"
 						(effects
 							(font
@@ -2656,6 +2707,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AD23_ARROW"
 			(power)
@@ -2717,7 +2769,7 @@
 			(symbol "AD23_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2729,7 +2781,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2741,7 +2793,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AD23"
 						(effects
 							(font
@@ -2758,6 +2811,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AD24_ARROW"
 			(power)
@@ -2819,7 +2873,7 @@
 			(symbol "AD24_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2831,7 +2885,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2843,7 +2897,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AD24"
 						(effects
 							(font
@@ -2860,6 +2915,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AE18_ARROW"
 			(power)
@@ -2921,7 +2977,7 @@
 			(symbol "AE18_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2933,7 +2989,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2945,7 +3001,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AE18"
 						(effects
 							(font
@@ -2962,6 +3019,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AE21_ARROW"
 			(power)
@@ -3023,7 +3081,7 @@
 			(symbol "AE21_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3035,7 +3093,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3047,7 +3105,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AE21"
 						(effects
 							(font
@@ -3064,6 +3123,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AE22_ARROW"
 			(power)
@@ -3125,7 +3185,7 @@
 			(symbol "AE22_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3137,7 +3197,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3149,7 +3209,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AE22"
 						(effects
 							(font
@@ -3166,6 +3227,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AE23_ARROW"
 			(power)
@@ -3227,7 +3289,7 @@
 			(symbol "AE23_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3239,7 +3301,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3251,7 +3313,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AE23"
 						(effects
 							(font
@@ -3268,6 +3331,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AIN0_ARROW"
 			(power)
@@ -3329,7 +3393,7 @@
 			(symbol "AIN0_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3341,7 +3405,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3353,7 +3417,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AIN0"
 						(effects
 							(font
@@ -3370,6 +3435,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AIN1_ARROW"
 			(power)
@@ -3431,7 +3497,7 @@
 			(symbol "AIN1_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3443,7 +3509,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3455,7 +3521,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AIN1"
 						(effects
 							(font
@@ -3472,6 +3539,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AIN2_ARROW"
 			(power)
@@ -3533,7 +3601,7 @@
 			(symbol "AIN2_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3545,7 +3613,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3557,7 +3625,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AIN2"
 						(effects
 							(font
@@ -3574,6 +3643,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AIN3_ARROW"
 			(power)
@@ -3635,7 +3705,7 @@
 			(symbol "AIN3_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3647,7 +3717,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3659,7 +3729,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AIN3"
 						(effects
 							(font
@@ -3676,6 +3747,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AIN4_ARROW"
 			(power)
@@ -3737,7 +3809,7 @@
 			(symbol "AIN4_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3749,7 +3821,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3761,7 +3833,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AIN4"
 						(effects
 							(font
@@ -3778,6 +3851,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AIN5_ARROW"
 			(power)
@@ -3839,7 +3913,7 @@
 			(symbol "AIN5_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3851,7 +3925,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3863,7 +3937,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AIN5"
 						(effects
 							(font
@@ -3880,6 +3955,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AIN6_ARROW"
 			(power)
@@ -3941,7 +4017,7 @@
 			(symbol "AIN6_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3953,7 +4029,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3965,7 +4041,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AIN6"
 						(effects
 							(font
@@ -3982,6 +4059,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:AIN7_ARROW"
 			(power)
@@ -4043,7 +4121,7 @@
 			(symbol "AIN7_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4055,7 +4133,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4067,7 +4145,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "AIN7"
 						(effects
 							(font
@@ -4084,6 +4163,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:B13_ARROW"
 			(power)
@@ -4145,7 +4225,7 @@
 			(symbol "B13_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4157,7 +4237,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4169,7 +4249,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "B13"
 						(effects
 							(font
@@ -4186,6 +4267,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:B14_ARROW"
 			(power)
@@ -4247,7 +4329,7 @@
 			(symbol "B14_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4259,7 +4341,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4271,7 +4353,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "B14"
 						(effects
 							(font
@@ -4288,6 +4371,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:B15_ARROW"
 			(power)
@@ -4349,7 +4433,7 @@
 			(symbol "B15_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4361,7 +4445,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4373,7 +4457,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "B15"
 						(effects
 							(font
@@ -4390,6 +4475,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:B17_ARROW"
 			(power)
@@ -4451,7 +4537,7 @@
 			(symbol "B17_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4463,7 +4549,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4475,7 +4561,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "B17"
 						(effects
 							(font
@@ -4492,6 +4579,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:B18_ARROW"
 			(power)
@@ -4553,7 +4641,7 @@
 			(symbol "B18_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4565,7 +4653,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4577,7 +4665,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "B18"
 						(effects
 							(font
@@ -4594,6 +4683,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:B19_ARROW"
 			(power)
@@ -4655,7 +4745,7 @@
 			(symbol "B19_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4667,7 +4757,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4679,7 +4769,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "B19"
 						(effects
 							(font
@@ -4696,6 +4787,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:B20_ARROW"
 			(power)
@@ -4757,7 +4849,7 @@
 			(symbol "B20_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4769,7 +4861,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4781,7 +4873,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "B20"
 						(effects
 							(font
@@ -4798,6 +4891,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:B3_ARROW"
 			(power)
@@ -4859,7 +4953,7 @@
 			(symbol "B3_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4871,7 +4965,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4883,7 +4977,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "B3"
 						(effects
 							(font
@@ -4900,6 +4995,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:B5_ARROW"
 			(power)
@@ -4961,7 +5057,7 @@
 			(symbol "B5_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4973,7 +5069,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -4985,7 +5081,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "B5"
 						(effects
 							(font
@@ -5002,6 +5099,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:BAT_TS_ARROW"
 			(power)
@@ -5063,7 +5161,7 @@
 			(symbol "BAT_TS_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5075,7 +5173,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5087,7 +5185,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "BAT_TS"
 						(effects
 							(font
@@ -5104,6 +5203,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:C13_ARROW"
 			(power)
@@ -5165,7 +5265,7 @@
 			(symbol "C13_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5177,7 +5277,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5189,7 +5289,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "C13"
 						(effects
 							(font
@@ -5206,6 +5307,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:C15_ARROW"
 			(power)
@@ -5267,7 +5369,7 @@
 			(symbol "C15_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5279,7 +5381,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5291,7 +5393,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "C15"
 						(effects
 							(font
@@ -5308,6 +5411,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:D14_ARROW"
 			(power)
@@ -5369,7 +5473,7 @@
 			(symbol "D14_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5381,7 +5485,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5393,7 +5497,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "D14"
 						(effects
 							(font
@@ -5410,6 +5515,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:D20_ARROW"
 			(power)
@@ -5471,7 +5577,7 @@
 			(symbol "D20_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5483,7 +5589,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5495,7 +5601,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "D20"
 						(effects
 							(font
@@ -5512,6 +5619,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:D4_ARROW"
 			(power)
@@ -5573,7 +5681,7 @@
 			(symbol "D4_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5585,7 +5693,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5597,7 +5705,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "D4"
 						(effects
 							(font
@@ -5614,6 +5723,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:D6_ARROW"
 			(power)
@@ -5675,7 +5785,7 @@
 			(symbol "D6_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5687,7 +5797,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5699,7 +5809,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "D6"
 						(effects
 							(font
@@ -5716,6 +5827,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:E14_ARROW"
 			(power)
@@ -5777,7 +5889,7 @@
 			(symbol "E14_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5789,7 +5901,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5801,7 +5913,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "E14"
 						(effects
 							(font
@@ -5818,6 +5931,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:E15_ARROW"
 			(power)
@@ -5879,7 +5993,7 @@
 			(symbol "E15_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5891,7 +6005,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5903,7 +6017,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "E15"
 						(effects
 							(font
@@ -5920,6 +6035,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:E18_ARROW"
 			(power)
@@ -5981,7 +6097,7 @@
 			(symbol "E18_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -5993,7 +6109,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6005,7 +6121,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "E18"
 						(effects
 							(font
@@ -6022,6 +6139,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:E19_ARROW"
 			(power)
@@ -6083,7 +6201,7 @@
 			(symbol "E19_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6095,7 +6213,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6107,7 +6225,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "E19"
 						(effects
 							(font
@@ -6124,6 +6243,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:E5_ARROW"
 			(power)
@@ -6185,7 +6305,7 @@
 			(symbol "E5_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6197,7 +6317,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6209,7 +6329,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "E5"
 						(effects
 							(font
@@ -6226,6 +6347,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:F18_ARROW"
 			(power)
@@ -6287,7 +6409,7 @@
 			(symbol "F18_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6299,7 +6421,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6311,7 +6433,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "F18"
 						(effects
 							(font
@@ -6328,6 +6451,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:GND_POWER_GROUND"
 			(power)
@@ -6449,7 +6573,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "GND"
 						(effects
 							(font
@@ -6466,6 +6591,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:K22_ARROW"
 			(power)
@@ -6527,7 +6653,7 @@
 			(symbol "K22_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6539,7 +6665,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6551,7 +6677,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "K22"
 						(effects
 							(font
@@ -6568,6 +6695,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:K24_ARROW"
 			(power)
@@ -6629,7 +6757,7 @@
 			(symbol "K24_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6641,7 +6769,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6653,7 +6781,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "K24"
 						(effects
 							(font
@@ -6670,6 +6799,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:M22_ARROW"
 			(power)
@@ -6731,7 +6861,7 @@
 			(symbol "M22_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6743,7 +6873,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6755,7 +6885,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "M22"
 						(effects
 							(font
@@ -6772,6 +6903,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:N20_ARROW"
 			(power)
@@ -6833,7 +6965,7 @@
 			(symbol "N20_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6845,7 +6977,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6857,7 +6989,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "N20"
 						(effects
 							(font
@@ -6874,6 +7007,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:PWR_BTN_ARROW"
 			(power)
@@ -6935,7 +7069,7 @@
 			(symbol "PWR_BTN_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6947,7 +7081,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -6959,7 +7093,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "PWR_BTN"
 						(effects
 							(font
@@ -6976,6 +7111,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:U22_ARROW"
 			(power)
@@ -7037,7 +7173,7 @@
 			(symbol "U22_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -7049,7 +7185,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -7061,7 +7197,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "U22"
 						(effects
 							(font
@@ -7078,6 +7215,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:USB1_DM_ARROW"
 			(power)
@@ -7139,7 +7277,7 @@
 			(symbol "USB1_DM_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -7151,7 +7289,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -7163,7 +7301,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "USB1_DM"
 						(effects
 							(font
@@ -7180,6 +7319,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:USB1_DP_ARROW"
 			(power)
@@ -7241,7 +7381,7 @@
 			(symbol "USB1_DP_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -7253,7 +7393,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -7265,7 +7405,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "USB1_DP"
 						(effects
 							(font
@@ -7282,6 +7423,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:USB_5V_BAR"
 			(power)
@@ -7367,7 +7509,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "USB_5V"
 						(effects
 							(font
@@ -7384,6 +7527,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:V20_ARROW"
 			(power)
@@ -7445,7 +7589,7 @@
 			(symbol "V20_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -7457,7 +7601,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -7469,7 +7613,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "V20"
 						(effects
 							(font
@@ -7486,6 +7631,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:V21_ARROW"
 			(power)
@@ -7547,7 +7693,7 @@
 			(symbol "V21_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -7559,7 +7705,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -7571,7 +7717,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "V21"
 						(effects
 							(font
@@ -7588,6 +7735,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:V24_ARROW"
 			(power)
@@ -7649,7 +7797,7 @@
 			(symbol "V24_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -7661,7 +7809,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -7673,7 +7821,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "V24"
 						(effects
 							(font
@@ -7690,6 +7839,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:VBAT_BAR"
 			(power)
@@ -7775,7 +7925,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VBAT"
 						(effects
 							(font
@@ -7792,6 +7943,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:VDD_3V3_BAR"
 			(power)
@@ -7877,7 +8029,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VDD_3V3"
 						(effects
 							(font
@@ -7894,6 +8047,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:VIN_5V_BAR"
 			(power)
@@ -7979,7 +8133,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VIN_5V"
 						(effects
 							(font
@@ -7996,6 +8151,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:VSYS_BAR"
 			(power)
@@ -8081,7 +8237,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VSYS"
 						(effects
 							(font
@@ -8098,6 +8255,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:W21_ARROW"
 			(power)
@@ -8159,7 +8317,7 @@
 			(symbol "W21_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8171,7 +8329,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8183,7 +8341,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "W21"
 						(effects
 							(font
@@ -8200,6 +8359,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:W24_ARROW"
 			(power)
@@ -8261,7 +8421,7 @@
 			(symbol "W24_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8273,7 +8433,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8285,7 +8445,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "W24"
 						(effects
 							(font
@@ -8302,6 +8463,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:W25_ARROW"
 			(power)
@@ -8363,7 +8525,7 @@
 			(symbol "W25_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8375,7 +8537,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8387,7 +8549,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "W25"
 						(effects
 							(font
@@ -8404,6 +8567,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:Y18_ARROW"
 			(power)
@@ -8465,7 +8629,7 @@
 			(symbol "Y18_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8477,7 +8641,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8489,7 +8653,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "Y18"
 						(effects
 							(font
@@ -8506,6 +8671,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:Y20_ARROW"
 			(power)
@@ -8567,7 +8733,7 @@
 			(symbol "Y20_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8579,7 +8745,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8591,7 +8757,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "Y20"
 						(effects
 							(font
@@ -8608,6 +8775,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:Y22_ARROW"
 			(power)
@@ -8669,7 +8837,7 @@
 			(symbol "Y22_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8681,7 +8849,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8693,7 +8861,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "Y22"
 						(effects
 							(font
@@ -8710,6 +8879,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:Y23_ARROW"
 			(power)
@@ -8771,7 +8941,7 @@
 			(symbol "Y23_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8783,7 +8953,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8795,7 +8965,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "Y23"
 						(effects
 							(font
@@ -8812,6 +8983,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:Y24_ARROW"
 			(power)
@@ -8873,7 +9045,7 @@
 			(symbol "Y24_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8885,7 +9057,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8897,7 +9069,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "Y24"
 						(effects
 							(font
@@ -8914,6 +9087,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:Y25_ARROW"
 			(power)
@@ -8975,7 +9149,7 @@
 			(symbol "Y25_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8987,7 +9161,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -8999,7 +9173,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "Y25"
 						(effects
 							(font
@@ -9016,6 +9191,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:nRESET_ARROW"
 			(power)
@@ -9077,7 +9253,7 @@
 			(symbol "nRESET_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -9089,7 +9265,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -9101,7 +9277,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "nRESET"
 						(effects
 							(font
@@ -9118,6 +9295,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:root_0_Header 2x18 Of PocketBeagle2 P1"
 			(exclude_from_sim no)
@@ -9216,384 +9394,6 @@
 					)
 				)
 				(pin passive line
-					(at 43.18 -25.4 180)
-					(length 7.62)
-					(name "SPI2.MISO"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -30.48 0)
-					(length 7.62)
-					(name "USB1.D+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -30.48 180)
-					(length 7.62)
-					(name "SPI2.MOSI"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -35.56 0)
-					(length 7.62)
-					(name "USB1.ID"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 43.18 -35.56 180)
-					(length 7.62)
-					(name "3.3V"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -7.62 -40.64 0)
-					(length 7.62)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 43.18 -40.64 180)
-					(length 7.62)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -45.72 0)
-					(length 7.62)
-					(name "AIN.VREF-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -45.72 180)
-					(length 7.62)
-					(name "AIN.VREF+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -50.8 0)
-					(length 7.62)
-					(name "AIN0(3.3V)"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -5.08 180)
-					(length 7.62)
-					(name "AIN6/GPIO87"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -50.8 180)
-					(length 7.62)
-					(name "GPIO50"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -55.88 0)
-					(length 7.62)
-					(name "AIN1(3.3V)"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 43.18 -55.88 180)
-					(length 7.62)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -60.96 0)
-					(length 7.62)
-					(name "AIN2(3.3V)"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "23"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 43.18 -60.96 180)
-					(length 7.62)
-					(name "VOUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "24"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -66.04 0)
-					(length 7.62)
-					(name "AIN3(3.3V)"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "25"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -66.04 180)
-					(length 7.62)
-					(name "I2C2.SDA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "26"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -71.12 0)
-					(length 7.62)
-					(name "AIN4(3.3V)"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "27"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -71.12 180)
-					(length 7.62)
-					(name "I2C2.SCL"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "28"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -76.2 0)
-					(length 7.62)
-					(name "PRU0.7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "29"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
 					(at -7.62 -10.16 0)
 					(length 7.62)
 					(name "USB1.DRVVBUS"
@@ -9604,150 +9404,6 @@
 						)
 					)
 					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -76.2 180)
-					(length 7.62)
-					(name "UART0.TX"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "30"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -81.28 0)
-					(length 7.62)
-					(name "PRU0.4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "31"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -81.28 180)
-					(length 7.62)
-					(name "UART0.RX"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "32"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -86.36 0)
-					(length 7.62)
-					(name "PRU0.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "33"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -86.36 180)
-					(length 7.62)
-					(name "GPIO1_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "34"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -91.44 0)
-					(length 7.62)
-					(name "PRU1.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "35"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -91.44 180)
-					(length 7.62)
-					(name "PWM2A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "36"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -10.16 180)
-					(length 7.62)
-					(name "GPIO89"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -9774,24 +9430,6 @@
 					)
 				)
 				(pin passive line
-					(at 43.18 -15.24 180)
-					(length 7.62)
-					(name "SPI2.CS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
 					(at -7.62 -20.32 0)
 					(length 7.62)
 					(name "VIN.USB"
@@ -9802,6 +9440,312 @@
 						)
 					)
 					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -25.4 0)
+					(length 7.62)
+					(name "USB1.D-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -30.48 0)
+					(length 7.62)
+					(name "USB1.D+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -35.56 0)
+					(length 7.62)
+					(name "USB1.ID"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -7.62 -40.64 0)
+					(length 7.62)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -45.72 0)
+					(length 7.62)
+					(name "AIN.VREF-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -50.8 0)
+					(length 7.62)
+					(name "AIN0(3.3V)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -55.88 0)
+					(length 7.62)
+					(name "AIN1(3.3V)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -60.96 0)
+					(length 7.62)
+					(name "AIN2(3.3V)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -66.04 0)
+					(length 7.62)
+					(name "AIN3(3.3V)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -71.12 0)
+					(length 7.62)
+					(name "AIN4(3.3V)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -76.2 0)
+					(length 7.62)
+					(name "PRU0.7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -81.28 0)
+					(length 7.62)
+					(name "PRU0.4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -86.36 0)
+					(length 7.62)
+					(name "PRU0.1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -91.44 0)
+					(length 7.62)
+					(name "PRU1.1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -5.08 180)
+					(length 7.62)
+					(name "AIN6/GPIO87"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -10.16 180)
+					(length 7.62)
+					(name "GPIO89"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -15.24 180)
+					(length 7.62)
+					(name "SPI2.CS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -9828,16 +9772,250 @@
 					)
 				)
 				(pin passive line
-					(at -7.62 -25.4 0)
+					(at 43.18 -25.4 180)
 					(length 7.62)
-					(name "USB1.D-"
+					(name "SPI2.MISO"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "9"
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -30.48 180)
+					(length 7.62)
+					(name "SPI2.MOSI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 43.18 -35.56 180)
+					(length 7.62)
+					(name "3.3V"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 43.18 -40.64 180)
+					(length 7.62)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -45.72 180)
+					(length 7.62)
+					(name "AIN.VREF+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -50.8 180)
+					(length 7.62)
+					(name "GPIO50"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 43.18 -55.88 180)
+					(length 7.62)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 43.18 -60.96 180)
+					(length 7.62)
+					(name "VOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -66.04 180)
+					(length 7.62)
+					(name "I2C2.SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -71.12 180)
+					(length 7.62)
+					(name "I2C2.SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -76.2 180)
+					(length 7.62)
+					(name "UART0.TX"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -81.28 180)
+					(length 7.62)
+					(name "UART0.RX"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -86.36 180)
+					(length 7.62)
+					(name "GPIO1_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -91.44 180)
+					(length 7.62)
+					(name "PWM2A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "36"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -9846,6 +10024,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:root_0_Header 2x18 Of PocketBeagle2 P2"
 			(exclude_from_sim no)
@@ -9944,384 +10123,6 @@
 					)
 				)
 				(pin passive line
-					(at 43.18 -25.4 180)
-					(length 7.62)
-					(name "PRU1.4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -30.48 0)
-					(length 7.62)
-					(name "I2C3.SDA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -30.48 180)
-					(length 7.62)
-					(name "PWR.BTN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -35.56 0)
-					(length 7.62)
-					(name "VOUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 43.18 -35.56 180)
-					(length 7.62)
-					(name "BAT.VIN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -7.62 -40.64 0)
-					(length 7.62)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -40.64 180)
-					(length 7.62)
-					(name "BAT.TEMP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -45.72 0)
-					(length 7.62)
-					(name "PRU1.19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -45.72 180)
-					(length 7.62)
-					(name "GPIO53"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -50.8 0)
-					(length 7.62)
-					(name "PRU1.16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -5.08 180)
-					(length 7.62)
-					(name "PRU1.0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -50.8 180)
-					(length 7.62)
-					(name "GPIO49"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -7.62 -55.88 0)
-					(length 7.62)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -55.88 180)
-					(length 7.62)
-					(name "GPIO63"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -7.62 -60.96 0)
-					(length 7.62)
-					(name "3.3V"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "23"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -60.96 180)
-					(length 7.62)
-					(name "GPIO51"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "24"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -66.04 0)
-					(length 7.62)
-					(name "SPI0.MOSI"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "25"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -66.04 180)
-					(length 7.62)
-					(name "RESET#"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "26"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -71.12 0)
-					(length 7.62)
-					(name "SPI0.MISO"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "27"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -71.12 180)
-					(length 7.62)
-					(name "PRU1.15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "28"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -76.2 0)
-					(length 7.62)
-					(name "SPI0.CLK"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "29"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
 					(at -7.62 -10.16 0)
 					(length 7.62)
 					(name "PWM1A"
@@ -10332,150 +10133,6 @@
 						)
 					)
 					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -76.2 180)
-					(length 7.62)
-					(name "PRU1.12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "30"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -81.28 0)
-					(length 7.62)
-					(name "SPI0.CS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "31"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -81.28 180)
-					(length 7.62)
-					(name "PRU1.11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "32"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -86.36 0)
-					(length 7.62)
-					(name "GPIO52"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "33"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -86.36 180)
-					(length 7.62)
-					(name "PRU1.14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "34"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -91.44 0)
-					(length 7.62)
-					(name "AIN5(3.3V)"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "35"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -91.44 180)
-					(length 7.62)
-					(name "AIN7(3.3V)"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "36"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 43.18 -10.16 180)
-					(length 7.62)
-					(name "PRU1.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -10502,24 +10159,6 @@
 					)
 				)
 				(pin passive line
-					(at 43.18 -15.24 180)
-					(length 7.62)
-					(name "PRU1.2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
 					(at -7.62 -20.32 0)
 					(length 7.62)
 					(name "UART5.TX"
@@ -10530,6 +10169,312 @@
 						)
 					)
 					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -25.4 0)
+					(length 7.62)
+					(name "I2C3.SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -30.48 0)
+					(length 7.62)
+					(name "I2C3.SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -35.56 0)
+					(length 7.62)
+					(name "VOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -7.62 -40.64 0)
+					(length 7.62)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -45.72 0)
+					(length 7.62)
+					(name "PRU1.19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -50.8 0)
+					(length 7.62)
+					(name "PRU1.16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -7.62 -55.88 0)
+					(length 7.62)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -7.62 -60.96 0)
+					(length 7.62)
+					(name "3.3V"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -66.04 0)
+					(length 7.62)
+					(name "SPI0.MOSI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -71.12 0)
+					(length 7.62)
+					(name "SPI0.MISO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -76.2 0)
+					(length 7.62)
+					(name "SPI0.CLK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -81.28 0)
+					(length 7.62)
+					(name "SPI0.CS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -86.36 0)
+					(length 7.62)
+					(name "GPIO52"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -91.44 0)
+					(length 7.62)
+					(name "AIN5(3.3V)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -5.08 180)
+					(length 7.62)
+					(name "PRU1.0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -10.16 180)
+					(length 7.62)
+					(name "PRU1.1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -15.24 180)
+					(length 7.62)
+					(name "PRU1.2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -10556,16 +10501,250 @@
 					)
 				)
 				(pin passive line
-					(at -7.62 -25.4 0)
+					(at 43.18 -25.4 180)
 					(length 7.62)
-					(name "I2C3.SCL"
+					(name "PRU1.4"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "9"
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -30.48 180)
+					(length 7.62)
+					(name "PWR.BTN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 43.18 -35.56 180)
+					(length 7.62)
+					(name "BAT.VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -40.64 180)
+					(length 7.62)
+					(name "BAT.TEMP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -45.72 180)
+					(length 7.62)
+					(name "GPIO53"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -50.8 180)
+					(length 7.62)
+					(name "GPIO49"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -55.88 180)
+					(length 7.62)
+					(name "GPIO63"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -60.96 180)
+					(length 7.62)
+					(name "GPIO51"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -66.04 180)
+					(length 7.62)
+					(name "RESET#"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -71.12 180)
+					(length 7.62)
+					(name "PRU1.15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -76.2 180)
+					(length 7.62)
+					(name "PRU1.12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -81.28 180)
+					(length 7.62)
+					(name "PRU1.11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -86.36 180)
+					(length 7.62)
+					(name "PRU1.14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 43.18 -91.44 180)
+					(length 7.62)
+					(name "AIN7(3.3V)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "36"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -10574,6 +10753,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:root_0_R_1"
 			(exclude_from_sim no)
@@ -10747,7 +10927,1447 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
+	)
+	(text "VOUT0_DATA6/GPMC0_A6/PR0_PRU1_GPO6/PR0_PRU1_GPI6/UART5_RXD/PR0_PRU0_GPO14/PR0_PRU0_GPI14/GPIO0_51"
+		(exclude_from_sim no)
+		(at 241.3 215.646 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "59da7d02-15d9-42b5-a57a-18e76dd05830")
+	)
+	(text_box "VOUT0_DATA13/GPMC0_A13/PR0_PRU1_GPO12/PR0_PRU1_GPI12/UART5_CTSn/PR0_PRU0_GPO3/PR0_PRU0_GPI3/GPIO0_58\n"
+		(exclude_from_sim no)
+		(at 368.808 230.886 0)
+		(size -127.508 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "00c368aa-88fe-49ef-b766-51a2a2f8ed9d")
+	)
+	(text_box "RGMII1_TD2/PR0_UART0_RXD/GPIO0_77\n"
+		(exclude_from_sim no)
+		(at 276.098 55.626 0)
+		(size -42.418 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "0288790d-b459-4d9f-a7a2-23766f7f83c8")
+	)
+	(text_box "MCASP0_ACLKX/SPI2_CS1/ECAP2_IN_APWM_OUT/GPIO1_11/EQEP1_A\n"
+		(exclude_from_sim no)
+		(at 114.808 162.306 0)
+		(size -71.628 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "03fcc4b3-3807-43d0-9353-b77195db7e12")
+	)
+	(text_box "I2C1_SCL/UART1_RXD/TIMER_IO0/SPI2_CS1/EHRPWM0_SYNCI/GPIO1_28/EHRPWM2_A/MMC2_SDCD\n"
+		(exclude_from_sim no)
+		(at 335.788 116.586 0)
+		(size -102.108 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "0869cb9b-7a87-4695-bd58-ee07bc709799")
+	)
+	(text_box "VOUT0_DATA14/GPMC0_A14/PR0_PRU1_GPO13/PR0_PRU1_GPI13/UART4_RTSn/PR0_PRU0_GPO4/PR0_PRU0_GPI4/GPIO0_59\n"
+		(exclude_from_sim no)
+		(at 183.388 103.886 0)
+		(size -127.508 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "093e2cb4-b563-4ae5-b0a6-0cea4c459d34")
+	)
+	(text_box "GPMC0_CSn2/I2C2_SCL/MCASP1_AXR4/UART4_RXD/PR0_PRU0_GPO19/PR0_PRU0_GPI19/TRC_DATA17/GPIO0_43/MCASP1_AFSR\n"
+		(exclude_from_sim no)
+		(at 364.998 96.266 0)
+		(size -131.318 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "0bb7b84a-789a-4340-925b-d710cac1cea0")
+	)
+	(text_box "MCASP0_ACLKR/SPI2_CLK/UART1_TXD/EHRPWM0_B/GPIO1_14/EQEP1_I\n"
+		(exclude_from_sim no)
+		(at 307.848 42.926 0)
+		(size -74.168 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "0d005b81-d6be-4189-bb84-61eef8b9d7e5")
+	)
+	(text_box "VOUT0_DATA7/GPMC0_A7/PR0_PRU1_GPO7/PR0_PRU1_GPI7/UART5_TXD/PR0_PRU0_GPO15/PR0_PRU0_GPI15/GPIO0_52\n"
+		(exclude_from_sim no)
+		(at 166.878 241.046 0)
+		(size -123.698 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "1176c12b-ecd1-48e4-93c0-cec82750aaf5")
+	)
+	(text_box "VOUT0_DATA9/GPMC0_A9/PR0_PRU1_GPO8/PR0_PRU1_GPI8/UART6_TXD/PR0_PRU0_GPO16/PR0_PRU0_GPI16/GPIO0_54\n"
+		(exclude_from_sim no)
+		(at 166.878 246.126 0)
+		(size -123.698 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "11f4b204-fa6c-439b-b542-127ec5bbb8fe")
+	)
+	(text_box "GPMC0_CSn3/I2C2_SDA/GPMC0_A20/UART4_TXD/MCASP1_AXR5/TRC_DATA18/GPIO0_44/MCASP1_ACLKR\n"
+		(exclude_from_sim no)
+		(at 340.868 91.186 0)
+		(size -107.188 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "152470ff-417d-445a-bfc3-5a475106dfec")
+	)
+	(text_box "VOUT0_DATA5/GPMC0_A5/PR0_PRU1_GPO5/PR0_PRU1_GPI5/UART4_TXD/PR0_PRU0_GPO13/PR0_PRU0_GPI13/GPIO0_50\n"
+		(exclude_from_sim no)
+		(at 357.378 73.406 0)
+		(size -123.698 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "159d5d0c-b1ba-43f0-a23f-38f4c2b015a1")
+	)
+	(text_box "VOUT0_DATA4/GPMC0_A4/PR0_PRU1_GPO4/PR0_PRU1_GPI4/UART4_RXD/PR0_PRU0_GPO12/PR0_PRU0_GPI12/GPIO0_49\n"
+		(exclude_from_sim no)
+		(at 364.998 205.486 0)
+		(size -123.698 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "1b38bee2-e997-4048-a128-06e54aa249b2")
+	)
+	(text_box "UART0_CTSn/SPI0_CS2/I2C3_SCL/UART2_RXD/TIMER_IO6/AUDIO_EXT_REFCLK0/PR0_ECAP0_SYNC_OUT/GPIO1_22/MCASP2_AFSX/MMC2_SDCD\n"
+		(exclude_from_sim no)
+		(at 191.008 180.086 0)
+		(size -147.828 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "1dda669a-6b17-4582-b989-22b4de68c4db")
+	)
+	(text_box "MCU_UART0_TXD/MCU_GPIO0_6\n"
+		(exclude_from_sim no)
+		(at 75.438 175.006 0)
+		(size -32.258 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "2889b50e-97b5-4efd-93a3-38ce21943e09")
+	)
+	(text_box "GPMC0_DIR/PR0_ECAP0_IN_APWM_OUT/MCASP2_AXR13/PR0_PRU0_GPO16/PR0_PRU0_GPI16/TRC_DATA14/GPIO0_40/EQEP2_S\n"
+		(exclude_from_sim no)
+		(at 173.228 233.426 0)
+		(size -130.048 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "2f5a7cde-4f45-4e45-b239-17cf743e43d3")
+	)
+	(text_box "VOUT0_DE/GPMC0_A17/PR0_PRU1_GPO17/PR0_PRU1_GPI17/UART3_CTSn/PR0_PRU0_GPO7/PR0_PRU0_GPI7/GPIO0_62\n"
+		(exclude_from_sim no)
+		(at 178.308 98.806 0)
+		(size -122.428 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "31baa1cb-773c-4b58-8494-ffd846945d03")
+	)
+	(text_box "VOUT0_VSYNC/GPMC0_A18/PR0_PRU1_GPO18/PR0_PRU1_GPI18/UART2_RTSn/PR0_PRU0_GPO18/PR0_PRU0_GPI18/GPIO0_63\n"
+		(exclude_from_sim no)
+		(at 370.078 210.566 0)
+		(size -128.778 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "31e906f7-966d-45c5-a346-320381486409")
+	)
+	(text_box "RGMII2_RD3/AUDIO_EXT_REFCLK0/PR0_PRU0_GPO16/PR0_PRU0_GPI16/PR0_UART0_TXD/GPIO1_6/EQEP2_B\n"
+		(exclude_from_sim no)
+		(at 168.148 78.486 0)
+		(size -112.268 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "38000eb9-6f7c-4622-978f-daa6e297bbb4")
+	)
+	(text_box "MCASP0_AFSR/SPI2_CS0/UART1_RXD/EHRPWM0_A/GPIO1_13/EQEP1_S\n"
+		(exclude_from_sim no)
+		(at 306.578 37.846 0)
+		(size -72.898 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "39157612-dbfd-49c3-86b3-e64c2dbb92dc")
+	)
+	(text_box "VOUT0_DATA10/GPMC0_A10/PR0_PRU1_GPO9/PR0_PRU1_GPI9/UART6_RTSn/PR0_PRU0_GPO0/PR0_PRU0_GPI0/GPIO0_55\n"
+		(exclude_from_sim no)
+		(at 358.648 114.046 0)
+		(size -124.968 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "39d9e339-79f2-423b-ab50-a784a47458fc")
+	)
+	(text_box "MCASP0_AXR0/PR0_ECAP0_IN_APWM_OUT/AUDIO_EXT_REFCLK0/PR0_UART0_TXD/EHRPWM1_B/GPIO1_10/EQEP0_I\n"
+		(exclude_from_sim no)
+		(at 351.028 27.686 0)
+		(size -117.348 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "3a852df0-6c3b-4050-ba86-7425cb896ee7")
+	)
+	(text_box "SPI0_CLK/CP_GEMAC_CPTS0_TS_SYNC/EHRPWM1_A/GPIO1_17\n"
+		(exclude_from_sim no)
+		(at 107.188 230.886 0)
+		(size -64.008 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "3fb4c063-ca18-4f88-94e1-50d9b15bac7a")
+	)
+	(text_box "MCASP0_AFSX/SPI2_CS3/AUDIO_EXT_REFCLK1/GPIO1_12/EQEP1_B\n"
+		(exclude_from_sim no)
+		(at 304.038 32.766 0)
+		(size -70.358 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "4104ae57-0257-4d41-b6a2-abef6f672aad")
+	)
+	(text_box "USB1_DRVVBUS/GPIO1_51\n"
+		(exclude_from_sim no)
+		(at 83.058 32.766 0)
+		(size -27.178 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "4280a739-2ec5-4c01-8446-fa599571bb5a")
+	)
+	(text_box "RGMII2_TD2/MCASP2_AFSX/PR0_PRU1_GPO4/PR0_PRU1_GPI4/PR0_ECAP0_IN_APWM_OUT/GPIO0_91/EQEP2_I\n"
+		(exclude_from_sim no)
+		(at 354.838 180.086 0)
+		(size -113.538 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "448065cc-6cce-4709-ad06-44e94b66c396")
+	)
+	(text_box "VOUT0_DATA15/GPMC0_A15/PR0_PRU1_GPO14/PR0_PRU1_GPI14/UART4_CTSn/PR0_PRU0_GPO5/PR0_PRU0_GPI5/GPIO0_60\n"
+		(exclude_from_sim no)
+		(at 368.808 241.046 0)
+		(size -127.508 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "492f3d34-e988-4d89-a6bf-fcc1f2c56971")
+	)
+	(text_box "VOUT0_DATA1/GPMC0_A1/PR0_PRU1_GPO1/PR0_PRU1_GPI1/UART2_TXD/PR0_PRU0_GPO9/PR0_PRU0_GPI9/GPIO0_46\n"
+		(exclude_from_sim no)
+		(at 362.458 164.846 0)
+		(size -121.158 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "4b46ed52-4ede-49a4-bd3c-4c5c3c912c78")
+	)
+	(text_box "VOUT0_DATA3/GPMC0_A3/PR0_PRU1_GPO3/PR0_PRU1_GPI3/UART3_TXD/PR0_PRU0_GPO11/PR0_PRU0_GPI11/GPIO0_48\n"
+		(exclude_from_sim no)
+		(at 364.998 175.006 0)
+		(size -123.698 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "4df34f20-af27-4689-a132-4c371f18568f")
+	)
+	(text_box "MCASP0_AXR3/SPI2_D0/UART1_CTSn/UART6_RXD/PR0_IEP0_EDIO_DATA_IN_OUT28/ECAP1_IN_APWM_OUT/PR0_UART0_RXD/GPIO1_7/EQEP0_A\n"
+		(exclude_from_sim no)
+		(at 381.508 50.546 0)
+		(size -147.828 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "65632f47-357b-4242-8833-d5705440882f")
+	)
+	(text_box "VOUT0_DATA11/GPMC0_A11/PR0_PRU1_GPO10/PR0_PRU1_GPI10/UART6_CTSn/PR0_PRU0_GPO1/PR0_PRU0_GPI1/GPIO0_56\n"
+		(exclude_from_sim no)
+		(at 183.388 111.506 0)
+		(size -127.508 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "69ec05b2-5b0f-4c99-bdc7-77383b3eb33f")
+	)
+	(text_box "RGMII2_TD0/RMII2_TXD0/MCASP2_AXR6/PR0_PRU1_GPO2/PR0_PRU1_GPI2/GPIO0_89\n"
+		(exclude_from_sim no)
+		(at 323.088 35.306 0)
+		(size -89.408 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "6ba7a5db-35c5-4a0d-b33c-b154af2ab051")
+	)
+	(text_box "MCU_MCAN1_TX/MCU_TIMER_IO2/MCU_SPI1_CS1/MCU_EXT_REFCLK0/MCU_GPIO0_15\n"
+		(exclude_from_sim no)
+		(at 130.048 187.706 0)
+		(size -86.868 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "6cbf8283-f270-445a-882b-f836d58e3415")
+	)
+	(text_box "I2C1_SDA/UART1_TXD/TIMER_IO1/SPI2_CLK/EHRPWM0_SYNCO/GPIO1_29/EHRPWM2_B/MMC2_SDWP\n"
+		(exclude_from_sim no)
+		(at 157.988 108.966 0)
+		(size -102.108 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "720bc93b-515d-4c0e-b8dc-039ef58fd320")
+	)
+	(text_box "RGMII2_RD1/RMII2_RXD1/MCASP2_AFSR/PR0_PRU0_GPO3/PR0_PRU0_GPI3/MCASP2_AXR7/GPIO1_4\n"
+		(exclude_from_sim no)
+		(at 159.258 88.646 0)
+		(size -103.378 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "7214c2bc-833f-4f7c-ac58-4d34e78442d4")
+	)
+	(text_box "MCU_UART0_RXD/MCU_GPIO0_5\n"
+		(exclude_from_sim no)
+		(at 75.438 169.926 0)
+		(size -32.258 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "7303f9d0-58ce-4a4c-a49f-3fadb3efd4b8")
+	)
+	(text_box "RGMII2_RXC/RMII2_REF_CLK/MCASP2_AXR1/PR0_PRU0_GPO1/PR0_PRU0_GPI1/PR0_ECAP0_SYNC_IN/GPIO1_2\n"
+		(exclude_from_sim no)
+		(at 348.488 108.966 0)
+		(size -114.808 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "766f5cbb-1f01-4234-aa88-27303f2c03b9")
+	)
+	(text_box "RGMII2_RD0/RMII2_RXD0/MCASP2_AXR2/PR0_PRU0_GPO2/PR0_PRU0_GPI2/PR0_UART0_RTSn/GPIO1_3\n"
+		(exclude_from_sim no)
+		(at 163.068 93.726 0)
+		(size -107.188 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "78fa64cd-766a-489f-97b6-6554b4099841")
+	)
+	(text_box "MCASP0_AXR1/SPI2_CS2/ECAP1_IN_APWM_OUT/PR0_UART0_RXD/EHRPWM1_A/GPIO1_9/EQEP0_S\n"
+		(exclude_from_sim no)
+		(at 142.748 167.386 0)
+		(size -99.568 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "7c723608-731f-45dc-8b21-89a012be4abb")
+	)
+	(text_box "MDIO0_MDIO/GPIO0_85\n"
+		(exclude_from_sim no)
+		(at 67.818 164.846 0)
+		(size -24.638 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "7d910f8c-f50c-46c1-b424-3322731dd167")
+	)
+	(text_box "SPI0_D0/CP_GEMAC_CPTS0_HW1TSPUSH/EHRPWM1_B/GPIO1_18\n"
+		(exclude_from_sim no)
+		(at 108.458 225.806 0)
+		(size -65.278 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "7e41d8d9-d502-4c48-acf9-6f759a294e95")
+	)
+	(text_box "SPI0_CS0/EHRPWM0_A/PR0_ECAP0_SYNC_IN/GPIO1_15\n"
+		(exclude_from_sim no)
+		(at 100.838 235.966 0)
+		(size -57.658 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "7f4ae205-78ba-4637-8fb1-08a9a12cfa3f")
+	)
+	(text_box "EXT_REFCLK1/SYNC1_OUT/SPI2_CS3/SYSCLKOUT0/TIMER_IO4/CLKOUT0/CP_GEMAC_CPTS0_RFT_CLK/GPIO1_30/ECAP0_IN_APWM_OUT\n"
+		(exclude_from_sim no)
+		(at 372.618 48.006 0)
+		(size -138.938 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "814f7e02-b9dd-48ba-bc6d-feebb5bd8008")
+	)
+	(text_box "MCU_MCAN0_RX/MCU_TIMER_IO0/MCU_SPI1_CS3/MCU_GPIO0_14\n"
+		(exclude_from_sim no)
+		(at 300.228 93.726 0)
+		(size -66.548 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "867626ea-9194-463b-8add-332a4d862eb3")
+	)
+	(text_box "RGMII2_TD1/RMII2_TXD1/MCASP2_ACLKR/PR0_PRU1_GPO3/PR0_PRU1_GPI3/MCASP2_AXR8/GPIO0_90\n"
+		(exclude_from_sim no)
+		(at 149.098 238.506 0)
+		(size -105.918 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "8a141c97-bb3d-4dbd-af76-27c57d6e1f2f")
+	)
+	(text_box "VOUT0_PCLK/GPMC0_A19/PR0_PRU1_GPO19/PR0_PRU1_GPI19/UART2_CTSn/PR0_PRU0_GPO19/PR0_PRU0_GPI19/GPIO0_64/PR0_ECAP0_IN_APWM_OUT\n"
+		(exclude_from_sim no)
+		(at 198.628 200.406 0)
+		(size -155.448 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "942effd8-86ce-406a-9d72-3d44d4c6d64f")
+	)
+	(text_box "VOUT0_DATA8/GPMC0_A8/PR0_PRU1_GPO16/PR0_PRU1_GPI16/UART6_RXD/PR0_PRU0_GPO17/PR0_PRU0_GPI17/GPIO0_53\n"
+		(exclude_from_sim no)
+		(at 367.538 200.406 0)
+		(size -126.238 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "95c16a8c-b4eb-4ef2-a0fb-f568d5112360")
+	)
+	(text_box "UART0_RTSn/SPI0_CS3/I2C3_SDA/UART2_TXD/TIMER_IO7/AUDIO_EXT_REFCLK1/PR0_ECAP0_IN_APWM_OUT/GPIO1_23/MCASP2_ACLKX/MMC2_SDWP\n"
+		(exclude_from_sim no)
+		(at 196.088 185.166 0)
+		(size -152.908 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "9789bd17-c24f-46dd-97f9-53ebed6c2046")
+	)
+	(text_box "GPMC0_BE1n/MCASP2_AXR12/PR0_PRU0_GPO13/PR0_PRU0_GPI13/TRC_DATA11/GPIO0_36\n"
+		(exclude_from_sim no)
+		(at 149.098 58.166 0)
+		(size -93.218 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "981d75e2-a0d6-4511-bffb-461e6bd0f281")
+	)
+	(text_box "MCU_MCAN1_RX/MCU_TIMER_IO3/MCU_SPI0_CS2/MCU_SPI1_CS2/MCU_SPI1_CLK/MCU_GPIO0_16\n"
+		(exclude_from_sim no)
+		(at 142.748 182.626 0)
+		(size -99.568 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "a491489a-1263-462e-b8a7-ce15ee42729e")
+	)
+	(text_box "RGMII2_TX_CTL/RMII2_TX_EN/MCASP2_AXR4/PR0_PRU1_GPO0/PR0_PRU1_GPI0/GPIO0_87\n"
+		(exclude_from_sim no)
+		(at 328.168 30.226 0)
+		(size -94.488 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "a8f9a706-307b-4ec1-bbf4-c550612d7b3f")
+	)
+	(text_box "MCU_MCAN0_TX/WKUP_TIMER_IO0/MCU_SPI0_CS3/MCU_GPIO0_13\n"
+		(exclude_from_sim no)
+		(at 301.498 88.646 0)
+		(size -67.818 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "abf2f5a1-d10c-46d0-b7ed-cb358fd4c6e2")
+	)
+	(text_box "MCASP0_AXR2/SPI2_D1/UART1_RTSn/UART6_TXD/PR0_IEP0_EDIO_DATA_IN_OUT29/ECAP2_IN_APWM_OUT/PR0_UART0_TXD/GPIO1_8/EQEP0_B\n"
+		(exclude_from_sim no)
+		(at 381.508 53.086 0)
+		(size -147.828 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "b4105d81-70a7-4baa-ae39-f6ea2f8ba078")
+	)
+	(text_box "RGMII2_TXC/RMII2_CRS_DV/MCASP2_AXR5/PR0_PRU1_GPO1/PR0_PRU1_GPI1/GPIO0_88\n"
+		(exclude_from_sim no)
+		(at 147.828 114.046 0)
+		(size -91.948 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "b5085e66-d7ab-4f28-978d-59869d1a4354")
+	)
+	(text_box "MCAN0_TX/UART5_RXD/TIMER_IO2/SYNC2_OUT/UART1_DTRn/EQEP2_I/PR0_UART0_RXD/GPIO1_24/MCASP2_AXR0/EHRPWM_TZn_IN3\n"
+		(exclude_from_sim no)
+		(at 179.578 172.466 0)
+		(size -136.398 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "c16bb68d-54ba-41ba-8c86-8dd41968d5ca")
+	)
+	(text_box "VOUT0_DATA2/GPMC0_A2/PR0_PRU1_GPO2/PR0_PRU1_GPI2/UART3_RXD/PR0_PRU0_GPO10/PR0_PRU0_GPI10/GPIO0_47\n"
+		(exclude_from_sim no)
+		(at 364.998 169.926 0)
+		(size -123.698 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "c3b97dd4-eac4-40dd-8bd7-30f250ddef53")
+	)
+	(text_box "RGMII2_RD2/MCASP2_AXR0/PR0_PRU0_GPO4/PR0_PRU0_GPI4/PR0_UART0_RXD/GPIO1_5/EQEP2_A\n"
+		(exclude_from_sim no)
+		(at 157.988 83.566 0)
+		(size -102.108 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "c7f281ec-7cd4-435e-95a1-cab01dbdd037")
+	)
+	(text_box "MDIO0_MDC/GPIO0_86\n"
+		(exclude_from_sim no)
+		(at 66.548 159.766 0)
+		(size -23.368 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "c8141a72-16eb-48a1-9afb-92155d9e373a")
+	)
+	(text_box "RGMII1_TD3/PR0_UART0_TXD/GPIO0_78\n"
+		(exclude_from_sim no)
+		(at 276.098 40.386 0)
+		(size -42.418 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "c8b84c90-4bd2-45f4-b53f-d1d183f3da81")
+	)
+	(text_box "RGMII2_TD3/MCASP2_ACLKX/PR0_PRU1_GPO16/PR0_PRU1_GPI16/PR0_ECAP0_SYNC_OUT/PR0_UART0_CTSn/GPIO1_0/EQEP2_S\n"
+		(exclude_from_sim no)
+		(at 174.498 205.486 0)
+		(size -131.318 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "cdfded00-ed60-4854-b1a2-1c0c3450dabf")
+	)
+	(text_box "MCAN0_RX/UART5_TXD/TIMER_IO3/SYNC3_OUT/UART1_RIn/EQEP2_S/PR0_UART0_TXD/GPIO1_25/MCASP2_AXR1/EHRPWM_TZn_IN4\n"
+		(exclude_from_sim no)
+		(at 178.308 177.546 0)
+		(size -135.128 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "d84222ce-893e-4567-a38e-cc7caa0a34a0")
+	)
+	(text_box "VOUT0_HSYNC/GPMC0_A16/PR0_PRU1_GPO15/PR0_PRU1_GPI15/UART3_RTSn/PR0_PRU0_GPO6/PR0_PRU0_GPI6/GPIO0_61\n"
+		(exclude_from_sim no)
+		(at 367.538 225.806 0)
+		(size -126.238 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "e3511cec-3811-4102-9247-2241e49ac053")
+	)
+	(text_box "VOUT0_DATA12/GPMC0_A12/PR0_PRU1_GPO11/PR0_PRU1_GPI11/UART5_RTSn/PR0_PRU0_GPO2/PR0_PRU0_GPI2/GPIO0_57\n"
+		(exclude_from_sim no)
+		(at 368.808 235.966 0)
+		(size -127.508 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "e5b6f0ee-ab88-40d9-beff-5bff81f6dc08")
+	)
+	(text_box "SPI0_D1/CP_GEMAC_CPTS0_HW2TSPUSH/EHRPWM_TZn_IN0/GPIO1_19\n"
+		(exclude_from_sim no)
+		(at 114.808 220.726 0)
+		(size -71.628 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "e8f7f2f8-a70e-4a86-aac8-ac3f3ff9df09")
+	)
+	(text_box "UART0_TXD/ECAP2_IN_APWM_OUT/SPI2_D1/EHRPWM2_B/GPIO1_21\n"
+		(exclude_from_sim no)
+		(at 302.768 98.806 0)
+		(size -69.088 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "ee1077e3-b058-489c-989a-47240ada7edb")
+	)
+	(text_box "UART0_RXD/ECAP1_IN_APWM_OUT/SPI2_D0/EHRPWM2_A/GPIO1_20\n"
+		(exclude_from_sim no)
+		(at 302.768 103.886 0)
+		(size -69.088 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "ee319cf1-f3f2-4997-8e42-39bbb53f30c2")
+	)
+	(text_box "SPI0_CS1/CP_GEMAC_CPTS0_TS_COMP/EHRPWM0_B/ECAP0_IN_APWM_OUT/GPIO1_16/EHRPWM_TZn_IN5\n"
+		(exclude_from_sim no)
+		(at 347.218 246.126 0)
+		(size -105.918 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "ee3e1c22-7724-4c7e-9a78-d907b286a8c2")
+	)
+	(text_box "RGMII2_RX_CTL/RMII2_RX_ER/MCASP2_AXR3/PR0_PRU0_GPO0/PR0_PRU0_GPI0/GPIO1_1\n"
+		(exclude_from_sim no)
+		(at 149.098 73.406 0)
+		(size -93.218 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "fda0b76f-636f-436e-b0f6-580b410720f4")
+	)
+	(text_box "VOUT0_DATA0/GPMC0_A0/PR0_PRU1_GPO0/PR0_PRU1_GPI0/UART2_RXD/PR0_PRU0_GPO8/PR0_PRU0_GPI8/GPIO0_45\n"
+		(exclude_from_sim no)
+		(at 362.458 159.766 0)
+		(size -121.158 -2.286)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "ffb4d2aa-7524-486d-8d64-28a19b700717")
 	)
 	(junction
 		(at 375.92 25.4)
@@ -16823,1377 +18443,6 @@
 			"////////////////////////////////////////////////////////////////////////////"
 			"AAA="
 		)
-	)
-	(text_box "VOUT0_DATA13/GPMC0_A13/PR0_PRU1_GPO12/PR0_PRU1_GPI12/UART5_CTSn/PR0_PRU0_GPO3/PR0_PRU0_GPI3/GPIO0_58\n"
-		(exclude_from_sim no)
-		(at 368.808 230.886 0)
-		(size -127.508 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "00c368aa-88fe-49ef-b766-51a2a2f8ed9d")
-	)
-	(text_box "RGMII1_TD2/PR0_UART0_RXD/GPIO0_77\n"
-		(exclude_from_sim no)
-		(at 276.098 55.626 0)
-		(size -42.418 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "0288790d-b459-4d9f-a7a2-23766f7f83c8")
-	)
-	(text_box "MCASP0_ACLKX/SPI2_CS1/ECAP2_IN_APWM_OUT/GPIO1_11/EQEP1_A\n"
-		(exclude_from_sim no)
-		(at 114.808 162.306 0)
-		(size -71.628 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "03fcc4b3-3807-43d0-9353-b77195db7e12")
-	)
-	(text_box "I2C1_SCL/UART1_RXD/TIMER_IO0/SPI2_CS1/EHRPWM0_SYNCI/GPIO1_28/EHRPWM2_A/MMC2_SDCD\n"
-		(exclude_from_sim no)
-		(at 335.788 116.586 0)
-		(size -102.108 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "0869cb9b-7a87-4695-bd58-ee07bc709799")
-	)
-	(text_box "VOUT0_DATA14/GPMC0_A14/PR0_PRU1_GPO13/PR0_PRU1_GPI13/UART4_RTSn/PR0_PRU0_GPO4/PR0_PRU0_GPI4/GPIO0_59\n"
-		(exclude_from_sim no)
-		(at 183.388 103.886 0)
-		(size -127.508 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "093e2cb4-b563-4ae5-b0a6-0cea4c459d34")
-	)
-	(text_box "GPMC0_CSn2/I2C2_SCL/MCASP1_AXR4/UART4_RXD/PR0_PRU0_GPO19/PR0_PRU0_GPI19/TRC_DATA17/GPIO0_43/MCASP1_AFSR\n"
-		(exclude_from_sim no)
-		(at 364.998 96.266 0)
-		(size -131.318 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "0bb7b84a-789a-4340-925b-d710cac1cea0")
-	)
-	(text_box "MCASP0_ACLKR/SPI2_CLK/UART1_TXD/EHRPWM0_B/GPIO1_14/EQEP1_I\n"
-		(exclude_from_sim no)
-		(at 307.848 42.926 0)
-		(size -74.168 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "0d005b81-d6be-4189-bb84-61eef8b9d7e5")
-	)
-	(text_box "VOUT0_DATA7/GPMC0_A7/PR0_PRU1_GPO7/PR0_PRU1_GPI7/UART5_TXD/PR0_PRU0_GPO15/PR0_PRU0_GPI15/GPIO0_52\n"
-		(exclude_from_sim no)
-		(at 166.878 241.046 0)
-		(size -123.698 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "1176c12b-ecd1-48e4-93c0-cec82750aaf5")
-	)
-	(text_box "VOUT0_DATA9/GPMC0_A9/PR0_PRU1_GPO8/PR0_PRU1_GPI8/UART6_TXD/PR0_PRU0_GPO16/PR0_PRU0_GPI16/GPIO0_54\n"
-		(exclude_from_sim no)
-		(at 166.878 246.126 0)
-		(size -123.698 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "11f4b204-fa6c-439b-b542-127ec5bbb8fe")
-	)
-	(text_box "GPMC0_CSn3/I2C2_SDA/GPMC0_A20/UART4_TXD/MCASP1_AXR5/TRC_DATA18/GPIO0_44/MCASP1_ACLKR\n"
-		(exclude_from_sim no)
-		(at 340.868 91.186 0)
-		(size -107.188 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "152470ff-417d-445a-bfc3-5a475106dfec")
-	)
-	(text_box "VOUT0_DATA5/GPMC0_A5/PR0_PRU1_GPO5/PR0_PRU1_GPI5/UART4_TXD/PR0_PRU0_GPO13/PR0_PRU0_GPI13/GPIO0_50\n"
-		(exclude_from_sim no)
-		(at 357.378 73.406 0)
-		(size -123.698 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "159d5d0c-b1ba-43f0-a23f-38f4c2b015a1")
-	)
-	(text_box "VOUT0_DATA4/GPMC0_A4/PR0_PRU1_GPO4/PR0_PRU1_GPI4/UART4_RXD/PR0_PRU0_GPO12/PR0_PRU0_GPI12/GPIO0_49\n"
-		(exclude_from_sim no)
-		(at 364.998 205.486 0)
-		(size -123.698 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "1b38bee2-e997-4048-a128-06e54aa249b2")
-	)
-	(text_box "UART0_CTSn/SPI0_CS2/I2C3_SCL/UART2_RXD/TIMER_IO6/AUDIO_EXT_REFCLK0/PR0_ECAP0_SYNC_OUT/GPIO1_22/MCASP2_AFSX/MMC2_SDCD\n"
-		(exclude_from_sim no)
-		(at 191.008 180.086 0)
-		(size -147.828 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "1dda669a-6b17-4582-b989-22b4de68c4db")
-	)
-	(text_box "MCU_UART0_TXD/MCU_GPIO0_6\n"
-		(exclude_from_sim no)
-		(at 75.438 175.006 0)
-		(size -32.258 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "2889b50e-97b5-4efd-93a3-38ce21943e09")
-	)
-	(text_box "GPMC0_DIR/PR0_ECAP0_IN_APWM_OUT/MCASP2_AXR13/PR0_PRU0_GPO16/PR0_PRU0_GPI16/TRC_DATA14/GPIO0_40/EQEP2_S\n"
-		(exclude_from_sim no)
-		(at 173.228 233.426 0)
-		(size -130.048 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "2f5a7cde-4f45-4e45-b239-17cf743e43d3")
-	)
-	(text_box "VOUT0_DE/GPMC0_A17/PR0_PRU1_GPO17/PR0_PRU1_GPI17/UART3_CTSn/PR0_PRU0_GPO7/PR0_PRU0_GPI7/GPIO0_62\n"
-		(exclude_from_sim no)
-		(at 178.308 98.806 0)
-		(size -122.428 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "31baa1cb-773c-4b58-8494-ffd846945d03")
-	)
-	(text_box "VOUT0_VSYNC/GPMC0_A18/PR0_PRU1_GPO18/PR0_PRU1_GPI18/UART2_RTSn/PR0_PRU0_GPO18/PR0_PRU0_GPI18/GPIO0_63\n"
-		(exclude_from_sim no)
-		(at 370.078 210.566 0)
-		(size -128.778 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "31e906f7-966d-45c5-a346-320381486409")
-	)
-	(text_box "RGMII2_RD3/AUDIO_EXT_REFCLK0/PR0_PRU0_GPO16/PR0_PRU0_GPI16/PR0_UART0_TXD/GPIO1_6/EQEP2_B\n"
-		(exclude_from_sim no)
-		(at 168.148 78.486 0)
-		(size -112.268 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "38000eb9-6f7c-4622-978f-daa6e297bbb4")
-	)
-	(text_box "MCASP0_AFSR/SPI2_CS0/UART1_RXD/EHRPWM0_A/GPIO1_13/EQEP1_S\n"
-		(exclude_from_sim no)
-		(at 306.578 37.846 0)
-		(size -72.898 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "39157612-dbfd-49c3-86b3-e64c2dbb92dc")
-	)
-	(text_box "VOUT0_DATA10/GPMC0_A10/PR0_PRU1_GPO9/PR0_PRU1_GPI9/UART6_RTSn/PR0_PRU0_GPO0/PR0_PRU0_GPI0/GPIO0_55\n"
-		(exclude_from_sim no)
-		(at 358.648 114.046 0)
-		(size -124.968 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "39d9e339-79f2-423b-ab50-a784a47458fc")
-	)
-	(text_box "MCASP0_AXR0/PR0_ECAP0_IN_APWM_OUT/AUDIO_EXT_REFCLK0/PR0_UART0_TXD/EHRPWM1_B/GPIO1_10/EQEP0_I\n"
-		(exclude_from_sim no)
-		(at 351.028 27.686 0)
-		(size -117.348 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "3a852df0-6c3b-4050-ba86-7425cb896ee7")
-	)
-	(text_box "SPI0_CLK/CP_GEMAC_CPTS0_TS_SYNC/EHRPWM1_A/GPIO1_17\n"
-		(exclude_from_sim no)
-		(at 107.188 230.886 0)
-		(size -64.008 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "3fb4c063-ca18-4f88-94e1-50d9b15bac7a")
-	)
-	(text_box "MCASP0_AFSX/SPI2_CS3/AUDIO_EXT_REFCLK1/GPIO1_12/EQEP1_B\n"
-		(exclude_from_sim no)
-		(at 304.038 32.766 0)
-		(size -70.358 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "4104ae57-0257-4d41-b6a2-abef6f672aad")
-	)
-	(text_box "USB1_DRVVBUS/GPIO1_51\n"
-		(exclude_from_sim no)
-		(at 83.058 32.766 0)
-		(size -27.178 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "4280a739-2ec5-4c01-8446-fa599571bb5a")
-	)
-	(text_box "RGMII2_TD2/MCASP2_AFSX/PR0_PRU1_GPO4/PR0_PRU1_GPI4/PR0_ECAP0_IN_APWM_OUT/GPIO0_91/EQEP2_I\n"
-		(exclude_from_sim no)
-		(at 354.838 180.086 0)
-		(size -113.538 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "448065cc-6cce-4709-ad06-44e94b66c396")
-	)
-	(text_box "VOUT0_DATA15/GPMC0_A15/PR0_PRU1_GPO14/PR0_PRU1_GPI14/UART4_CTSn/PR0_PRU0_GPO5/PR0_PRU0_GPI5/GPIO0_60\n"
-		(exclude_from_sim no)
-		(at 368.808 241.046 0)
-		(size -127.508 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "492f3d34-e988-4d89-a6bf-fcc1f2c56971")
-	)
-	(text_box "VOUT0_DATA1/GPMC0_A1/PR0_PRU1_GPO1/PR0_PRU1_GPI1/UART2_TXD/PR0_PRU0_GPO9/PR0_PRU0_GPI9/GPIO0_46\n"
-		(exclude_from_sim no)
-		(at 362.458 164.846 0)
-		(size -121.158 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "4b46ed52-4ede-49a4-bd3c-4c5c3c912c78")
-	)
-	(text_box "VOUT0_DATA3/GPMC0_A3/PR0_PRU1_GPO3/PR0_PRU1_GPI3/UART3_TXD/PR0_PRU0_GPO11/PR0_PRU0_GPI11/GPIO0_48\n"
-		(exclude_from_sim no)
-		(at 364.998 175.006 0)
-		(size -123.698 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "4df34f20-af27-4689-a132-4c371f18568f")
-	)
-	(text_box "MCASP0_AXR3/SPI2_D0/UART1_CTSn/UART6_RXD/PR0_IEP0_EDIO_DATA_IN_OUT28/ECAP1_IN_APWM_OUT/PR0_UART0_RXD/GPIO1_7/EQEP0_A\n"
-		(exclude_from_sim no)
-		(at 381.508 50.546 0)
-		(size -147.828 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "65632f47-357b-4242-8833-d5705440882f")
-	)
-	(text_box "VOUT0_DATA11/GPMC0_A11/PR0_PRU1_GPO10/PR0_PRU1_GPI10/UART6_CTSn/PR0_PRU0_GPO1/PR0_PRU0_GPI1/GPIO0_56\n"
-		(exclude_from_sim no)
-		(at 183.388 111.506 0)
-		(size -127.508 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "69ec05b2-5b0f-4c99-bdc7-77383b3eb33f")
-	)
-	(text_box "RGMII2_TD0/RMII2_TXD0/MCASP2_AXR6/PR0_PRU1_GPO2/PR0_PRU1_GPI2/GPIO0_89\n"
-		(exclude_from_sim no)
-		(at 323.088 35.306 0)
-		(size -89.408 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "6ba7a5db-35c5-4a0d-b33c-b154af2ab051")
-	)
-	(text_box "MCU_MCAN1_TX/MCU_TIMER_IO2/MCU_SPI1_CS1/MCU_EXT_REFCLK0/MCU_GPIO0_15\n"
-		(exclude_from_sim no)
-		(at 130.048 187.706 0)
-		(size -86.868 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "6cbf8283-f270-445a-882b-f836d58e3415")
-	)
-	(text_box "I2C1_SDA/UART1_TXD/TIMER_IO1/SPI2_CLK/EHRPWM0_SYNCO/GPIO1_29/EHRPWM2_B/MMC2_SDWP\n"
-		(exclude_from_sim no)
-		(at 157.988 108.966 0)
-		(size -102.108 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "720bc93b-515d-4c0e-b8dc-039ef58fd320")
-	)
-	(text_box "RGMII2_RD1/RMII2_RXD1/MCASP2_AFSR/PR0_PRU0_GPO3/PR0_PRU0_GPI3/MCASP2_AXR7/GPIO1_4\n"
-		(exclude_from_sim no)
-		(at 159.258 88.646 0)
-		(size -103.378 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "7214c2bc-833f-4f7c-ac58-4d34e78442d4")
-	)
-	(text_box "MCU_UART0_RXD/MCU_GPIO0_5\n"
-		(exclude_from_sim no)
-		(at 75.438 169.926 0)
-		(size -32.258 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "7303f9d0-58ce-4a4c-a49f-3fadb3efd4b8")
-	)
-	(text_box "RGMII2_RXC/RMII2_REF_CLK/MCASP2_AXR1/PR0_PRU0_GPO1/PR0_PRU0_GPI1/PR0_ECAP0_SYNC_IN/GPIO1_2\n"
-		(exclude_from_sim no)
-		(at 348.488 108.966 0)
-		(size -114.808 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "766f5cbb-1f01-4234-aa88-27303f2c03b9")
-	)
-	(text_box "RGMII2_RD0/RMII2_RXD0/MCASP2_AXR2/PR0_PRU0_GPO2/PR0_PRU0_GPI2/PR0_UART0_RTSn/GPIO1_3\n"
-		(exclude_from_sim no)
-		(at 163.068 93.726 0)
-		(size -107.188 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "78fa64cd-766a-489f-97b6-6554b4099841")
-	)
-	(text_box "MCASP0_AXR1/SPI2_CS2/ECAP1_IN_APWM_OUT/PR0_UART0_RXD/EHRPWM1_A/GPIO1_9/EQEP0_S\n"
-		(exclude_from_sim no)
-		(at 142.748 167.386 0)
-		(size -99.568 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "7c723608-731f-45dc-8b21-89a012be4abb")
-	)
-	(text_box "MDIO0_MDIO/GPIO0_85\n"
-		(exclude_from_sim no)
-		(at 67.818 164.846 0)
-		(size -24.638 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "7d910f8c-f50c-46c1-b424-3322731dd167")
-	)
-	(text_box "SPI0_D0/CP_GEMAC_CPTS0_HW1TSPUSH/EHRPWM1_B/GPIO1_18\n"
-		(exclude_from_sim no)
-		(at 108.458 225.806 0)
-		(size -65.278 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "7e41d8d9-d502-4c48-acf9-6f759a294e95")
-	)
-	(text_box "SPI0_CS0/EHRPWM0_A/PR0_ECAP0_SYNC_IN/GPIO1_15\n"
-		(exclude_from_sim no)
-		(at 100.838 235.966 0)
-		(size -57.658 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "7f4ae205-78ba-4637-8fb1-08a9a12cfa3f")
-	)
-	(text_box "EXT_REFCLK1/SYNC1_OUT/SPI2_CS3/SYSCLKOUT0/TIMER_IO4/CLKOUT0/CP_GEMAC_CPTS0_RFT_CLK/GPIO1_30/ECAP0_IN_APWM_OUT\n"
-		(exclude_from_sim no)
-		(at 372.618 48.006 0)
-		(size -138.938 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "814f7e02-b9dd-48ba-bc6d-feebb5bd8008")
-	)
-	(text_box "MCU_MCAN0_RX/MCU_TIMER_IO0/MCU_SPI1_CS3/MCU_GPIO0_14\n"
-		(exclude_from_sim no)
-		(at 300.228 93.726 0)
-		(size -66.548 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "867626ea-9194-463b-8add-332a4d862eb3")
-	)
-	(text_box "RGMII2_TD1/RMII2_TXD1/MCASP2_ACLKR/PR0_PRU1_GPO3/PR0_PRU1_GPI3/MCASP2_AXR8/GPIO0_90\n"
-		(exclude_from_sim no)
-		(at 149.098 238.506 0)
-		(size -105.918 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "8a141c97-bb3d-4dbd-af76-27c57d6e1f2f")
-	)
-	(text_box "VOUT0_PCLK/GPMC0_A19/PR0_PRU1_GPO19/PR0_PRU1_GPI19/UART2_CTSn/PR0_PRU0_GPO19/PR0_PRU0_GPI19/GPIO0_64/PR0_ECAP0_IN_APWM_OUT\n"
-		(exclude_from_sim no)
-		(at 198.628 200.406 0)
-		(size -155.448 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "942effd8-86ce-406a-9d72-3d44d4c6d64f")
-	)
-	(text_box "VOUT0_DATA8/GPMC0_A8/PR0_PRU1_GPO16/PR0_PRU1_GPI16/UART6_RXD/PR0_PRU0_GPO17/PR0_PRU0_GPI17/GPIO0_53\n"
-		(exclude_from_sim no)
-		(at 367.538 200.406 0)
-		(size -126.238 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "95c16a8c-b4eb-4ef2-a0fb-f568d5112360")
-	)
-	(text_box "UART0_RTSn/SPI0_CS3/I2C3_SDA/UART2_TXD/TIMER_IO7/AUDIO_EXT_REFCLK1/PR0_ECAP0_IN_APWM_OUT/GPIO1_23/MCASP2_ACLKX/MMC2_SDWP\n"
-		(exclude_from_sim no)
-		(at 196.088 185.166 0)
-		(size -152.908 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "9789bd17-c24f-46dd-97f9-53ebed6c2046")
-	)
-	(text_box "GPMC0_BE1n/MCASP2_AXR12/PR0_PRU0_GPO13/PR0_PRU0_GPI13/TRC_DATA11/GPIO0_36\n"
-		(exclude_from_sim no)
-		(at 149.098 58.166 0)
-		(size -93.218 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "981d75e2-a0d6-4511-bffb-461e6bd0f281")
-	)
-	(text_box "MCU_MCAN1_RX/MCU_TIMER_IO3/MCU_SPI0_CS2/MCU_SPI1_CS2/MCU_SPI1_CLK/MCU_GPIO0_16\n"
-		(exclude_from_sim no)
-		(at 142.748 182.626 0)
-		(size -99.568 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "a491489a-1263-462e-b8a7-ce15ee42729e")
-	)
-	(text_box "RGMII2_TX_CTL/RMII2_TX_EN/MCASP2_AXR4/PR0_PRU1_GPO0/PR0_PRU1_GPI0/GPIO0_87\n"
-		(exclude_from_sim no)
-		(at 328.168 30.226 0)
-		(size -94.488 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "a8f9a706-307b-4ec1-bbf4-c550612d7b3f")
-	)
-	(text_box "MCU_MCAN0_TX/WKUP_TIMER_IO0/MCU_SPI0_CS3/MCU_GPIO0_13\n"
-		(exclude_from_sim no)
-		(at 301.498 88.646 0)
-		(size -67.818 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "abf2f5a1-d10c-46d0-b7ed-cb358fd4c6e2")
-	)
-	(text_box "MCASP0_AXR2/SPI2_D1/UART1_RTSn/UART6_TXD/PR0_IEP0_EDIO_DATA_IN_OUT29/ECAP2_IN_APWM_OUT/PR0_UART0_TXD/GPIO1_8/EQEP0_B\n"
-		(exclude_from_sim no)
-		(at 381.508 53.086 0)
-		(size -147.828 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "b4105d81-70a7-4baa-ae39-f6ea2f8ba078")
-	)
-	(text_box "RGMII2_TXC/RMII2_CRS_DV/MCASP2_AXR5/PR0_PRU1_GPO1/PR0_PRU1_GPI1/GPIO0_88\n"
-		(exclude_from_sim no)
-		(at 147.828 114.046 0)
-		(size -91.948 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "b5085e66-d7ab-4f28-978d-59869d1a4354")
-	)
-	(text_box "MCAN0_TX/UART5_RXD/TIMER_IO2/SYNC2_OUT/UART1_DTRn/EQEP2_I/PR0_UART0_RXD/GPIO1_24/MCASP2_AXR0/EHRPWM_TZn_IN3\n"
-		(exclude_from_sim no)
-		(at 179.578 172.466 0)
-		(size -136.398 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "c16bb68d-54ba-41ba-8c86-8dd41968d5ca")
-	)
-	(text_box "VOUT0_DATA2/GPMC0_A2/PR0_PRU1_GPO2/PR0_PRU1_GPI2/UART3_RXD/PR0_PRU0_GPO10/PR0_PRU0_GPI10/GPIO0_47\n"
-		(exclude_from_sim no)
-		(at 364.998 169.926 0)
-		(size -123.698 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "c3b97dd4-eac4-40dd-8bd7-30f250ddef53")
-	)
-	(text_box "RGMII2_RD2/MCASP2_AXR0/PR0_PRU0_GPO4/PR0_PRU0_GPI4/PR0_UART0_RXD/GPIO1_5/EQEP2_A\n"
-		(exclude_from_sim no)
-		(at 157.988 83.566 0)
-		(size -102.108 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "c7f281ec-7cd4-435e-95a1-cab01dbdd037")
-	)
-	(text_box "MDIO0_MDC/GPIO0_86\n"
-		(exclude_from_sim no)
-		(at 66.548 159.766 0)
-		(size -23.368 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "c8141a72-16eb-48a1-9afb-92155d9e373a")
-	)
-	(text_box "RGMII1_TD3/PR0_UART0_TXD/GPIO0_78\n"
-		(exclude_from_sim no)
-		(at 276.098 40.386 0)
-		(size -42.418 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "c8b84c90-4bd2-45f4-b53f-d1d183f3da81")
-	)
-	(text_box "RGMII2_TD3/MCASP2_ACLKX/PR0_PRU1_GPO16/PR0_PRU1_GPI16/PR0_ECAP0_SYNC_OUT/PR0_UART0_CTSn/GPIO1_0/EQEP2_S\n"
-		(exclude_from_sim no)
-		(at 174.498 205.486 0)
-		(size -131.318 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "cdfded00-ed60-4854-b1a2-1c0c3450dabf")
-	)
-	(text_box "MCAN0_RX/UART5_TXD/TIMER_IO3/SYNC3_OUT/UART1_RIn/EQEP2_S/PR0_UART0_TXD/GPIO1_25/MCASP2_AXR1/EHRPWM_TZn_IN4\n"
-		(exclude_from_sim no)
-		(at 178.308 177.546 0)
-		(size -135.128 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "d84222ce-893e-4567-a38e-cc7caa0a34a0")
-	)
-	(text_box "VOUT0_HSYNC/GPMC0_A16/PR0_PRU1_GPO15/PR0_PRU1_GPI15/UART3_RTSn/PR0_PRU0_GPO6/PR0_PRU0_GPI6/GPIO0_61\n"
-		(exclude_from_sim no)
-		(at 367.538 225.806 0)
-		(size -126.238 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "e3511cec-3811-4102-9247-2241e49ac053")
-	)
-	(text_box "VOUT0_DATA12/GPMC0_A12/PR0_PRU1_GPO11/PR0_PRU1_GPI11/UART5_RTSn/PR0_PRU0_GPO2/PR0_PRU0_GPI2/GPIO0_57\n"
-		(exclude_from_sim no)
-		(at 368.808 235.966 0)
-		(size -127.508 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "e5b6f0ee-ab88-40d9-beff-5bff81f6dc08")
-	)
-	(text_box "SPI0_D1/CP_GEMAC_CPTS0_HW2TSPUSH/EHRPWM_TZn_IN0/GPIO1_19\n"
-		(exclude_from_sim no)
-		(at 114.808 220.726 0)
-		(size -71.628 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "e8f7f2f8-a70e-4a86-aac8-ac3f3ff9df09")
-	)
-	(text_box "UART0_TXD/ECAP2_IN_APWM_OUT/SPI2_D1/EHRPWM2_B/GPIO1_21\n"
-		(exclude_from_sim no)
-		(at 302.768 98.806 0)
-		(size -69.088 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "ee1077e3-b058-489c-989a-47240ada7edb")
-	)
-	(text_box "UART0_RXD/ECAP1_IN_APWM_OUT/SPI2_D0/EHRPWM2_A/GPIO1_20\n"
-		(exclude_from_sim no)
-		(at 302.768 103.886 0)
-		(size -69.088 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "ee319cf1-f3f2-4997-8e42-39bbb53f30c2")
-	)
-	(text_box "SPI0_CS1/CP_GEMAC_CPTS0_TS_COMP/EHRPWM0_B/ECAP0_IN_APWM_OUT/GPIO1_16/EHRPWM_TZn_IN5\n"
-		(exclude_from_sim no)
-		(at 347.218 246.126 0)
-		(size -105.918 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "ee3e1c22-7724-4c7e-9a78-d907b286a8c2")
-	)
-	(text_box "RGMII2_RX_CTL/RMII2_RX_ER/MCASP2_AXR3/PR0_PRU0_GPO0/PR0_PRU0_GPI0/GPIO1_1\n"
-		(exclude_from_sim no)
-		(at 149.098 73.406 0)
-		(size -93.218 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "fda0b76f-636f-436e-b0f6-580b410720f4")
-	)
-	(text_box "VOUT0_DATA0/GPMC0_A0/PR0_PRU1_GPO0/PR0_PRU1_GPI0/UART2_RXD/PR0_PRU0_GPO8/PR0_PRU0_GPI8/GPIO0_45\n"
-		(exclude_from_sim no)
-		(at 362.458 159.766 0)
-		(size -121.158 -2.286)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "ffb4d2aa-7524-486d-8d64-28a19b700717")
-	)
-	(text "VOUT0_DATA6/GPMC0_A6/PR0_PRU1_GPO6/PR0_PRU1_GPI6/UART5_RXD/PR0_PRU0_GPO14/PR0_PRU0_GPI14/GPIO0_51"
-		(exclude_from_sim no)
-		(at 241.3 215.646 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "59da7d02-15d9-42b5-a57a-18e76dd05830")
 	)
 	(symbol
 		(lib_id "pocketbeagle2-kicad-altium-import:GND_POWER_GROUND")

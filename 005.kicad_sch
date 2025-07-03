@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "804a9d24-2853-44a2-9db6-5565135da6d5")
 	(paper "User" 419.989 297.002)
 	(lib_symbols
@@ -65,7 +65,7 @@
 			(symbol "BAT_TS_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -77,7 +77,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -89,7 +89,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "BAT_TS"
 						(effects
 							(font
@@ -106,6 +107,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:CHG_N_ARROW"
 			(power)
@@ -167,7 +169,7 @@
 			(symbol "CHG_N_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -179,7 +181,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -191,7 +193,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "CHG_N"
 						(effects
 							(font
@@ -208,6 +211,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:EXTINTn_ARROW"
 			(power)
@@ -269,7 +273,7 @@
 			(symbol "EXTINTn_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -281,7 +285,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -293,7 +297,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "EXTINTn"
 						(effects
 							(font
@@ -310,6 +315,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:GND_POWER_GROUND"
 			(power)
@@ -431,7 +437,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "GND"
 						(effects
 							(font
@@ -448,6 +455,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:PMIC_LPM_EN0_ARROW"
 			(power)
@@ -509,7 +517,7 @@
 			(symbol "PMIC_LPM_EN0_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -521,7 +529,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -533,7 +541,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "PMIC_LPM_EN0"
 						(effects
 							(font
@@ -550,6 +559,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:PWR_BTN_ARROW"
 			(power)
@@ -611,7 +621,7 @@
 			(symbol "PWR_BTN_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -623,7 +633,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -635,7 +645,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "PWR_BTN"
 						(effects
 							(font
@@ -652,6 +663,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:RESETSTATz_ARROW"
 			(power)
@@ -713,7 +725,7 @@
 			(symbol "RESETSTATz_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -725,7 +737,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -737,7 +749,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "RESETSTATz"
 						(effects
 							(font
@@ -754,6 +767,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:SD_VOLT_SEL_ARROW"
 			(power)
@@ -815,7 +829,7 @@
 			(symbol "SD_VOLT_SEL_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -827,7 +841,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -839,7 +853,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "SD_VOLT_SEL"
 						(effects
 							(font
@@ -856,6 +871,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:USB_5V_BAR"
 			(power)
@@ -941,7 +957,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "USB_5V"
 						(effects
 							(font
@@ -958,6 +975,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:VBAT_BAR"
 			(power)
@@ -1043,7 +1061,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VBAT"
 						(effects
 							(font
@@ -1060,6 +1079,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:VDDA_0V85_BAR"
 			(power)
@@ -1145,7 +1165,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VDDA_0V85"
 						(effects
 							(font
@@ -1162,6 +1183,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:VDDA_1V8_BAR"
 			(power)
@@ -1247,7 +1269,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VDDA_1V8"
 						(effects
 							(font
@@ -1264,6 +1287,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:VDD_1V2_BAR"
 			(power)
@@ -1349,7 +1373,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VDD_1V2"
 						(effects
 							(font
@@ -1366,6 +1391,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:VDD_1V8_BAR"
 			(power)
@@ -1451,7 +1477,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VDD_1V8"
 						(effects
 							(font
@@ -1468,6 +1495,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:VDD_2V5_BAR"
 			(power)
@@ -1553,7 +1581,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VDD_2V5"
 						(effects
 							(font
@@ -1570,6 +1599,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:VDD_3V3_BAR"
 			(power)
@@ -1655,7 +1685,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VDD_3V3"
 						(effects
 							(font
@@ -1672,6 +1703,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:VDD_CORE_BAR"
 			(power)
@@ -1757,7 +1789,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VDD_CORE"
 						(effects
 							(font
@@ -1774,6 +1807,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:VDD_SD_BAR"
 			(power)
@@ -1859,7 +1893,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VDD_SD"
 						(effects
 							(font
@@ -1876,6 +1911,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:VIN_5V_BAR"
 			(power)
@@ -1961,7 +1997,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VIN_5V"
 						(effects
 							(font
@@ -1978,6 +2015,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:VSYS_BAR"
 			(power)
@@ -2063,7 +2101,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VSYS"
 						(effects
 							(font
@@ -2080,6 +2119,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:WKUP_I2C0_SCL_ARROW"
 			(power)
@@ -2141,7 +2181,7 @@
 			(symbol "WKUP_I2C0_SCL_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2153,7 +2193,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2165,7 +2205,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "WKUP_I2C0_SCL"
 						(effects
 							(font
@@ -2182,6 +2223,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:WKUP_I2C0_SDA_ARROW"
 			(power)
@@ -2243,7 +2285,7 @@
 			(symbol "WKUP_I2C0_SDA_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2255,7 +2297,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2267,7 +2309,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "WKUP_I2C0_SDA"
 						(effects
 							(font
@@ -2284,6 +2327,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:nRESET_ARROW"
 			(power)
@@ -2345,7 +2389,7 @@
 			(symbol "nRESET_ARROW_0_0"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2357,7 +2401,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+						(xy 0 0) (xy 0 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2369,7 +2413,8 @@
 				)
 				(pin power_in line
 					(at 0 0 0)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "nRESET"
 						(effects
 							(font
@@ -2386,6 +2431,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:root_0_BQ21040"
 			(exclude_from_sim no)
@@ -2456,53 +2502,17 @@
 						(type background)
 					)
 				)
-				(pin input line
-					(at 25.4 -10.16 180)
-					(length 5.08)
-					(name "TS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin power_in line
-					(at 25.4 -5.08 180)
+					(at -5.08 -5.08 0)
 					(length 5.08)
-					(name "OUT"
+					(name "IN"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin open_collector line
-					(at 25.4 -15.24 180)
-					(length 5.08)
-					(name "CHG_N"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2547,16 +2557,52 @@
 					)
 				)
 				(pin power_in line
-					(at -5.08 -5.08 0)
+					(at 25.4 -5.08 180)
 					(length 5.08)
-					(name "IN"
+					(name "OUT"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "6"
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 -10.16 180)
+					(length 5.08)
+					(name "TS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin open_collector line
+					(at 25.4 -15.24 180)
+					(length 5.08)
+					(name "CHG_N"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2565,6 +2611,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:root_0_CC_0"
 			(exclude_from_sim no)
@@ -2625,19 +2672,6 @@
 			(symbol "root_0_CC_0_1_0"
 				(polyline
 					(pts
-						(xy 0.254 -1.778) (xy 4.826 -1.778)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-						(color 0 11 255 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
 						(xy 0.254 -0.508) (xy 4.826 -0.508)
 					)
 					(stroke
@@ -2651,7 +2685,7 @@
 				)
 				(polyline
 					(pts
-						(xy 2.54 -2.54) (xy 2.54 -1.778)
+						(xy 0.254 -1.778) (xy 4.826 -1.778)
 					)
 					(stroke
 						(width 0.254)
@@ -2665,6 +2699,19 @@
 				(polyline
 					(pts
 						(xy 2.54 0) (xy 2.54 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 -1.778)
 					)
 					(stroke
 						(width 0.254)
@@ -2712,6 +2759,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:root_0_CC_1"
 			(exclude_from_sim no)
@@ -2859,6 +2907,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:root_0_LM73100RPWR"
 			(exclude_from_sim no)
@@ -2929,6 +2978,24 @@
 						(type background)
 					)
 				)
+				(pin power_in line
+					(at -5.08 -5.08 0)
+					(length 5.08)
+					(name "IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin input line
 					(at -5.08 -12.7 0)
 					(length 5.08)
@@ -2940,24 +3007,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -20.32 0)
-					(length 5.08)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2983,17 +3032,17 @@
 						)
 					)
 				)
-				(pin open_collector line
-					(at 27.94 -15.24 180)
+				(pin output line
+					(at -5.08 -17.78 0)
 					(length 5.08)
-					(name "PG"
+					(name "dVdt"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "3"
+					(number "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3001,35 +3050,17 @@
 						)
 					)
 				)
-				(pin input line
-					(at 27.94 -12.7 180)
+				(pin passive line
+					(at -5.08 -20.32 0)
 					(length 5.08)
-					(name "PGTH"
+					(name "NC"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -5.08 -5.08 0)
-					(length 5.08)
-					(name "IN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
+					(number "10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3055,17 +3086,17 @@
 						)
 					)
 				)
-				(pin output line
-					(at -5.08 -17.78 0)
+				(pin input line
+					(at 27.94 -12.7 180)
 					(length 5.08)
-					(name "dVdt"
+					(name "PGTH"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "7"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3073,17 +3104,17 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 27.94 -20.32 180)
+				(pin open_collector line
+					(at 27.94 -15.24 180)
 					(length 5.08)
-					(name "GND"
+					(name "PG"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "8"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3109,7 +3140,26 @@
 						)
 					)
 				)
+				(pin power_in line
+					(at 27.94 -20.32 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:root_0_L_0"
 			(exclude_from_sim no)
@@ -3169,20 +3219,8 @@
 			)
 			(symbol "root_0_L_0_1_0"
 				(arc
-					(start 1.27 -1.27)
+					(start 0 -2.54)
 					(mid 0.372 -1.642)
-					(end 0 -2.54)
-					(stroke
-						(width 0.0254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.54 -2.54)
-					(mid 2.168 -1.642)
 					(end 1.27 -1.27)
 					(stroke
 						(width 0.0254)
@@ -3193,8 +3231,8 @@
 					)
 				)
 				(arc
-					(start 3.81 -1.27)
-					(mid 2.912 -1.642)
+					(start 1.27 -1.27)
+					(mid 2.168 -1.642)
 					(end 2.54 -2.54)
 					(stroke
 						(width 0.0254)
@@ -3205,8 +3243,8 @@
 					)
 				)
 				(arc
-					(start 5.08 -2.54)
-					(mid 4.708 -1.642)
+					(start 2.54 -2.54)
+					(mid 2.912 -1.642)
 					(end 3.81 -1.27)
 					(stroke
 						(width 0.0254)
@@ -3217,8 +3255,8 @@
 					)
 				)
 				(arc
-					(start 6.35 -1.27)
-					(mid 5.452 -1.642)
+					(start 3.81 -1.27)
+					(mid 4.708 -1.642)
 					(end 5.08 -2.54)
 					(stroke
 						(width 0.0254)
@@ -3229,8 +3267,8 @@
 					)
 				)
 				(arc
-					(start 7.62 -2.54)
-					(mid 7.248 -1.642)
+					(start 5.08 -2.54)
+					(mid 5.452 -1.642)
 					(end 6.35 -1.27)
 					(stroke
 						(width 0.0254)
@@ -3241,8 +3279,8 @@
 					)
 				)
 				(arc
-					(start 8.89 -1.27)
-					(mid 7.992 -1.642)
+					(start 6.35 -1.27)
+					(mid 7.248 -1.642)
 					(end 7.62 -2.54)
 					(stroke
 						(width 0.0254)
@@ -3253,9 +3291,21 @@
 					)
 				)
 				(arc
-					(start 10.16 -2.54)
-					(mid 9.788 -1.642)
+					(start 7.62 -2.54)
+					(mid 7.992 -1.642)
 					(end 8.89 -1.27)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 8.89 -1.27)
+					(mid 9.788 -1.642)
+					(end 10.16 -2.54)
 					(stroke
 						(width 0.0254)
 						(type solid)
@@ -3301,6 +3351,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:root_0_R_0"
 			(exclude_from_sim no)
@@ -3361,7 +3412,7 @@
 			(symbol "root_0_R_0_1_0"
 				(polyline
 					(pts
-						(xy 1.778 -5.334) (xy 3.302 -6.858)
+						(xy 1.778 -2.286) (xy 3.302 -3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -3374,7 +3425,7 @@
 				)
 				(polyline
 					(pts
-						(xy 1.778 -2.286) (xy 3.302 -3.81)
+						(xy 1.778 -5.334) (xy 3.302 -6.858)
 					)
 					(stroke
 						(width 0.254)
@@ -3400,7 +3451,7 @@
 				)
 				(polyline
 					(pts
-						(xy 3.302 -6.858) (xy 2.54 -7.62)
+						(xy 3.302 -0.762) (xy 1.778 -2.286)
 					)
 					(stroke
 						(width 0.254)
@@ -3426,7 +3477,7 @@
 				)
 				(polyline
 					(pts
-						(xy 3.302 -0.762) (xy 1.778 -2.286)
+						(xy 3.302 -6.858) (xy 2.54 -7.62)
 					)
 					(stroke
 						(width 0.254)
@@ -3474,6 +3525,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:root_0_R_1"
 			(exclude_from_sim no)
@@ -3647,6 +3699,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:root_0_TLV62595DMQR"
 			(exclude_from_sim no)
@@ -3717,6 +3770,24 @@
 						(type background)
 					)
 				)
+				(pin power_in line
+					(at -5.08 -5.08 0)
+					(length 5.08)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin input line
 					(at -5.08 -10.16 0)
 					(length 5.08)
@@ -3746,6 +3817,24 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -5.08 180)
+					(length 5.08)
+					(name "SW"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3789,43 +3878,8 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 30.48 -5.08 180)
-					(length 5.08)
-					(name "SW"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -5.08 -5.08 0)
-					(length 5.08)
-					(name "VIN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:root_0_TPS65219"
 			(exclude_from_sim no)
@@ -3886,7 +3940,7 @@
 			(symbol "root_0_TPS65219_1_0"
 				(polyline
 					(pts
-						(xy 15.24 -73.66) (xy 17.78 -73.66)
+						(xy 15.24 -7.62) (xy 17.78 -7.62)
 					)
 					(stroke
 						(width 0.254)
@@ -3912,98 +3966,7 @@
 				)
 				(polyline
 					(pts
-						(xy 15.24 -7.62) (xy 17.78 -7.62)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-						(color 0 11 255 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 17.78 -91.44) (xy 15.24 -91.44)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-						(color 0 11 255 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 17.78 -86.36) (xy 15.24 -86.36)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-						(color 0 11 255 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 17.78 -72.39) (xy 38.1 -72.39)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-						(color 0 11 255 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 17.78 -69.85) (xy 38.1 -69.85)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-						(color 0 11 255 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 17.78 -68.58) (xy 15.24 -68.58)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-						(color 0 11 255 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 17.78 -48.26) (xy 15.24 -48.26)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-						(color 0 11 255 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 17.78 -27.94) (xy 15.24 -27.94)
+						(xy 15.24 -73.66) (xy 17.78 -73.66)
 					)
 					(stroke
 						(width 0.254)
@@ -4029,7 +3992,7 @@
 				)
 				(polyline
 					(pts
-						(xy 38.1 -76.2) (xy 40.64 -76.2)
+						(xy 17.78 -27.94) (xy 15.24 -27.94)
 					)
 					(stroke
 						(width 0.254)
@@ -4042,7 +4005,7 @@
 				)
 				(polyline
 					(pts
-						(xy 38.1 -73.66) (xy 40.64 -73.66)
+						(xy 17.78 -48.26) (xy 15.24 -48.26)
 					)
 					(stroke
 						(width 0.254)
@@ -4055,7 +4018,7 @@
 				)
 				(polyline
 					(pts
-						(xy 38.1 -71.12) (xy 40.64 -71.12)
+						(xy 17.78 -68.58) (xy 15.24 -68.58)
 					)
 					(stroke
 						(width 0.254)
@@ -4068,7 +4031,7 @@
 				)
 				(polyline
 					(pts
-						(xy 38.1 -68.58) (xy 40.64 -68.58)
+						(xy 17.78 -69.85) (xy 38.1 -69.85)
 					)
 					(stroke
 						(width 0.254)
@@ -4081,7 +4044,7 @@
 				)
 				(polyline
 					(pts
-						(xy 38.1 -55.88) (xy 40.64 -55.88)
+						(xy 17.78 -72.39) (xy 38.1 -72.39)
 					)
 					(stroke
 						(width 0.254)
@@ -4094,7 +4057,7 @@
 				)
 				(polyline
 					(pts
-						(xy 38.1 -48.26) (xy 40.64 -48.26)
+						(xy 17.78 -86.36) (xy 15.24 -86.36)
 					)
 					(stroke
 						(width 0.254)
@@ -4107,7 +4070,7 @@
 				)
 				(polyline
 					(pts
-						(xy 38.1 -35.56) (xy 40.64 -35.56)
+						(xy 17.78 -91.44) (xy 15.24 -91.44)
 					)
 					(stroke
 						(width 0.254)
@@ -4118,22 +4081,21 @@
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy 38.1 -27.94) (xy 40.64 -27.94)
-					)
+				(rectangle
+					(start 38.1 -2.54)
+					(end 17.78 -17.78)
 					(stroke
 						(width 0.254)
 						(type solid)
 						(color 0 11 255 1)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
 				(polyline
 					(pts
-						(xy 38.1 -15.24) (xy 40.64 -15.24)
+						(xy 38.1 -5.08) (xy 40.64 -5.08)
 					)
 					(stroke
 						(width 0.254)
@@ -4159,7 +4121,147 @@
 				)
 				(polyline
 					(pts
-						(xy 38.1 -5.08) (xy 40.64 -5.08)
+						(xy 38.1 -15.24) (xy 40.64 -15.24)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 38.1 -25.4)
+					(end 17.78 -38.1)
+					(stroke
+						(width 0.254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 -27.94) (xy 40.64 -27.94)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 -35.56) (xy 40.64 -35.56)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 38.1 -45.72)
+					(end 17.78 -58.42)
+					(stroke
+						(width 0.254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 -48.26) (xy 40.64 -48.26)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 -55.88) (xy 40.64 -55.88)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 38.1 -67.056)
+					(end 17.78 -77.978)
+					(stroke
+						(width 0.254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 -68.58) (xy 40.64 -68.58)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 -71.12) (xy 40.64 -71.12)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 -73.66) (xy 40.64 -73.66)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 -76.2) (xy 40.64 -76.2)
 					)
 					(stroke
 						(width 0.254)
@@ -4183,54 +4285,6 @@
 					)
 				)
 				(rectangle
-					(start 38.1 -67.056)
-					(end 17.78 -77.978)
-					(stroke
-						(width 0.254)
-						(type solid)
-						(color 0 11 255 1)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start 38.1 -45.72)
-					(end 17.78 -58.42)
-					(stroke
-						(width 0.254)
-						(type solid)
-						(color 0 11 255 1)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start 38.1 -25.4)
-					(end 17.78 -38.1)
-					(stroke
-						(width 0.254)
-						(type solid)
-						(color 0 11 255 1)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start 38.1 -2.54)
-					(end 17.78 -17.78)
-					(stroke
-						(width 0.254)
-						(type solid)
-						(color 0 11 255 1)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
 					(start 53.34 0)
 					(end 0 -127)
 					(stroke
@@ -4242,26 +4296,8 @@
 						(type background)
 					)
 				)
-				(text "Buck1"
-					(at 25.4 -9.906 0)
-					(effects
-						(font
-							(size 1.143 1.143)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "Buck2"
-					(at 25.4 -32.766 0)
-					(effects
-						(font
-							(size 1.143 1.143)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "Buck3"
-					(at 25.4 -53.086 0)
+				(text "INT LDO"
+					(at 22.86 -88.646 0)
 					(effects
 						(font
 							(size 1.143 1.143)
@@ -4271,15 +4307,6 @@
 				)
 				(text "DIGITAL"
 					(at 22.86 -111.506 0)
-					(effects
-						(font
-							(size 1.143 1.143)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "INT LDO"
-					(at 22.86 -88.646 0)
 					(effects
 						(font
 							(size 1.143 1.143)
@@ -4323,17 +4350,44 @@
 						(justify left bottom)
 					)
 				)
-				(pin passive line
-					(at 60.96 -15.24 180)
+				(text "Buck1"
+					(at 25.4 -9.906 0)
+					(effects
+						(font
+							(size 1.143 1.143)
+						)
+						(justify left bottom)
+					)
+				)
+				(text "Buck2"
+					(at 25.4 -32.766 0)
+					(effects
+						(font
+							(size 1.143 1.143)
+						)
+						(justify left bottom)
+					)
+				)
+				(text "Buck3"
+					(at 25.4 -53.086 0)
+					(effects
+						(font
+							(size 1.143 1.143)
+						)
+						(justify left bottom)
+					)
+				)
+				(pin power_in line
+					(at -7.62 -5.08 0)
 					(length 7.62)
-					(name "FB_B1"
+					(name "PVIN_B1_1"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "1"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4341,17 +4395,17 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -7.62 -109.22 0)
+				(pin power_in line
+					(at -7.62 -7.62 0)
 					(length 7.62)
-					(name "SCL"
+					(name "PVIN_B1_2"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "10"
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4359,17 +4413,17 @@
 						)
 					)
 				)
-				(pin output line
-					(at 60.96 -104.14 180)
+				(pin power_in line
+					(at -7.62 -27.94 0)
 					(length 7.62)
-					(name "nINT"
+					(name "PVIN_B2"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "11"
+					(number "30"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4377,17 +4431,71 @@
 						)
 					)
 				)
-				(pin input line
-					(at -7.62 -116.84 0)
+				(pin power_in line
+					(at -7.62 -48.26 0)
 					(length 7.62)
-					(name "VSEL_SD/VSEL_DDR"
+					(name "PVIN_B3"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "12"
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -7.62 -68.58 0)
+					(length 7.62)
+					(name "PVIN_LDO1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -7.62 -71.12 0)
+					(length 7.62)
+					(name "PVIN_LDO2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -7.62 -73.66 0)
+					(length 7.62)
+					(name "PVIN_LDO34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4431,17 +4539,341 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 60.96 -119.38 180)
+				(pin passive line
+					(at -7.62 -109.22 0)
 					(length 7.62)
-					(name "AGND"
+					(name "SCL"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "15"
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -111.76 0)
+					(length 7.62)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -114.3 0)
+					(length 7.62)
+					(name "EN/PB/VSENSE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -116.84 0)
+					(length 7.62)
+					(name "VSEL_SD/VSEL_DDR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -119.38 0)
+					(length 7.62)
+					(name "MODE_RESET"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -121.92 0)
+					(length 7.62)
+					(name "MODE_STBY"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 60.96 -5.08 180)
+					(length 7.62)
+					(name "LX_B1_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 60.96 -7.62 180)
+					(length 7.62)
+					(name "LX_B1_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 60.96 -15.24 180)
+					(length 7.62)
+					(name "FB_B1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 60.96 -27.94 180)
+					(length 7.62)
+					(name "LX_B2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 60.96 -35.56 180)
+					(length 7.62)
+					(name "FB_B2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 60.96 -48.26 180)
+					(length 7.62)
+					(name "LX_B3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 60.96 -55.88 180)
+					(length 7.62)
+					(name "FB_B3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 60.96 -68.58 180)
+					(length 7.62)
+					(name "VLDO1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 60.96 -71.12 180)
+					(length 7.62)
+					(name "VLDO2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 60.96 -73.66 180)
+					(length 7.62)
+					(name "VLDO3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 60.96 -76.2 180)
+					(length 7.62)
+					(name "VLDO4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 60.96 -101.6 180)
+					(length 7.62)
+					(name "nRSTOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 60.96 -104.14 180)
+					(length 7.62)
+					(name "nINT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4486,16 +4918,16 @@
 					)
 				)
 				(pin output line
-					(at 60.96 -101.6 180)
+					(at 60.96 -114.3 180)
 					(length 7.62)
-					(name "nRSTOUT"
+					(name "GPO1"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "18"
+					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4504,286 +4936,16 @@
 					)
 				)
 				(pin power_in line
-					(at 60.96 -71.12 180)
+					(at 60.96 -119.38 180)
 					(length 7.62)
-					(name "VLDO2"
+					(name "AGND"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 60.96 -5.08 180)
-					(length 7.62)
-					(name "LX_B1_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -7.62 -71.12 0)
-					(length 7.62)
-					(name "PVIN_LDO2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 60.96 -73.66 180)
-					(length 7.62)
-					(name "VLDO3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -7.62 -73.66 0)
-					(length 7.62)
-					(name "PVIN_LDO34"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 60.96 -76.2 180)
-					(length 7.62)
-					(name "VLDO4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "23"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 60.96 -55.88 180)
-					(length 7.62)
-					(name "FB_B3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "24"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -114.3 0)
-					(length 7.62)
-					(name "EN/PB/VSENSE"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "25"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -7.62 -48.26 0)
-					(length 7.62)
-					(name "PVIN_B3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "26"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 60.96 -48.26 180)
-					(length 7.62)
-					(name "LX_B3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "27"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 -119.38 0)
-					(length 7.62)
-					(name "MODE_RESET"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "28"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 60.96 -27.94 180)
-					(length 7.62)
-					(name "LX_B2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "29"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 60.96 -7.62 180)
-					(length 7.62)
-					(name "LX_B1_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -7.62 -27.94 0)
-					(length 7.62)
-					(name "PVIN_B2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "30"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 -121.92 0)
-					(length 7.62)
-					(name "MODE_STBY"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "31"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 60.96 -35.56 180)
-					(length 7.62)
-					(name "FB_B2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "32"
+					(number "15"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4809,115 +4971,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -7.62 -5.08 0)
-					(length 7.62)
-					(name "PVIN_B1_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -7.62 -7.62 0)
-					(length 7.62)
-					(name "PVIN_B1_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -7.62 -68.58 0)
-					(length 7.62)
-					(name "PVIN_LDO1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 60.96 -68.58 180)
-					(length 7.62)
-					(name "VLDO1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 60.96 -114.3 180)
-					(length 7.62)
-					(name "GPO1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -111.76 0)
-					(length 7.62)
-					(name "SDA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "pocketbeagle2-kicad-altium-import:root_0_Test Point"
 			(exclude_from_sim no)
@@ -5007,7 +5062,381 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
+	)
+	(circle
+		(center 144.526 19.05)
+		(radius 0.254)
+		(stroke
+			(width 0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c61b45d6-53b2-4c56-9165-b8bfb4c3c28e)
+	)
+	(circle
+		(center 153.67 19.05)
+		(radius 0.254)
+		(stroke
+			(width 0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f645f79e-e934-4af1-9419-ffa270fec760)
+	)
+	(text "PMIC"
+		(exclude_from_sim no)
+		(at 219.71 123.952 0)
+		(effects
+			(font
+				(size 3.556 3.556)
+				(thickness 0.7112)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "06936ce4-382f-4e71-adbc-496f4ec0ab49")
+	)
+	(text "VBAT"
+		(exclude_from_sim no)
+		(at 132.08 30.226 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "161b748e-36a5-4d78-85e1-f119a7efe664")
+	)
+	(text "${0.6V X (1}${560K / 124K)}"
+		(exclude_from_sim no)
+		(at 77.47 192.786 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "16f164b1-5942-4fd1-86d2-1209552825ed")
+	)
+	(text "0.4A"
+		(exclude_from_sim no)
+		(at 275.59 213.106 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "2f04b0fe-a472-4dae-89d2-a6cf883378e4")
+	)
+	(text "2A"
+		(exclude_from_sim no)
+		(at 341.63 172.466 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "361cbb74-b854-4908-a000-2d3850ffafa3")
+	)
+	(text "2A"
+		(exclude_from_sim no)
+		(at 359.41 192.786 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "476527e1-97ba-42f5-87f8-aa3211d7a52c")
+	)
+	(text "${3.309V}"
+		(exclude_from_sim no)
+		(at 77.47 197.866 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "5039ecfa-d645-42a2-9ea6-ae8550190a85")
+	)
+	(text "0.75V"
+		(exclude_from_sim no)
+		(at 326.39 149.606 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "5f1c2617-b40d-48ce-bb90-c79b0f693acd")
+	)
+	(text "DCDC 3V3"
+		(exclude_from_sim no)
+		(at 16.51 123.952 0)
+		(effects
+			(font
+				(size 3.556 3.556)
+				(thickness 0.7112)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "63b07720-f19e-4656-b87e-1378257acb70")
+	)
+	(text "0.4A"
+		(exclude_from_sim no)
+		(at 293.37 215.646 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "767b1c00-21cd-446f-954b-4590a130b20d")
+	)
+	(text "${0.6V X 5.516}"
+		(exclude_from_sim no)
+		(at 77.47 195.326 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "79b7565c-858c-432c-a6f1-bb3159d1681d")
+	)
+	(text "VIN"
+		(exclude_from_sim no)
+		(at 133.096 20.066 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "88f04927-05e9-4888-b1bd-e9af9572c550")
+	)
+	(text "ISET = 540mA"
+		(exclude_from_sim no)
+		(at 317.5 45.466 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "8b695ece-e2ed-4311-85e8-cd4f4124c9fc")
+	)
+	(text "VSYS"
+		(exclude_from_sim no)
+		(at 157.226 20.066 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "8f1df3f4-f9e6-473d-80d4-730643569cba")
+	)
+	(text "ADC REF VOLTAGE SELECT"
+		(exclude_from_sim no)
+		(at 59.69 263.906 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "93637f12-6e31-464e-82de-d05ecbee6020")
+	)
+	(text "Vout = Vfb x (1 + R260/ R261)"
+		(exclude_from_sim no)
+		(at 72.39 190.246 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "97241ffe-826d-41c4-8509-665cd2c487bf")
+	)
+	(text "0.3A"
+		(exclude_from_sim no)
+		(at 311.15 218.186 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "9c4791e5-9d77-4158-a8d2-7b2a37a355fe")
+	)
+	(text "USB_5V"
+		(exclude_from_sim no)
+		(at 129.54 25.4 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "a7d7cd13-ef3d-41de-830e-fd3b13d9a739")
+	)
+	(text "Battery Charger"
+		(exclude_from_sim no)
+		(at 279.4 17.272 0)
+		(effects
+			(font
+				(size 3.556 3.556)
+				(thickness 0.7112)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "b957ae69-ddc2-4c11-ae5a-4c39cc80ac66")
+	)
+	(text "3.5A"
+		(exclude_from_sim no)
+		(at 326.39 152.146 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "d607ee1e-db38-40de-a484-eba721256f6d")
+	)
+	(text "3A"
+		(exclude_from_sim no)
+		(at 148.59 141.986 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "deb66bd7-48aa-4e4e-aacf-45dd4551c5bb")
+	)
+	(text "0.3A"
+		(exclude_from_sim no)
+		(at 328.93 220.726 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "ede227b2-f292-49c1-b85f-17e0135e6568")
+	)
+	(text "Power Path"
+		(exclude_from_sim no)
+		(at 21.59 17.272 0)
+		(effects
+			(font
+				(size 3.556 3.556)
+				(thickness 0.7112)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "f3bff582-f590-4e44-bc82-bf6d263e5f14")
+	)
+	(text_box "OVLO set point: 4.6V 3%\nUVLO set point: 3.2V 3%\nUV_rising: 3.2V\nUV_falling: 2.9V\nOV_rising: 4.6V\nOV_falling:4.2V"
+		(exclude_from_sim no)
+		(at 216.408 102.616 0)
+		(size -29.718 -13.716)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "01321232-fb0e-4b94-bef2-1d1ff8101b86")
+	)
+	(text_box "OVLO set point: 5.5V 3%\nUVLO set point: 3.8V 3%\nUV_rising: 3.8V\nUV_falling: 3.5V\nOV_rising: 5.5V\nOV_falling:5.05V"
+		(exclude_from_sim no)
+		(at 132.588 102.616 0)
+		(size -29.718 -13.716)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "47d44591-c3d0-45c8-ab5b-8abb7bd7a7a0")
+	)
+	(text_box "It is turned off if either VIN_5V\nor USB_5V is present."
+		(exclude_from_sim no)
+		(at 229.108 108.712 0)
+		(size -42.418 -4.572)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "4d0b7199-cd11-4035-8d4c-51aa1614ede9")
+	)
+	(text_box "OVLO set point: 5.5V 3%\nUVLO set point: 3.8V 3%\nUV_rising: 3.8V\nUV_falling: 3.5V\nOV_rising: 5.5V\nOV_falling:5.05V"
+		(exclude_from_sim no)
+		(at 48.768 102.616 0)
+		(size -29.718 -13.716)
+		(margins 0.8572 0.8572 0.8572 0.8572)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left top)
+		)
+		(uuid "b69b8a5b-9ae4-4f3b-96f1-48176ac56693")
 	)
 	(junction
 		(at 143.51 180.34)
@@ -8596,30 +9025,6 @@
 			(type default)
 		)
 		(uuid "ffc5795b-1898-4e1b-bcf1-7220e27aa53e")
-	)
-	(circle
-		(center 144.526 19.05)
-		(radius 0.254)
-		(stroke
-			(width 0.0001)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(uuid c61b45d6-53b2-4c56-9165-b8bfb4c3c28e)
-	)
-	(circle
-		(center 153.67 19.05)
-		(radius 0.254)
-		(stroke
-			(width 0.0001)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(uuid f645f79e-e934-4af1-9419-ffa270fec760)
 	)
 	(image
 		(at 389.2165 256.921)
@@ -13039,351 +13444,6 @@
 			"////////////////////////////////////////////////////////////////////////////"
 			"AAA="
 		)
-	)
-	(text_box "OVLO set point: 4.6V 3%\nUVLO set point: 3.2V 3%\nUV_rising: 3.2V\nUV_falling: 2.9V\nOV_rising: 4.6V\nOV_falling:4.2V"
-		(exclude_from_sim no)
-		(at 216.408 102.616 0)
-		(size -29.718 -13.716)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "01321232-fb0e-4b94-bef2-1d1ff8101b86")
-	)
-	(text_box "OVLO set point: 5.5V 3%\nUVLO set point: 3.8V 3%\nUV_rising: 3.8V\nUV_falling: 3.5V\nOV_rising: 5.5V\nOV_falling:5.05V"
-		(exclude_from_sim no)
-		(at 132.588 102.616 0)
-		(size -29.718 -13.716)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "47d44591-c3d0-45c8-ab5b-8abb7bd7a7a0")
-	)
-	(text_box "It is turned off if either VIN_5V\nor USB_5V is present."
-		(exclude_from_sim no)
-		(at 229.108 108.712 0)
-		(size -42.418 -4.572)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "4d0b7199-cd11-4035-8d4c-51aa1614ede9")
-	)
-	(text_box "OVLO set point: 5.5V 3%\nUVLO set point: 3.8V 3%\nUV_rising: 3.8V\nUV_falling: 3.5V\nOV_rising: 5.5V\nOV_falling:5.05V"
-		(exclude_from_sim no)
-		(at 48.768 102.616 0)
-		(size -29.718 -13.716)
-		(stroke
-			(width -0.0001)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left top)
-		)
-		(uuid "b69b8a5b-9ae4-4f3b-96f1-48176ac56693")
-	)
-	(text "PMIC"
-		(exclude_from_sim no)
-		(at 219.71 123.952 0)
-		(effects
-			(font
-				(size 3.556 3.556)
-				(thickness 0.7112)
-				(bold yes)
-				(italic yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "06936ce4-382f-4e71-adbc-496f4ec0ab49")
-	)
-	(text "VBAT"
-		(exclude_from_sim no)
-		(at 132.08 30.226 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "161b748e-36a5-4d78-85e1-f119a7efe664")
-	)
-	(text "${0.6V X (1}${560K / 124K)}"
-		(exclude_from_sim no)
-		(at 77.47 192.786 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "16f164b1-5942-4fd1-86d2-1209552825ed")
-	)
-	(text "0.4A"
-		(exclude_from_sim no)
-		(at 275.59 213.106 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "2f04b0fe-a472-4dae-89d2-a6cf883378e4")
-	)
-	(text "2A"
-		(exclude_from_sim no)
-		(at 341.63 172.466 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "361cbb74-b854-4908-a000-2d3850ffafa3")
-	)
-	(text "2A"
-		(exclude_from_sim no)
-		(at 359.41 192.786 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "476527e1-97ba-42f5-87f8-aa3211d7a52c")
-	)
-	(text "${3.309V}"
-		(exclude_from_sim no)
-		(at 77.47 197.866 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "5039ecfa-d645-42a2-9ea6-ae8550190a85")
-	)
-	(text "0.75V"
-		(exclude_from_sim no)
-		(at 326.39 149.606 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "5f1c2617-b40d-48ce-bb90-c79b0f693acd")
-	)
-	(text "DCDC 3V3"
-		(exclude_from_sim no)
-		(at 16.51 123.952 0)
-		(effects
-			(font
-				(size 3.556 3.556)
-				(thickness 0.7112)
-				(bold yes)
-				(italic yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "63b07720-f19e-4656-b87e-1378257acb70")
-	)
-	(text "0.4A"
-		(exclude_from_sim no)
-		(at 293.37 215.646 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "767b1c00-21cd-446f-954b-4590a130b20d")
-	)
-	(text "${0.6V X 5.516}"
-		(exclude_from_sim no)
-		(at 77.47 195.326 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "79b7565c-858c-432c-a6f1-bb3159d1681d")
-	)
-	(text "VIN"
-		(exclude_from_sim no)
-		(at 133.096 20.066 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "88f04927-05e9-4888-b1bd-e9af9572c550")
-	)
-	(text "ISET = 540mA"
-		(exclude_from_sim no)
-		(at 317.5 45.466 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "8b695ece-e2ed-4311-85e8-cd4f4124c9fc")
-	)
-	(text "VSYS"
-		(exclude_from_sim no)
-		(at 157.226 20.066 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "8f1df3f4-f9e6-473d-80d4-730643569cba")
-	)
-	(text "ADC REF VOLTAGE SELECT"
-		(exclude_from_sim no)
-		(at 59.69 263.906 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "93637f12-6e31-464e-82de-d05ecbee6020")
-	)
-	(text "Vout = Vfb x (1 + R260/ R261)"
-		(exclude_from_sim no)
-		(at 72.39 190.246 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "97241ffe-826d-41c4-8509-665cd2c487bf")
-	)
-	(text "0.3A"
-		(exclude_from_sim no)
-		(at 311.15 218.186 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "9c4791e5-9d77-4158-a8d2-7b2a37a355fe")
-	)
-	(text "USB_5V"
-		(exclude_from_sim no)
-		(at 129.54 25.4 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "a7d7cd13-ef3d-41de-830e-fd3b13d9a739")
-	)
-	(text "Battery Charger"
-		(exclude_from_sim no)
-		(at 279.4 17.272 0)
-		(effects
-			(font
-				(size 3.556 3.556)
-				(thickness 0.7112)
-				(bold yes)
-				(italic yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "b957ae69-ddc2-4c11-ae5a-4c39cc80ac66")
-	)
-	(text "3.5A"
-		(exclude_from_sim no)
-		(at 326.39 152.146 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "d607ee1e-db38-40de-a484-eba721256f6d")
-	)
-	(text "3A"
-		(exclude_from_sim no)
-		(at 148.59 141.986 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "deb66bd7-48aa-4e4e-aacf-45dd4551c5bb")
-	)
-	(text "0.3A"
-		(exclude_from_sim no)
-		(at 328.93 220.726 0)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify left bottom)
-		)
-		(uuid "ede227b2-f292-49c1-b85f-17e0135e6568")
-	)
-	(text "Power Path"
-		(exclude_from_sim no)
-		(at 21.59 17.272 0)
-		(effects
-			(font
-				(size 3.556 3.556)
-				(thickness 0.7112)
-				(bold yes)
-				(italic yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "f3bff582-f590-4e44-bc82-bf6d263e5f14")
 	)
 	(label "VDD_3V3_EN"
 		(at 21.59 165.1 0)
